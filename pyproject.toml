@@ -1,0 +1,25 @@
+[project]
+name = "callejerosantanderquizz"
+version = "0.1.0"
+description = "Backend for Callejero Santander Quizz mobile app"
+authors = [{name = "Callejero Santander", email = "info@example.com"}]
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.112.0",
+    "uvicorn[standard]>=0.30.0",
+    "sqlalchemy>=2.0.0",
+    "alembic>=1.13.0",
+    "pydantic[email]>=2.8.0",
+    "passlib[bcrypt]>=1.7.4",
+    "python-dateutil>=2.9.0.post0"
+]
+
+[project.optional-dependencies]
+test = [
+    "pytest>=8.2.0",
+    "pytest-asyncio>=0.23.0"
+]
+
+[build-system]
+requires = ["setuptools>=67.0"]
+build-backend = "setuptools.build_meta"
