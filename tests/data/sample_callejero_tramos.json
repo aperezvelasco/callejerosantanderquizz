@@ -1,0 +1,42 @@
+[
+  {
+    "calle": "Calle Castilla",
+    "desde": "Calle Ruiz Zorrilla",
+    "hasta": "Calle Marqués de la Hermida"
+  },
+  {
+    "calle": "Calle Castilla",
+    "desde": "Calle Marqués de la Hermida",
+    "hasta": "Calle Antonio López"
+  },
+  {
+    "calle": "Calle Castilla",
+    "desde": "Calle Antonio López",
+    "hasta": "Calle Cádiz"
+  },
+  {
+    "calle": "Calle Ruiz Zorrilla",
+    "desde": "Calle Burgos",
+    "hasta": "Calle Castilla"
+  },
+  {
+    "calle": "Calle Antonio López",
+    "desde": "Calle Castilla",
+    "hasta": "Calle Marqués de la Hermida"
+  },
+  {
+    "calle": "Calle Marqués de la Hermida",
+    "desde": "Calle Castilla",
+    "hasta": "Calle Argentina"
+  },
+  {
+    "calle": "Calle Argentina",
+    "desde": "Calle Marqués de la Hermida",
+    "hasta": "Calle Cádiz"
+  },
+  {
+    "calle": "Calle Cádiz",
+    "desde": "Calle Castilla",
+    "hasta": "Calle Castelar"
+  }
+]
