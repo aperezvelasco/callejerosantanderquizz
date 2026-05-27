@@ -6,6 +6,10 @@ import os
 from functools import lru_cache
 from pathlib import Path
 from pydantic import BaseModel, Field
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 
 class Settings(BaseModel):
