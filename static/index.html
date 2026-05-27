@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SantandercallejerIA | El Juego del Callejero</title>
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- Leaflet Map CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+    
+    
+    <!-- App CSS -->
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body class="dark-theme">
+    <div class="glass-bg"></div>
+    
+    <header class="app-header">
+        <div class="header-container">
+            <div class="app-logo">
+                <span class="logo-icon">🗺️</span>
+                <div class="logo-text">
+                    <h1>SantandercallejerIA</h1>
+                    <p>El juego del callejero de Santander</p>
+                </div>
+            </div>
+            
+            <nav class="app-nav">
+                <button class="nav-btn active" data-tab="welcome-tab">
+                    <span class="btn-icon">🏠</span> Inicio
+                </button>
+                <button class="nav-btn" data-tab="map-game-tab">
+                    <span class="btn-icon">🎯</span> Mapa Ciego
+                </button>
+                <button class="nav-btn" data-tab="quiz-tab">
+                    <span class="btn-icon">📝</span> Quiz Diario
+                </button>
+                <button class="nav-btn" data-tab="leaderboard-tab">
+                    <span class="btn-icon">🏆</span> Clasificación
+                </button>
+            </nav>
+            
+            <div class="header-actions">
+                <div class="user-badge hidden" id="user-badge-container">
+                    <span class="user-avatar">👤</span>
+                    <span class="username" id="display-username"></span>
+                </div>
+                <button class="btn-logout hidden" id="btn-logout" title="Cerrar Sesión">Cerrar Sesión</button>
+                <button class="theme-toggle-btn" id="theme-toggle" title="Cambiar tema">🌓</button>
+            </div>
+        </div>
+    </header>
+
+    <main class="app-content">
+        <!-- TAB 0: WELCOME & AUTH (Landing Page) -->
+        <section id="welcome-tab" class="tab-panel active">
+            <div class="welcome-container">
+                <div class="panel-card welcome-card">
+                    <h2>SantandercallejerIA</h2>
+                    <p class="welcome-subtitle">Descubre tu dominio del callejero de Santander. Pon a prueba tus habilidades de geolocalización y tu conocimiento de las vías urbanas.</p>
+                    
+                    <div class="welcome-features">
+                        <div class="feature-item">
+                            <span class="feature-icon">🎯</span>
+                            <div class="feature-text">
+                                <h3>1. El Mapa Ciego</h3>
+                                <p>Localiza 10 calles del municipio en un mapa mudo. Suma hasta 300 puntos (30 puntos por acierto con un margen de 15 metros).</p>
+                            </div>
+                        </div>
+                        <div class="feature-item">
+                            <span class="feature-icon">📝</span>
+                            <div class="feature-text">
+                                <h3>2. El Quiz Diario</h3>
+                                <p>Responde a 3 preguntas de opción múltiple (A-B-C-D) sobre trayectos y cruces. Suma hasta 300 puntos (100 puntos por respuesta correcta).</p>
+                            </div>
+                        </div>
+                        <div class="feature-item">
+                            <span class="feature-icon">🏆</span>
+                            <div class="feature-text">
+                                <h3>3. Clasificación Mundial</h3>
+                                <p>Visualiza el ranking de puntuación acumulada. Solo disponible tras completar tus retos diarios.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Auth Card -->
+                <div class="panel-card auth-card" id="auth-panel">
+                    <div class="auth-tabs">
+                        <button class="auth-tab-btn active" id="tab-login-btn">Iniciar Sesión</button>
+                        <button class="auth-tab-btn" id="tab-register-btn">Registrarse</button>
+                    </div>
+                    
+                    <!-- Login form -->
+                    <form id="login-form" class="auth-form">
+                        <div class="form-group">
+                            <label for="login-email">Correo electrónico</label>
+                            <input type="email" id="login-email" placeholder="Tu correo electrónico" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="login-password">Contraseña</label>
+                            <input type="password" id="login-password" placeholder="Tu contraseña" required minlength="6">
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-block">Entrar</button>
+                    </form>
+
+                    <!-- Register form -->
+                    <form id="register-form" class="auth-form hidden">
+                        <div class="form-group">
+                            <label for="register-email">Correo electrónico</label>
+                            <input type="email" id="register-email" placeholder="Tu correo electrónico" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="register-confirm-email">Confirmar correo electrónico</label>
+                            <input type="email" id="register-confirm-email" placeholder="Repite tu correo electrónico" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="register-password">Contraseña</label>
+                            <input type="password" id="register-password" placeholder="Elige una contraseña (mín. 6 caracteres)" required minlength="6">
+                        </div>
+                        <button type="submit" class="btn btn-secondary btn-block">Registrarse</button>
+                    </form>
+                </div>
+            </div>
+        </section>
+
+        <!-- TAB 1: BLIND MAP GAME -->
+        <section id="map-game-tab" class="tab-panel">
+            <div class="game-container">
+                <!-- Map Area -->
+                <div class="map-wrapper">
+                    <div id="blind-map"></div>
+                    <div class="map-overlay-instructions">
+                        Haga clic en el mapa para ubicar la calle
+                    </div>
+                </div>
+                
+                <!-- Info Panel -->
+                <div class="game-panel">
+                    <div class="panel-card target-card">
+                        <div class="card-header">
+                            <span class="badge badge-primary">CALLE OBJETIVO</span>
+                        </div>
+                        <h2 class="target-street-name" id="target-street-display">Cargando calle...</h2>
+                        <p class="target-street-hint">Búscala en el término municipal de Santander y marca tu punto en el mapa.</p>
+                    </div>
+
+                    <!-- Panel status -->
+                    <div class="panel-card stats-card">
+                        <div class="stat-group">
+                            <div class="stat-item">
+                                <span class="stat-label">Puntos</span>
+                                <span class="stat-value" id="game-points">0</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-label">Intentos</span>
+                                <span class="stat-value" id="game-rounds">0</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-label">Aciertos</span>
+                                <span class="stat-value" id="game-hits">0</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="panel-card limit-status-card" id="map-limit-status-display">
+                        <span class="limit-label">Intentos de mapa restantes:</span>
+                        <strong class="limit-value" id="map-guesses-remaining">10 / 10</strong>
+                    </div>
+
+                    <!-- Result Panel Card (Hidden initially) -->
+                    <div class="panel-card result-card hidden" id="result-panel">
+                        <div class="result-header">
+                            <h3 id="result-title">¡Resultado!</h3>
+                            <span class="result-indicator" id="result-status-badge">Correcto</span>
+                        </div>
+                        
+                        <div class="result-details">
+                            <div class="detail-row">
+                                <span>Distancia a la calle:</span>
+                                <strong id="result-distance">0.0 m</strong>
+                            </div>
+                            <div class="detail-row">
+                                <span>Puntos ganados:</span>
+                                <strong id="result-score">+0 pts</strong>
+                            </div>
+                            <p class="result-comment" id="result-commentary">¡Buen intento!</p>
+                        </div>
+                        
+                        <button class="btn btn-primary" id="btn-next-street">
+                            Siguiente Calle ➔
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- TAB 2: DAILY QUIZ -->
+        <section id="quiz-tab" class="tab-panel">
+            <div class="quiz-container">
+                <div class="quiz-header">
+                    <h2>Desafío Diario del Callejero</h2>
+                    <p>Completa las preguntas del examen del callejero de Santander de hoy.</p>
+                </div>
+
+                <div class="quiz-progress-bar">
+                    <div class="progress-fill" id="quiz-progress" style="width: 0%;"></div>
+                </div>
+
+                <div class="quiz-questions-list" id="quiz-questions-container">
+                    <!-- Questions will be loaded here dynamically -->
+                    <div class="loading-state">
+                        <p>Cargando preguntas diarias...</p>
+                    </div>
+                </div>
+
+                <div class="quiz-summary-card hidden" id="quiz-summary">
+                    <h3>¡Cuestionario Completado!</h3>
+                    <p class="summary-text" id="quiz-summary-text">Has respondido correctamente a X de Y preguntas.</p>
+                    <div class="summary-stats">
+                        <div class="summary-stat">
+                            <span class="value" id="quiz-score-val">0</span>
+                            <span class="label">Puntos Totales</span>
+                        </div>
+                    </div>
+                    <button class="btn btn-primary" id="btn-go-to-leaderboard">Ver Clasificación 🏆</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- TAB 3: LEADERBOARD -->
+        <section id="leaderboard-tab" class="tab-panel">
+            <div class="leaderboard-container">
+                <div class="leaderboard-header">
+                    <h2>Tabla de Clasificación Mundial</h2>
+                    <p>Los mejores conductores y conocedores de las calles de Santander.</p>
+                </div>
+
+                <div class="leaderboard-locked-card" id="leaderboard-locked-card">
+                    <div class="lock-icon">🔒</div>
+                    <h3>Clasificación Bloqueada</h3>
+                    <p>La tabla de clasificación solo está disponible para usuarios registrados para poder guardar el histórico de puntos.</p>
+                    <button class="btn btn-primary" id="btn-show-login">Iniciar Sesión / Registrarse</button>
+                </div>
+
+                <div class="leaderboard-card hidden" id="leaderboard-card">
+                    <div class="table-responsive">
+                        <table class="leaderboard-table">
+                            <thead>
+                                <tr>
+                                    <th>Puesto</th>
+                                    <th>Usuario</th>
+                                    <th>Preguntas Respondidas</th>
+                                    <th>Puntos</th>
+                                    <th>Precisión</th>
+                                </tr>
+                            </thead>
+                            <tbody id="leaderboard-body">
+                                <!-- Leaderboard entries will be loaded here -->
+                                <tr>
+                                    <td colspan="5" class="text-center">Cargando clasificación...</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="app-footer">
+        <p>&copy; 2026 SantandercallejerIA. Datos de OpenStreetMap. Desarrollado con ❤️ en Santander.</p>
+    </footer>
+
+    <!-- Leaflet Map JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    
+    <!-- App JS -->
+    <script src="/static/app.js"></script>
+</body>
+</html>

@@ -7,3 +7,10 @@ __pycache__/
 .pytest_cache/
 .idea/
 .vscode/
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+
+*.db
+cache/
+*.egg-info/

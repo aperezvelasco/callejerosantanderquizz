@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "question_type": "PATH",
+    "prompt": "¿Cuál es la ruta más corta (menos cambios de calle) para ir desde 'Calle de Antonio de Cabezón' hasta 'Paseo de Menéndez Pelayo'?",
+    "choices": [
+      "Calle de Antonio de Cabezón -> Calle de San José de Calasanz -> Calle de las Infantas -> Paseo de Menéndez Pelayo",
+      "Calle de Antonio de Cabezón -> Avenida de Vicente Trueba -> Calle de Santa Lucía -> Paseo de Menéndez Pelayo",
+      "Calle de Antonio de Cabezón -> Calle de San Simón -> Calle de Santa Lucía -> Paseo de Menéndez Pelayo",
+      "Paseo de Menéndez Pelayo -> Calle de Santa Lucía -> Calle de San Simón -> Calle de Antonio de Cabezón"
+    ],
+    "answer": [
+      "Calle de Antonio de Cabezón",
+      "Calle de San Simón",
+      "Calle de Santa Lucía",
+      "Paseo de Menéndez Pelayo"
+    ],
+    "answer_guide": "Selecciona la secuencia correcta de calles.",
+    "metadata": {
+      "start": "Calle de Antonio de Cabezón",
+      "end": "Paseo de Menéndez Pelayo"
+    }
+  },
+  {
+    "id": 2,
+    "question_type": "INTERSECTS",
+    "prompt": "¿Cuál de las siguientes calles intersecta con 'Calle de Stefan Banic'?",
+    "choices": [
+      "Avenida de Fernández de Castañeda",
+      "Calle de Abilio García Barón",
+      "Barrio Pronillo",
+      "Calle del Río Danubio"
+    ],
+    "answer": [
+      "Calle del Río Danubio"
+    ],
+    "answer_guide": "Selecciona la calle que intersecta.",
+    "metadata": {
+      "street": "Calle de Stefan Banic"
+    }
+  },
+  {
+    "id": 3,
+    "question_type": "COUNT",
+    "prompt": "¿Cuántas calles intersectan con 'Calle de Juan de Borbón'?",
+    "choices": [
+      "4",
+      "5",
+      "1",
+      "2"
+    ],
+    "answer": [
+      "2"
+    ],
+    "answer_guide": "Selecciona el número correcto de intersecciones.",
+    "metadata": {
+      "street": "Calle de Juan de Borbón",
+      "count": 2
+    }
+  },
+  {
+    "id": 4,
+    "question_type": "OPEN_INTERSECTIONS",
+    "prompt": "Indica todas las calles que intersectan con 'Calle del Rostrío':",
+    "choices": [],
+    "answer": [
+      "Calle El Castro",
+      "Calle de Adarzo"
+    ],
+    "answer_guide": "Escribe los nombres de las calles separados por comas.",
+    "metadata": {
+      "street": "Calle del Rostrío"
+    }
+  },
+  {
+    "id": 5,
+    "question_type": "PATH",
+    "prompt": "¿Cuál es la ruta más corta (menos cambios de calle) para ir desde 'Calle de Leopoldo Alas Clarín' hasta 'Calle de Isabel II'?",
+    "choices": [
+      "Calle de Isabel II -> Calle de Jesús de Monasterio -> Calle La Peña -> Calle del Empalme -> Calle de Leopoldo Alas Clarín",
+      "Calle de Leopoldo Alas Clarín -> Calle del Empalme -> Calle La Peña -> Calle de Lavapiés -> Calle de Isabel II",
+      "Calle de Leopoldo Alas Clarín -> Calle del Empalme -> Calle La Peña -> Calle de Jesús de Monasterio -> Calle de Isabel II",
+      "Calle de Rosario Iglesias -> Calle de los Hermanos Calderón -> Avenida Primero de Mayo -> Calle del Empalme -> Calle La Peña"
+    ],
+    "answer": [
+      "Calle de Leopoldo Alas Clarín",
+      "Calle del Empalme",
+      "Calle La Peña",
+      "Calle de Jesús de Monasterio",
+      "Calle de Isabel II"
+    ],
+    "answer_guide": "Selecciona la secuencia correcta de calles.",
+    "metadata": {
+      "start": "Calle de Leopoldo Alas Clarín",
+      "end": "Calle de Isabel II"
+    }
+  }
+]

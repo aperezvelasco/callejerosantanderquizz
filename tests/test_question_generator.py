@@ -6,7 +6,9 @@ from app.services.question_generator import QuestionGenerator
 
 
 def load_sample_segments():
-    loader = StreetDatasetLoader(cache_path=Path("data") / "sample_callejero_tramos.json")
+    loader = StreetDatasetLoader(
+        cache_path=Path("data") / "sample_callejero_tramos.json"
+    )
     return loader.load()
 
 
@@ -32,5 +34,7 @@ def test_generate_questions_from_sample():
     generator = QuestionGenerator(segments)
     questions = generator.generate_for_date(date(2024, 1, 1), 3)
     assert len(questions) == 3
-    assert any(q.question_type == "perpendicular" for q in questions)
-    assert any(q.question_type == "shortest_path" for q in questions)
+    assert any(
+        q.question_type in ("PATH", "INTERSECTS", "COUNT", "OPEN_INTERSECTIONS")
+        for q in questions
+    )

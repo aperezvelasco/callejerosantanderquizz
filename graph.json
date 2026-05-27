@@ -1,0 +1,4459 @@
+{
+  "Acceso Oeste a Santander": [
+    "Autopista Santander-Torrelavega"
+  ],
+  "Acceso a Urgencias": [],
+  "Acceso al Centro Empresarial Zoco Gran Santander": [
+    "Avenida Primero de Mayo",
+    "Centro Empresarial Zoco Gran Santander"
+  ],
+  "Acceso al aparcamiento subterráneo": [
+    "Túnel de los Jardines de Pereda"
+  ],
+  "Accesos al IES Augusto González Linares": [
+    "Avenida Primero de Mayo"
+  ],
+  "Autopista Santander-Torrelavega": [
+    "Acceso Oeste a Santander",
+    "Autovía Ronda de la Bahía de Santander",
+    "Avenida de Julio Jaurena",
+    "Avenida de Severo Ochoa",
+    "Avenida de Vicente Trueba",
+    "Barrio Rucandial",
+    "Túnel de La Albericia"
+  ],
+  "Autovía Cantabria - Meseta": [],
+  "Autovía Ronda de la Bahía de Santander": [
+    "Autopista Santander-Torrelavega",
+    "Avenida de Camarreal"
+  ],
+  "Avenida Primero de Mayo": [
+    "Acceso al Centro Empresarial Zoco Gran Santander",
+    "Accesos al IES Augusto González Linares",
+    "Avenida de Eduardo García del Río",
+    "Calle de Alberico Pardo",
+    "Calle de Faustino Cavadas",
+    "Calle de Manuel Pombo Angulo",
+    "Calle de los Hermanos Calderón",
+    "Calle del Empalme"
+  ],
+  "Avenida de Albert Einstein": [
+    "Avenida de Severo Ochoa",
+    "Calle Lluja",
+    "Glorieta de Adarzo",
+    "Glorieta de Rucandial"
+  ],
+  "Avenida de Antonio Maura": [
+    "Avenida de los Hoteles",
+    "Avenida de los Infantes",
+    "Bajada de la Encina",
+    "Calle de la Iglesia"
+  ],
+  "Avenida de Bartolomé Darnís": [
+    "Barrio Isla del Óleo"
+  ],
+  "Avenida de Cajo": [
+    "Avenida de Valdecilla",
+    "Barrio de Sixto Obrador",
+    "Calle de Campogiro",
+    "Calle de la Fuente de la Salud",
+    "Urbanización Las Palmeras"
+  ],
+  "Avenida de Camarreal": [
+    "Autovía Ronda de la Bahía de Santander",
+    "Calle El Castro",
+    "Calle Jesús Cancio",
+    "Calle Lluja",
+    "Calle Ojaiz",
+    "Calle de José Antonio Maza",
+    "Calle de José Luis Hidalgo",
+    "Calle de Santiago Ontañón",
+    "Polígono Industrial de Otero"
+  ],
+  "Avenida de Camilo Alonso Vega": [
+    "Avenida de José Hierro",
+    "Colonia del Mar"
+  ],
+  "Avenida de Candina": [
+    "Calle de Gerardo Alvear",
+    "Calle de Jerónimo Sainz de la Maza",
+    "Calle de Nueve Valles",
+    "Calle de Peña Sagra",
+    "Calle del Real Consulado",
+    "Calle del Río Besaya",
+    "Glorieta de Candina"
+  ],
+  "Avenida de Cantabria": [
+    "Calle de Francisco Cáceres",
+    "Calle de Matilde de la Torre",
+    "Calle de Pedro Rodríguez-Parets",
+    "Calle de Veridiano Rojo Herrero",
+    "Calle del Marqués de Hazas"
+  ],
+  "Avenida de Concha Espina": [
+    "Calle de Consuelo Berges",
+    "Calle de Francisco Cáceres",
+    "Calle de Manuel Gonzalez Hoyos"
+  ],
+  "Avenida de Eduardo García del Río": [
+    "Avenida Primero de Mayo",
+    "Avenida de Segundo López Vélez",
+    "Calle del Empalme",
+    "Glorieta de Candina"
+  ],
+  "Avenida de Fernández Castañeda": [
+    "Avenida de Fernández de Castañeda",
+    "Avenida de Pontejos"
+  ],
+  "Avenida de Fernández de Castañeda": [
+    "Avenida de Fernández Castañeda",
+    "Avenida de los Castros",
+    "Avenida del Stadium",
+    "Calle de Panamá",
+    "Calle de la Braña",
+    "Plaza de las Brisas",
+    "Plaza del Doctor Fleming"
+  ],
+  "Avenida de José Hierro": [
+    "Avenida de Camilo Alonso Vega",
+    "Avenida de los Castros",
+    "Bajada de San Juan",
+    "Bajada de la Calzada",
+    "Calle de Floranes",
+    "Calle de San Andrés",
+    "Calle de Valentín Lavín Casalís",
+    "Calle de Vázquez de Mella",
+    "Calle de la Madre Soledad",
+    "Calle del Archivo de Simancas",
+    "Calle del Profesor Jiménez Díaz",
+    "Colonia del Mar",
+    "Glorieta de Cuatro Caminos",
+    "Paseo de Altamira"
+  ],
+  "Avenida de José Ortega y Gasset": [
+    "Calle de Agustín de Colosía",
+    "Calle de Alberico Pardo",
+    "Calle de Guillermo Dierssen",
+    "Calle de José Antonio Maza",
+    "Calle de Juan Guerrero Urreisti",
+    "Calle de Manuel Pombo Angulo",
+    "Calle del Juego de los Bolos"
+  ],
+  "Avenida de Julio Jaurena": [
+    "Autopista Santander-Torrelavega",
+    "Calle La Candía",
+    "Calle de La Llanilla",
+    "Glorieta de Corbán",
+    "Rotonda de Julio Jaurena"
+  ],
+  "Avenida de Justo Colongues": [],
+  "Avenida de La Magdalena": [
+    "Avenida de la Reina Victoria",
+    "Calle de Juan de Borbón",
+    "Calle de la Familia Real",
+    "Calle de la Horadada"
+  ],
+  "Avenida de Leonardo Rucabado": [
+    "Calle de Antonio López Cortés",
+    "Calle de Victoriano Fernández"
+  ],
+  "Avenida de Nueva Montaña": [
+    "Barrio Santiago el Mayor",
+    "Calle de Francisco Tomás y Valiente"
+  ],
+  "Avenida de Parayas": [
+    "Calle de Abilio García Barón",
+    "Calle de Castilla",
+    "Calle de Jerónimo Sainz de la Maza",
+    "Calle de Peña Bejo",
+    "Calle de Peña Prieta",
+    "Calle de Peña Vieja",
+    "Calle de Peñas Rocías",
+    "Calle de Río Saja",
+    "Calle del Concejo",
+    "Calle del Marqués de la Hermida",
+    "Calle del Río Asón",
+    "Calle del Río Deva",
+    "Calle del Río Miera",
+    "Calle del Río Nansa",
+    "Enlace de La Marga"
+  ],
+  "Avenida de Pedro San Martín": [
+    "Avenida de Valdecilla",
+    "Calle de Valentín Lavín Casalís",
+    "Calle de la Secada",
+    "Calle de las Islas Baleares",
+    "Calle del Archivo de Simancas",
+    "Calle del Lirio",
+    "Glorieta de los Osos",
+    "Plaza de Alberto Corral"
+  ],
+  "Avenida de Pellegrino Zuyer": [
+    "Avenida del Doctor Diego Madrazo",
+    "Calle de El Recial",
+    "Calle de Pedro Rodríguez-Parets",
+    "Calle de Pedro de Abarca",
+    "Calle de Vallemier",
+    "Calle del Club Atlético España de Cueto"
+  ],
+  "Avenida de Pontejos": [
+    "Avenida de Fernández Castañeda",
+    "Avenida de los Infantes",
+    "Avenida del Stadium",
+    "Calle de Manuel Prieto Lavín",
+    "Calle de Palencia",
+    "Calle del Real Racing Club"
+  ],
+  "Avenida de Segundo López Vélez": [
+    "Avenida de Eduardo García del Río",
+    "Glorieta de Candina",
+    "Glorieta de Eduardo García",
+    "Glorieta de Emilio Díaz Caneja",
+    "Túnel de La Marga"
+  ],
+  "Avenida de Severo Ochoa": [
+    "Autopista Santander-Torrelavega",
+    "Avenida de Albert Einstein",
+    "Calle Lluja",
+    "Calle de Adarzo",
+    "Calle de Miguel Servet",
+    "Calle de Rafael Elola Torcida",
+    "Glorieta de Rucandial"
+  ],
+  "Avenida de Sotileza": [
+    "Calle Miguel Bravo",
+    "Calle de Antonio López",
+    "Calle de Entrepatios",
+    "Calle de Mocejón",
+    "Calle de Tío Michelín",
+    "Calle del Tío Trementorio"
+  ],
+  "Avenida de Valdecilla": [
+    "Avenida de Cajo",
+    "Avenida de Pedro San Martín",
+    "Calle de la Isla de Cuba",
+    "Calle del Padre Rábago",
+    "Glorieta de Cuatro Caminos",
+    "Glorieta de Eduardo García",
+    "Glorieta de Valdecilla",
+    "Túnel de Cuatro Caminos"
+  ],
+  "Avenida de Vicente Trueba": [
+    "Autopista Santander-Torrelavega",
+    "Avenida del Cardenal Herrera Oria",
+    "Calle de Corceño",
+    "Calle de Isaac Albeniz",
+    "Calle de la Sierra",
+    "Calle de las Cagigas",
+    "Calle del Aviador Ignacio Pombo",
+    "Calle del Refugio",
+    "Calle del Regatón"
+  ],
+  "Avenida de la Constitución": [
+    "Glorieta de la Constitución",
+    "Túnel de La Albericia"
+  ],
+  "Avenida de la Reina Victoria": [
+    "Avenida de La Magdalena",
+    "Calle de Castelar",
+    "Calle de Don Daniel",
+    "Calle de Juan de la Cosa",
+    "Calle de Luis Martínez",
+    "Calle de Menchubel",
+    "Calle de Ramón y Cajal",
+    "Calle del Arquitecto González de Riancho",
+    "Pasaje de San Martín",
+    "Paseo de Pérez Galdós",
+    "Plaza de San Martín del Mar"
+  ],
+  "Avenida de la Virgen del Mar": [
+    "Calle Costa Quebrada",
+    "Calle Murillo",
+    "Calle Santa Catalina",
+    "Calle de Somonte",
+    "Calle de la Cuevona",
+    "Calle del Mazo de Abajo",
+    "Calle del Mazo de Arriba"
+  ],
+  "Avenida de los Castros": [
+    "Avenida de Fernández de Castañeda",
+    "Avenida de José Hierro",
+    "Bajada de Juan Blanco",
+    "Bajada de la Calzada",
+    "Bajada del Caleruco",
+    "Barrio Santiago el Mayor",
+    "Calle de Blas Cabrera",
+    "Calle de Honduras",
+    "Calle de Manuel Prieto Lavín",
+    "Calle de María Ascensión Fresnedo",
+    "Calle de Miguel de Unamuno",
+    "Calle de la Albericia",
+    "Calle de la Madre Soledad",
+    "Calle de las Cruces",
+    "Glorieta de Emilio Díaz Caneja",
+    "Glorieta de la Universidad",
+    "Plaza de José Francisco Alonso",
+    "Plaza de las Brisas",
+    "Poeta Matilde Camus",
+    "Túnel de Puertochico"
+  ],
+  "Avenida de los Hoteles": [
+    "Avenida de Antonio Maura",
+    "Calle de la Iglesia"
+  ],
+  "Avenida de los Infantes": [
+    "Avenida de Antonio Maura",
+    "Avenida de Pontejos",
+    "Bajada de la Cañía",
+    "Bajada de la Encina",
+    "Calle Junco",
+    "Calle de Manuel Prieto Lavín",
+    "Calle de Panamá",
+    "Calle de la Iglesia",
+    "Calle de las Cruces",
+    "Calleja Norte",
+    "Plaza del Alto de Miranda"
+  ],
+  "Avenida del Cardenal Herrera Oria": [
+    "Avenida de Vicente Trueba",
+    "Calle Cañas",
+    "Calle de Ciriaco Párraga",
+    "Calle de José María de Cossío",
+    "Calle de Leonardo Torres Quevedo",
+    "Calle de Manuel Rioz Pedraja",
+    "Calle de Mariano Luis Vicente de Velasco",
+    "Calle de Ricardo León",
+    "Calle de la Margarita",
+    "Calle de los Acebos",
+    "Calle de los Alcornoques",
+    "Calle de los Encinares",
+    "Calle de los Plátanos",
+    "Calle del Pintor Gutiérrez Solana",
+    "Grupo María Blanchard",
+    "Paseo de Altamira",
+    "Plaza Cardenal de Cos",
+    "Plaza Cardenal de la Lastra",
+    "Plaza de Manuel Llano",
+    "Túnel de La Marga"
+  ],
+  "Avenida del Deporte": [
+    "Barrio de Nuestra Señora de Belén",
+    "Calle de Aurora Gutiérrez Galante",
+    "Calle de Lavapiés",
+    "Calle de Rafael Alsua",
+    "Calle de los Acebos",
+    "Calle de los Encinares",
+    "Calle del Tejo",
+    "Grupo María Blanchard"
+  ],
+  "Avenida del Doctor Diego Madrazo": [
+    "Avenida de Pellegrino Zuyer",
+    "Avenida del Faro Pintor Eduardo Sanz",
+    "Calle de Arsenio Odriozola",
+    "Calle de El Recial"
+  ],
+  "Avenida del Faro": [
+    "Avenida del Faro Pintor Eduardo Sanz",
+    "Calle de Valdenoja"
+  ],
+  "Avenida del Faro Pintor Eduardo Sanz": [
+    "Avenida del Doctor Diego Madrazo",
+    "Avenida del Faro",
+    "Calle de Inés Diego del Noval",
+    "Calle de Valdenoja",
+    "Calle de la Autonomía",
+    "Calle del Hipódromo",
+    "Plaza de los Acebedos"
+  ],
+  "Avenida del Marqués de Valdecilla": [
+    "Calle Canto Cercado",
+    "Calle Santa Catalina",
+    "Calle de Corbán"
+  ],
+  "Avenida del Stadium": [
+    "Avenida de Fernández de Castañeda",
+    "Avenida de Pontejos",
+    "Calle de Joaquín Cayón",
+    "Calle de Manuel Prieto Lavín",
+    "Calle del Alcalde Vega Lamera",
+    "Calle del Real Racing Club",
+    "Plaza del Doctor Fleming"
+  ],
+  "Avenida del Voluntariado": [
+    "Calle de Guillermo Dierssen",
+    "Calle de Manuel Pombo Angulo",
+    "Calle de Ricardo López Aranda",
+    "Calle del Doctor González Torre",
+    "Calle del Juego de los Bolos"
+  ],
+  "Bajada Juan Blanco": [
+    "Bajada de Juan Blanco",
+    "Paseo de Altamira"
+  ],
+  "Bajada de Juan Blanco": [
+    "Avenida de los Castros",
+    "Bajada Juan Blanco",
+    "Bajada de la Media Luna",
+    "Paseo de Altamira",
+    "Poeta Matilde Camus"
+  ],
+  "Bajada de La Teja": [
+    "Calle de Fernando de los Ríos",
+    "Calle de la Virgen del Camino",
+    "Paseo de Altamira"
+  ],
+  "Bajada de Rumayor": [
+    "Calle de Fernando de los Ríos",
+    "Calle de Juan del Castillo",
+    "Paseo de Altamira"
+  ],
+  "Bajada de San Juan": [
+    "Avenida de José Hierro",
+    "Barrio La Torre",
+    "Calle de la Madre Soledad",
+    "Grupo San Luis",
+    "Paseo de Altamira"
+  ],
+  "Bajada de la Calzada": [
+    "Avenida de José Hierro",
+    "Avenida de los Castros",
+    "Paseo de Altamira"
+  ],
+  "Bajada de la Cañía": [
+    "Avenida de los Infantes",
+    "Calle de Joaquín Costa"
+  ],
+  "Bajada de la Encina": [
+    "Avenida de Antonio Maura",
+    "Avenida de los Infantes",
+    "Calle Junco",
+    "Calle de Fernando Calderón Rueda",
+    "Calle de Fernando de los Ríos",
+    "Calle de José Simón Cabarga",
+    "Calle de Trasmiera",
+    "Colonia Los Pinares",
+    "Paseo de Altamira"
+  ],
+  "Bajada de la Media Luna": [
+    "Bajada de Juan Blanco",
+    "Paseo de Altamira",
+    "Poeta Matilde Camus"
+  ],
+  "Bajada del Caleruco": [
+    "Avenida de los Castros",
+    "Calle Repuente",
+    "Calle de Miguel de Unamuno",
+    "Calle de Sixto Córdova",
+    "Calle de la Molina",
+    "Paseo de Altamira"
+  ],
+  "Bajada del Polio": [
+    "Calle de José de Escandón",
+    "Calle de Ramón Sáez de Adana",
+    "Paseo de Altamira"
+  ],
+  "Barrio Camino": [
+    "Calle Las Canteras",
+    "Calle de Avelino Gutiérrez",
+    "Calle de Gerona",
+    "Calle de Tetuán",
+    "Paseo de Canalejas"
+  ],
+  "Barrio Corbanera": [
+    "Calle de Corbera",
+    "Calle de San Pedro del Mar"
+  ],
+  "Barrio El Pilón": [
+    "Paseo de Altamira"
+  ],
+  "Barrio Isla del Óleo": [
+    "Avenida de Bartolomé Darnís",
+    "Barrio Santiago el Mayor",
+    "Barrio del Carmen"
+  ],
+  "Barrio La Concha - Santa Lucía": [],
+  "Barrio La Torre": [
+    "Bajada de San Juan",
+    "Barrio Monte La Torre",
+    "Calle Eduardo Obregón Barreda",
+    "Calle Repuente",
+    "Calle de Antonio de la Dehesa",
+    "Calle de Aurora Saez González",
+    "Calle de Aviche",
+    "Calle de Castor Agra García",
+    "Calle de Ernest Lluch",
+    "Calle de Jorge Sepúlveda",
+    "Calle de Modesto Martinez",
+    "Calle de Modesto Martinez Pacheco"
+  ],
+  "Barrio Las Tejeras": [
+    "Calle Ana María Cacigal",
+    "Calle Ojaiz"
+  ],
+  "Barrio Monte La Torre": [
+    "Barrio La Torre",
+    "Calle Eduardo Obregón Barreda",
+    "Calle de Juan Antonio García Carrasquedo"
+  ],
+  "Barrio Obrero del Rey": [
+    "Paseo de Altamira"
+  ],
+  "Barrio Otero": [
+    "Calle Ojaiz"
+  ],
+  "Barrio Pronillo": [
+    "Calle de la Molina"
+  ],
+  "Barrio Rucandial": [
+    "Autopista Santander-Torrelavega",
+    "Calle La Candía",
+    "Calle de Isabel Torres",
+    "Calle del Santuco",
+    "Glorieta de Adarzo"
+  ],
+  "Barrio Santiago el Mayor": [
+    "Avenida de Nueva Montaña",
+    "Avenida de los Castros",
+    "Barrio Isla del Óleo",
+    "Calle de Francisco Tomás y Valiente",
+    "Calle de la Molina"
+  ],
+  "Barrio de Nuestra Señora de Belén": [
+    "Avenida del Deporte",
+    "Calle de Aurora Gutiérrez Galante",
+    "Calle de los Acebos",
+    "Calle del Tejo"
+  ],
+  "Barrio de San Martín del Pino": [
+    "Calle de Manuel Ruiz Quevedo",
+    "Calle de María Guerrero",
+    "Calle de los Hermanos Calderón",
+    "Calle del Alcalde Macario Rivero",
+    "Residencial Las Acacias",
+    "Residencial Los Robles"
+  ],
+  "Barrio de Sixto Obrador": [
+    "Avenida de Cajo"
+  ],
+  "Barrio del Carmen": [
+    "Barrio Isla del Óleo"
+  ],
+  "Calle Alta": [
+    "Calle Anjana",
+    "Calle Calzadas Altas",
+    "Calle La Peña",
+    "Calle Miguel Ángel García Guinea",
+    "Calle de Alicante",
+    "Calle de Argentina",
+    "Calle de Benito Madariaga",
+    "Calle de Concepción Arenal",
+    "Calle de Eulalio Ferrer",
+    "Calle de Isaac Peral",
+    "Calle de Jerónimo Sainz de la Maza",
+    "Calle de Juan de Piasca",
+    "Calle de Ruamayor",
+    "Calle de San Rafael",
+    "Calle de Santa María Egipciaca",
+    "Calle de la Democracia",
+    "Calle de la Justicia",
+    "Calle del Monte Caloca",
+    "Calle del Ojáncano",
+    "Cuesta de las Ánimas",
+    "Cuesta del Hospital",
+    "Glorieta de Cuatro Caminos",
+    "Rampa de Sotileza"
+  ],
+  "Calle Ana María Cacigal": [
+    "Barrio Las Tejeras",
+    "Calle Jesús Cancio",
+    "Calle Ojaiz"
+  ],
+  "Calle Anjana": [
+    "Calle Alta",
+    "Calle de Isaac Peral"
+  ],
+  "Calle Aviadores Cántabros": [
+    "Calle de la Sierra",
+    "Calle los Labradores"
+  ],
+  "Calle Calzadas Altas": [
+    "Calle Alta",
+    "Calle de los Viveros",
+    "Calle del Duque de Ahumada"
+  ],
+  "Calle Canto Cercado": [
+    "Avenida del Marqués de Valdecilla",
+    "Calle Costa Quebrada",
+    "Calle Santa Catalina"
+  ],
+  "Calle Cañas": [
+    "Avenida del Cardenal Herrera Oria",
+    "Calle de Gerardo Diego",
+    "Calle de Ricardo León"
+  ],
+  "Calle Cervantes": [
+    "Calle de Jesús de Monasterio",
+    "Calle del Cardenal Cisneros",
+    "Plaza de la Leña",
+    "Plaza de los Acebedos",
+    "Travesía de la Enseñanza",
+    "Vía Cornelia"
+  ],
+  "Calle Clara Trueba y Cossio": [
+    "Calle Ricardo Bernardo",
+    "Calle de Adarzo",
+    "Calle de Arturo Duo Vital",
+    "Calle de Joaquín Rodrigo"
+  ],
+  "Calle Corbeta": [
+    "Calle de Marcos Ruiloba Palazuelos"
+  ],
+  "Calle Costa Quebrada": [
+    "Avenida de la Virgen del Mar",
+    "Calle Canto Cercado"
+  ],
+  "Calle Cuesta": [
+    "Cuesta del Hospital"
+  ],
+  "Calle Cueto": [
+    "Calle Madreselva",
+    "Calle de Camús",
+    "Calle de José Llata Fernández",
+    "Calle de los Hermanos Tonetti",
+    "Cementerio de Cueto"
+  ],
+  "Calle Eduardo Obregón Barreda": [
+    "Barrio La Torre",
+    "Barrio Monte La Torre",
+    "Calle de Clara Campoamor",
+    "Calle de Ricardo Fernández de la Reguera"
+  ],
+  "Calle El Campizo": [
+    "Calle de Corceño",
+    "Calle de La Llanilla",
+    "Calle de Las Portillas"
+  ],
+  "Calle El Castro": [
+    "Avenida de Camarreal",
+    "Calle La Peña",
+    "Calle de Adarzo",
+    "Calle de Campogiro",
+    "Calle de Ricardo León",
+    "Calle del Rostrío",
+    "Calleja del Castro"
+  ],
+  "Calle El Hondal": [
+    "Calle El Robejo",
+    "Calle Los Barbajos"
+  ],
+  "Calle El Piquel": [],
+  "Calle El Recial": [],
+  "Calle El Robejo": [
+    "Calle El Hondal",
+    "Calle La Llosa",
+    "Calle Repuente",
+    "Calle de la Tesilla"
+  ],
+  "Calle El Somo": [
+    "Calle La Puebla",
+    "Calle de Antonio López Cortés",
+    "Calle de Antonio Nebrija",
+    "Calle de Corceño",
+    "Calle de Elena Quiroga",
+    "Calle de La Llanilla",
+    "Calle de Las Portillas",
+    "Calle de Lauro Fernández González",
+    "Calle de Miguel Ángel Samperio",
+    "Calle de Somonte",
+    "Calle de Tomás Soto Pidal",
+    "Calle de Victoriano Fernández",
+    "Calle de la Gloria",
+    "Glorieta de Corbán",
+    "Urbanización Elíseo Gómez"
+  ],
+  "Calle Florida": [
+    "Calle Magallanes",
+    "Calle del Cardenal Cisneros"
+  ],
+  "Calle Frontón": [
+    "Calle de Peñas Redondas"
+  ],
+  "Calle Fumoril": [
+    "Calle La Nuncia",
+    "Calle de Arriba",
+    "Calle de Corconeras",
+    "Calle de los Hermanos Tonetti"
+  ],
+  "Calle Garmendia": [
+    "Calle de Jesús de Monasterio",
+    "Calle de Santa María Egipciaca",
+    "Calle del Limón"
+  ],
+  "Calle Gonzalo Fernández de Pámanes": [],
+  "Calle Independencia": [
+    "Plaza de Monteleón"
+  ],
+  "Calle Isabel la Católica": [
+    "Calle Magallanes",
+    "Calle de Jesús de Monasterio",
+    "Calle del Cardenal Cisneros",
+    "Grupo San Luis"
+  ],
+  "Calle Jesús Cancio": [
+    "Avenida de Camarreal",
+    "Calle Ana María Cacigal",
+    "Calle del Doctor González Torre"
+  ],
+  "Calle Joyos": [
+    "Calle de Ricardo Lorenzo"
+  ],
+  "Calle Julio Blanco": [
+    "Calle de Camús",
+    "Calle de Inés Diego del Noval",
+    "Calle del Hipódromo"
+  ],
+  "Calle Junco": [
+    "Avenida de los Infantes",
+    "Bajada de la Encina",
+    "Calle de Fernando Calderón Rueda",
+    "Calle de Fresnedo de la Calzada",
+    "Calle de Sojo y Lomba"
+  ],
+  "Calle La Abubilla": [
+    "Calle de Ignacio Aguilera",
+    "Calle de Mateo Escagedo Salmón",
+    "Calle de la Gloria",
+    "Calle de la Tesilla",
+    "Calle de los Foramontanos"
+  ],
+  "Calle La Barraca": [
+    "Calle de Benidorm",
+    "Calle de Fernando de los Ríos",
+    "Paseo de Altamira"
+  ],
+  "Calle La Candía": [
+    "Avenida de Julio Jaurena",
+    "Barrio Rucandial"
+  ],
+  "Calle La Huertona": [
+    "Calle La Sotavesilla",
+    "Calle de Resconorio"
+  ],
+  "Calle La Llosa": [
+    "Calle El Robejo",
+    "Calle de la Regaña"
+  ],
+  "Calle La Milagrosa": [
+    "Calle de San Celedonio",
+    "Calle de Tantín"
+  ],
+  "Calle La Nuncia": [
+    "Calle Fumoril",
+    "Calle de Arriba"
+  ],
+  "Calle La Paz": [
+    "Calle de Francisco de Quevedo",
+    "Calle de Isabel II"
+  ],
+  "Calle La Pereda": [
+    "Calle Udial",
+    "Calle de Ataúlfo Argenta",
+    "Calle de Calvo Sotelo",
+    "Calle de Consuelo Berges",
+    "Calle de El Recial",
+    "Calle de Federico Muñóz",
+    "Calle de La Gándara",
+    "Calle de Lope de Vega",
+    "Calle de Marcelino Sanz de Sautuola",
+    "Calle de Matilde Zapata",
+    "Calle de Matilde de la Torre",
+    "Calle de Pancho Cossío",
+    "Calle de Pedro Rodríguez-Parets",
+    "Calle de Pedro de Abarca",
+    "Calle de Pepe Isbert",
+    "Calle de Rodolfo Rodríguez Eguía",
+    "Calle de Vallemier",
+    "Calle de Veridiano Rojo Herrero",
+    "Calle del Club Atlético España de Cueto",
+    "Calle del Marqués de Hazas",
+    "Espigón José del Río"
+  ],
+  "Calle La Peña": [
+    "Calle Alta",
+    "Calle El Castro",
+    "Calle de Atilano Rodríguez",
+    "Calle de Campogiro",
+    "Calle de Jesús de Monasterio",
+    "Calle de San Pedro",
+    "Calle de Santa María Egipciaca",
+    "Calle del Empalme",
+    "Calleja del Castro"
+  ],
+  "Calle La Puebla": [
+    "Calle El Somo",
+    "Calle de la Gloria"
+  ],
+  "Calle La Sotavesilla": [
+    "Calle La Huertona",
+    "Calle de Josefina de la Maza"
+  ],
+  "Calle Las Canteras": [
+    "Barrio Camino",
+    "Calle de Tetuán"
+  ],
+  "Calle Lepanto": [
+    "Calle de Ataúlfo Argenta",
+    "Calle de Hernán Cortés",
+    "Pasaje de Clara"
+  ],
+  "Calle Lluja": [
+    "Avenida de Albert Einstein",
+    "Avenida de Camarreal",
+    "Avenida de Severo Ochoa"
+  ],
+  "Calle Los Barbajos": [
+    "Calle El Hondal",
+    "Calle Repuente",
+    "Calle de Luis Salgado Lodeiro",
+    "Calle de la Tesilla"
+  ],
+  "Calle Luz de Alvear": [
+    "Calle Ricardo Bernardo",
+    "Calle de Adarzo",
+    "Calle de Arturo Duo Vital"
+  ],
+  "Calle Madreselva": [
+    "Calle Cueto",
+    "Calle de Camús"
+  ],
+  "Calle Magallanes": [
+    "Calle Florida",
+    "Calle Isabel la Católica",
+    "Calle de Elcano",
+    "Calle de Peñas Redondas",
+    "Calle de la Virgen de la Paloma"
+  ],
+  "Calle Miguel Bravo": [
+    "Avenida de Sotileza",
+    "Calle de Fernando de Montalvo",
+    "Calle del Marqués de La Ensenada"
+  ],
+  "Calle Miguel Ángel García Guinea": [
+    "Calle Alta",
+    "Calle de Concepción Arenal",
+    "Calle del Duque de Ahumada"
+  ],
+  "Calle Murillo": [
+    "Avenida de la Virgen del Mar"
+  ],
+  "Calle Naos": [
+    "Calle de Marcos Ruiloba Palazuelos"
+  ],
+  "Calle Nazarín": [
+    "Calle del Marqués de Santillana",
+    "Paseo de Canalejas"
+  ],
+  "Calle Nesteo": [
+    "Calle de Ricardo Lorenzo",
+    "Calle del Calvario"
+  ],
+  "Calle Ojaiz": [
+    "Avenida de Camarreal",
+    "Barrio Las Tejeras",
+    "Barrio Otero",
+    "Calle Ana María Cacigal"
+  ],
+  "Calle Pedro Ceballos Guerra": [
+    "Calle de Tetuán",
+    "Calle la Montañesa"
+  ],
+  "Calle Rafael Gutiérrez Colomer": [
+    "Calle de Aviche",
+    "Calle de Bolado",
+    "Calle de Ricardo Fernández de la Reguera"
+  ],
+  "Calle Repuente": [
+    "Bajada del Caleruco",
+    "Barrio La Torre",
+    "Calle El Robejo",
+    "Calle Los Barbajos",
+    "Calle Tristana",
+    "Calle de Aurelio Espinosa",
+    "Calle de Aviche",
+    "Calle de Luis Salgado Lodeiro",
+    "Calle de San Pedro del Mar",
+    "Calle de Sixto Córdova",
+    "Calle de la Albericia",
+    "Calle de la Regaña",
+    "Calle de la Tesilla",
+    "Calle de los Canteros de Trasmiera",
+    "Cruce de la Albericia",
+    "Grupo Fernando Ateca"
+  ],
+  "Calle Ricardo Bernardo": [
+    "Calle Clara Trueba y Cossio",
+    "Calle Luz de Alvear"
+  ],
+  "Calle Río Cubas": [
+    "Calle de Alejandro García",
+    "Calle de Bruno Alonso",
+    "Calle de Gerona",
+    "Calle de San Quitín",
+    "Calle la Montañesa",
+    "Paseo de Canalejas"
+  ],
+  "Calle Santa Catalina": [
+    "Avenida de la Virgen del Mar",
+    "Avenida del Marqués de Valdecilla",
+    "Calle Canto Cercado",
+    "Calle de las Arenas"
+  ],
+  "Calle Tristana": [
+    "Calle Repuente",
+    "Calle de Resconorio",
+    "Calle de San Pedro del Mar",
+    "Calle de Sixto Córdova"
+  ],
+  "Calle Udial": [
+    "Calle La Pereda",
+    "Calle de Arriba",
+    "Calle de Clara Campoamor",
+    "Calle de Matilde de la Torre",
+    "Calle de Veridiano Rojo Herrero"
+  ],
+  "Calle Vargas": [
+    "Calle de Benito Madariaga",
+    "Calle de Eulalio Ferrer",
+    "Calle de Juan de Piasca",
+    "Calle de Puente Viesgo",
+    "Calle de San Fernando",
+    "Calle del Arco Iris",
+    "Cuesta de las Ánimas",
+    "Glorieta de Cuatro Caminos"
+  ],
+  "Calle de Abilio García Barón": [
+    "Avenida de Parayas",
+    "Calle de César Llamazares",
+    "Calle de Mariano Lastra",
+    "Calle de María Curie"
+  ],
+  "Calle de Adarzo": [
+    "Avenida de Severo Ochoa",
+    "Calle Clara Trueba y Cossio",
+    "Calle El Castro",
+    "Calle Luz de Alvear",
+    "Calle de Arturo Duo Vital",
+    "Calle de Rafael Elola Torcida",
+    "Calle del Rostrío",
+    "Glorieta de Adarzo",
+    "Plaza de Amador Toca"
+  ],
+  "Calle de Agapito García Rumayor": [
+    "Calle de Arriba",
+    "Calle de Federico Muñóz",
+    "Calle de Pedro Rodríguez-Parets",
+    "Calle de Veridiano Rojo Herrero"
+  ],
+  "Calle de Agustín de Colosía": [
+    "Avenida de José Ortega y Gasset",
+    "Calle de Juan Guerrero Urreisti",
+    "Calle de Ricardo López Aranda"
+  ],
+  "Calle de Alberico Pardo": [
+    "Avenida Primero de Mayo",
+    "Avenida de José Ortega y Gasset",
+    "Calle de Juan Guerrero Urreisti",
+    "Calle de Leopoldo Alas Clarín",
+    "Calle de Manuel Pombo Angulo",
+    "Calle de Ricardo López Aranda",
+    "Calle del Juego de los Bolos",
+    "Urbanización Peña Verde"
+  ],
+  "Calle de Alejandro Gago": [
+    "Calle de Federico García Lorca",
+    "Calle de Ignacio Aguilera"
+  ],
+  "Calle de Alejandro García": [
+    "Calle Río Cubas",
+    "Calle de Bruno Alonso",
+    "Calle de Tetuán",
+    "Calle la Montañesa",
+    "Paseo de Canalejas"
+  ],
+  "Calle de Alfonsina Storni": [
+    "Calle de Ernest Lluch"
+  ],
+  "Calle de Alfonso Pérez": [
+    "Calle de Anibal García de Riancho",
+    "Dársena de Maliaño"
+  ],
+  "Calle de Alfonso VIII": [
+    "Calle de Calvo Sotelo",
+    "Calle de Somorrostro"
+  ],
+  "Calle de Alfredo Kraus": [
+    "Calle de Arturo Duo Vital",
+    "Calle de Isaac Albeniz",
+    "Rotonda de Julio Jaurena"
+  ],
+  "Calle de Alfredo Pérez Guillén": [
+    "Calle de Alfredo Pérez Guillés",
+    "Calle de Ciriaco Párraga",
+    "Calle de Luis Quintanilla Isasi"
+  ],
+  "Calle de Alfredo Pérez Guillés": [
+    "Calle de Alfredo Pérez Guillén",
+    "Calle de Ciriaco Párraga"
+  ],
+  "Calle de Alicante": [
+    "Calle Alta",
+    "Calle de Concepción Arenal",
+    "Calle de Isaac Peral"
+  ],
+  "Calle de Alonso": [
+    "Calle de Floranes",
+    "Calle de San Fernando",
+    "Calle del Profesor Jiménez Díaz"
+  ],
+  "Calle de Alonso Ercilla": [
+    "Calle de Guevara",
+    "Calle de San Celedonio",
+    "Calle de San José",
+    "Calle de Tantín"
+  ],
+  "Calle de Alsedo Bustamante": [
+    "Calle de Sevilla"
+  ],
+  "Calle de Amadeo I": [
+    "Grupo San Luis"
+  ],
+  "Calle de Andrés del Río": [
+    "Calle de Barcelona",
+    "Calle de Casimiro Sainz",
+    "Calle de San Vicente de la Barquera",
+    "Paseo de Canalejas"
+  ],
+  "Calle de Anibal García Riancho": [
+    "Calle de Antonio de Tova y Arredondo",
+    "Calle de Juan Antonio Gutiérrez de la Concha",
+    "Calle de Juan de Santander",
+    "Calle de la Armada Española"
+  ],
+  "Calle de Anibal García de Riancho": [
+    "Calle de Alfonso Pérez",
+    "Calle de la Armada Española",
+    "Calle del Marqués de la Hermida"
+  ],
+  "Calle de Antonio López": [
+    "Avenida de Sotileza",
+    "Calle de Atilano Rodríguez",
+    "Calle de Castilla",
+    "Calle de Isabel II",
+    "Calle de Ruiz Zorrilla",
+    "Glorieta de Emérito Velarde",
+    "Plaza de las Cachavas",
+    "Túnel de los Jardines de Pereda"
+  ],
+  "Calle de Antonio López Cortés": [
+    "Avenida de Leonardo Rucabado",
+    "Calle El Somo",
+    "Calle de Victoriano Fernández",
+    "Calle de la Cooperativa del Campo"
+  ],
+  "Calle de Antonio Machado": [
+    "Calle de Antonio de Mendoza",
+    "Calle de las Marzas"
+  ],
+  "Calle de Antonio Nebrija": [
+    "Calle El Somo",
+    "Calle de Las Portillas",
+    "Calle de Manuel Cacicedo",
+    "Calle del Mazo de Abajo"
+  ],
+  "Calle de Antonio Quirós": [
+    "Paseo de Menéndez Pelayo"
+  ],
+  "Calle de Antonio de Cabezón": [
+    "Calle de Enrique Gran",
+    "Calle de Macias Picavea",
+    "Calle de San Simón"
+  ],
+  "Calle de Antonio de Mendoza": [
+    "Calle de Antonio Machado",
+    "Calle de La Folía",
+    "Calle de las Marzas",
+    "Calle de los Hidalgos",
+    "Calle del Cardenal Cisneros",
+    "Paseo de Altamira"
+  ],
+  "Calle de Antonio de Tova y Arredondo": [
+    "Calle de Anibal García Riancho",
+    "Calle de Castilla",
+    "Calle del Marqués de la Hermida",
+    "Calle del Varadero"
+  ],
+  "Calle de Antonio de la Dehesa": [
+    "Barrio La Torre"
+  ],
+  "Calle de Argentina": [
+    "Calle Alta",
+    "Calle de Colombia",
+    "Calle de Fernando VI",
+    "Calle de La Habana",
+    "Calle de la Justicia",
+    "Calle del Río Ebro"
+  ],
+  "Calle de Arriba": [
+    "Calle Fumoril",
+    "Calle La Nuncia",
+    "Calle Udial",
+    "Calle de Agapito García Rumayor",
+    "Calle de Aviche",
+    "Calle de Federico Muñóz",
+    "Calle de Inés Diego del Noval",
+    "Calle de Jesús Otero",
+    "Calle de Veridiano Rojo Herrero"
+  ],
+  "Calle de Arsenio Odriozola": [
+    "Avenida del Doctor Diego Madrazo",
+    "Calle de José María González Trevilla"
+  ],
+  "Calle de Arturo Duo Vital": [
+    "Calle Clara Trueba y Cossio",
+    "Calle Luz de Alvear",
+    "Calle de Adarzo",
+    "Calle de Alfredo Kraus",
+    "Calle de Isaac Albeniz"
+  ],
+  "Calle de Ataúlfo Argenta": [
+    "Calle La Pereda",
+    "Calle Lepanto",
+    "Calle de Bailén",
+    "Calle de Eduardo Benot",
+    "Calle de La Gándara",
+    "Calle de Lope de Vega",
+    "Calle de Marcelino Sanz de Sautuola",
+    "Calle de Pancho Cossío",
+    "Calle de San José",
+    "Calle de las Infantas",
+    "Pasaje de Ana",
+    "Pasaje de Clara",
+    "Pasaje de Inés",
+    "Pasaje de Irene",
+    "Pasaje de Lituca",
+    "Pasaje de Nieves",
+    "Pasaje de Silda",
+    "Pasaje de Verónica",
+    "Pasaje de Águeda"
+  ],
+  "Calle de Atilano Rodríguez": [
+    "Calle La Peña",
+    "Calle de Antonio López",
+    "Calle de Castilla",
+    "Calle de Cádiz",
+    "Calle de Madrid"
+  ],
+  "Calle de Augusto González de Linares": [
+    "Calle de Fernando de los Ríos",
+    "Calle de Honduras",
+    "Calle de Pedro de Salinas",
+    "Calle de los Estudiantes"
+  ],
+  "Calle de Aurelio Espinosa": [
+    "Calle Repuente",
+    "Grupo Fernando Ateca"
+  ],
+  "Calle de Aurora Gutiérrez Galante": [
+    "Avenida del Deporte",
+    "Barrio de Nuestra Señora de Belén",
+    "Calle de la Fuente del Fresno"
+  ],
+  "Calle de Aurora Saez González": [
+    "Barrio La Torre",
+    "Calle de Juan Antonio García Carrasquedo"
+  ],
+  "Calle de Avelino Gutiérrez": [
+    "Barrio Camino",
+    "Calle de Francisco Salazar",
+    "Paseo de Canalejas"
+  ],
+  "Calle de Aviche": [
+    "Barrio La Torre",
+    "Calle Rafael Gutiérrez Colomer",
+    "Calle Repuente",
+    "Calle de Arriba",
+    "Calle de Bolado",
+    "Calle de Juan Antonio García Carrasquedo",
+    "Calle de Lázaro Cárdenas",
+    "Calle de Ricardo Fernández de la Reguera",
+    "Calle de los Canteros de Trasmiera"
+  ],
+  "Calle de Bailén": [
+    "Calle de Ataúlfo Argenta",
+    "Calle de Hernán Cortés",
+    "Calle del Medio"
+  ],
+  "Calle de Barcelona": [
+    "Calle de Andrés del Río",
+    "Paseo de Canalejas"
+  ],
+  "Calle de Bellavista": [
+    "Calle de Domingo Camús",
+    "Calle de El Recial",
+    "Calle de Inés Diego del Noval",
+    "Calle de José María González Trevilla",
+    "Calle de Pedro de Abarca",
+    "Calle de Vallemier",
+    "Calle del Club Atlético España de Cueto"
+  ],
+  "Calle de Benidorm": [
+    "Calle La Barraca",
+    "Calle de Fernando de los Ríos",
+    "Calle de Trasmiera"
+  ],
+  "Calle de Benito Madariaga": [
+    "Calle Alta",
+    "Calle Vargas"
+  ],
+  "Calle de Bernardo de Miera y Pacheco": [
+    "Calle de Castilla",
+    "Calle del Marqués de la Hermida"
+  ],
+  "Calle de Blas Cabrera": [
+    "Avenida de los Castros"
+  ],
+  "Calle de Bolado": [
+    "Calle Rafael Gutiérrez Colomer",
+    "Calle de Aviche",
+    "Calle de Juan Antonio García Carrasquedo",
+    "Calle de Lázaro Cárdenas",
+    "Calle de Ricardo Fernández de la Reguera",
+    "Calle de San Pedro del Mar"
+  ],
+  "Calle de Bonifaz": [
+    "Calle de Casimiro Sainz",
+    "Calle de La Gándara",
+    "Calle de Lope de Vega",
+    "Pasaje de Zorrilla"
+  ],
+  "Calle de Borleña": [],
+  "Calle de Bratislava": [
+    "Calle de Eslovaquia",
+    "Calle de Lavapiés",
+    "Calle de la Albericia",
+    "Calle de la Prensa",
+    "Calle de la Tejera"
+  ],
+  "Calle de Brañaflor": [
+    "Calle del Real Racing Club"
+  ],
+  "Calle de Bruno Alonso": [
+    "Calle Río Cubas",
+    "Calle de Alejandro García",
+    "Calle de Tetuán"
+  ],
+  "Calle de Calatayud": [
+    "Calle de Luis Martínez",
+    "Calle de Ramón y Cajal",
+    "Calle del Teniente Fuentes Pila",
+    "Paseo de Pérez Galdós"
+  ],
+  "Calle de Calderón de la Barca": [
+    "Calle de Isabel II",
+    "Calle de Las Navas de Tolosa",
+    "Plaza de las Cachavas"
+  ],
+  "Calle de Calvo Sotelo": [
+    "Calle La Pereda",
+    "Calle de Alfonso VIII",
+    "Calle de Isabel II",
+    "Calle de Jesús de Monasterio",
+    "Calle de Ruamayor"
+  ],
+  "Calle de Campogiro": [
+    "Avenida de Cajo",
+    "Calle El Castro",
+    "Calle La Peña",
+    "Calleja del Castro",
+    "Travesía de Peñacastillo"
+  ],
+  "Calle de Camús": [
+    "Calle Cueto",
+    "Calle Julio Blanco",
+    "Calle Madreselva",
+    "Calle de Inés Diego del Noval",
+    "Calle de Ricardo Lorenzo",
+    "Calle de la Salud",
+    "Calle del Hipódromo"
+  ],
+  "Calle de Carlos III": [
+    "Calle de Castilla",
+    "Calle de Madrid",
+    "Plaza del Progreso"
+  ],
+  "Calle de Carlos Salomón": [
+    "Calle del Sol"
+  ],
+  "Calle de Carmen Amaya": [
+    "Calle de Leopoldo Alas Clarín",
+    "Calle de Ricardo López Aranda"
+  ],
+  "Calle de Carmen Bravo Villasante": [
+    "Calle de Faustino Cavadas",
+    "Calle de Gertrudis Gómez de Avellaneda",
+    "Calle de Manuel Velez",
+    "Calle de Rosalía de Castro",
+    "Calle de Santiago García Cuadrado",
+    "Calle de los Hermanos Calderón",
+    "Calle de Ángel Medina"
+  ],
+  "Calle de Casimiro Pérez de la Riva": [
+    "Calle de Juan Pablo II",
+    "Calle de Lázaro Cárdenas",
+    "Calle de los Canteros de Trasmiera"
+  ],
+  "Calle de Casimiro Sainz": [
+    "Calle de Andrés del Río",
+    "Calle de Bonifaz",
+    "Calle de Hernán Cortés",
+    "Calle de Juan de la Cosa",
+    "Calle de Peña Herbosa",
+    "Calle de San Emeterio",
+    "Calle de Santa Lucía",
+    "Paseo de Canalejas",
+    "Plaza de Matías Montero"
+  ],
+  "Calle de Castelar": [
+    "Avenida de la Reina Victoria",
+    "Plaza de Matías Montero"
+  ],
+  "Calle de Castilla": [
+    "Avenida de Parayas",
+    "Calle de Antonio López",
+    "Calle de Antonio de Tova y Arredondo",
+    "Calle de Atilano Rodríguez",
+    "Calle de Bernardo de Miera y Pacheco",
+    "Calle de Carlos III",
+    "Calle de Federico Vidal",
+    "Calle de Isabel II",
+    "Calle de José de Bustamante y Guerra",
+    "Calle de Juan Antonio Gutiérrez de la Concha",
+    "Calle de Juan de Santander",
+    "Calle de Nicolás Salmerón",
+    "Calle de Ruiz Zorrilla",
+    "Calle de la Armada Española",
+    "Calle de las Rederas",
+    "Calle de los Alféreces Provisionales",
+    "Calle del Capitán Palacios",
+    "Calle del Marqués de la Hermida"
+  ],
+  "Calle de Castor Agra García": [
+    "Barrio La Torre"
+  ],
+  "Calle de Catalina Bárcena": [
+    "Calle de Ernest Lluch"
+  ],
+  "Calle de Ciriaco Párraga": [
+    "Avenida del Cardenal Herrera Oria",
+    "Calle de Alfredo Pérez Guillén",
+    "Calle de Alfredo Pérez Guillés",
+    "Calle de Luis Quintanilla Isasi"
+  ],
+  "Calle de Clara Campoamor": [
+    "Calle Eduardo Obregón Barreda",
+    "Calle Udial",
+    "Calle de Matilde de la Torre",
+    "Calle de Modesto Martinez Pacheco",
+    "Calle de Veridiano Rojo Herrero"
+  ],
+  "Calle de Cobo de la Torre": [
+    "Calle del Monte Caloca"
+  ],
+  "Calle de Colombia": [
+    "Calle de Argentina",
+    "Calle de La Habana",
+    "Calle de Montevideo",
+    "Calle de la Justicia"
+  ],
+  "Calle de Concepción Arenal": [
+    "Calle Alta",
+    "Calle Miguel Ángel García Guinea",
+    "Calle de Alicante",
+    "Calle de San Rafael",
+    "Calle del Duque de Ahumada"
+  ],
+  "Calle de Consuelo Berges": [
+    "Avenida de Concha Espina",
+    "Calle La Pereda",
+    "Calle de Manuel Gonzalez Hoyos",
+    "Calle de Matilde Zapata",
+    "Calle de Pedro de Abarca",
+    "Calle de Pepe Isbert"
+  ],
+  "Calle de Corbera": [
+    "Barrio Corbanera"
+  ],
+  "Calle de Corbán": [
+    "Avenida del Marqués de Valdecilla",
+    "Glorieta de Corbán"
+  ],
+  "Calle de Corceño": [
+    "Avenida de Vicente Trueba",
+    "Calle El Campizo",
+    "Calle El Somo",
+    "Calle de La Llanilla",
+    "Calle de Lauro Fernández González",
+    "Calle de la Gloria"
+  ],
+  "Calle de Corconeras": [
+    "Calle Fumoril",
+    "Calle de los Hermanos Tonetti"
+  ],
+  "Calle de Cádiz": [
+    "Calle de Atilano Rodríguez",
+    "Calle de Isabel II",
+    "Calle de Las Navas de Tolosa",
+    "Calle del Obispo Juan Plaza García",
+    "Plaza de Alfonso XIII",
+    "Rampa de Sotileza"
+  ],
+  "Calle de César Llamazares": [
+    "Calle de Abilio García Barón"
+  ],
+  "Calle de Daoíz y Velarde": [
+    "Calle de Eduardo Benot",
+    "Calle de Emilia Pardo Bazán",
+    "Calle de Gómez Oreña",
+    "Calle de Hernán Cortés",
+    "Calle de Lope de Vega",
+    "Calle de Marcelino Sanz de Sautuola",
+    "Calle de Pancho Cossío",
+    "Calle de las Infantas"
+  ],
+  "Calle de Domingo Camús": [
+    "Calle de Bellavista",
+    "Calle de Pedro Rodríguez-Parets",
+    "Calle de Pedro de Abarca"
+  ],
+  "Calle de Don Daniel": [
+    "Avenida de la Reina Victoria",
+    "Plaza de San Martín del Mar"
+  ],
+  "Calle de Dámaso Alonso": [
+    "Calle de José Luis Hidalgo"
+  ],
+  "Calle de Eduardo Benot": [
+    "Calle de Ataúlfo Argenta",
+    "Calle de Daoíz y Velarde",
+    "Calle de Hernán Cortés",
+    "Pasaje de Silda"
+  ],
+  "Calle de Eduardo Torralda Beci": [
+    "Calle de Santiago García Cuadrado",
+    "Calle de los Hermanos Calderón",
+    "Calle de Ángel Medina"
+  ],
+  "Calle de El Recial": [
+    "Avenida de Pellegrino Zuyer",
+    "Avenida del Doctor Diego Madrazo",
+    "Calle La Pereda",
+    "Calle de Bellavista",
+    "Calle de Inés Diego del Noval",
+    "Calle de José Pueyo",
+    "Calle de Matilde Zapata"
+  ],
+  "Calle de Elcano": [
+    "Calle Magallanes"
+  ],
+  "Calle de Elena Quiroga": [
+    "Calle El Somo",
+    "Calle de Juan José Mier",
+    "Calle de Manuel Cacicedo"
+  ],
+  "Calle de Elena Soriano": [
+    "Calle de Juan Guerrero Urreisti",
+    "Calle de Ricardo López Aranda"
+  ],
+  "Calle de Emeterio Velarde": [],
+  "Calle de Emilia Pardo Bazán": [
+    "Calle de Daoíz y Velarde",
+    "Calle de José Ramón López Dóriga"
+  ],
+  "Calle de Emilio Díaz Caneja": [
+    "Glorieta de Emilio Díaz Caneja",
+    "Paseo de Altamira"
+  ],
+  "Calle de Enrique Gran": [
+    "Calle de Antonio de Cabezón",
+    "Calle del Prado de San Roque",
+    "Calle del Río de la Pila",
+    "Grupo Miralmar"
+  ],
+  "Calle de Entrepatios": [
+    "Avenida de Sotileza"
+  ],
+  "Calle de Ernest Lluch": [
+    "Barrio La Torre",
+    "Calle de Alfonsina Storni",
+    "Calle de Catalina Bárcena",
+    "Calle de Modesto Martinez Pacheco",
+    "Calle de Sor Ramona Ormazábal",
+    "Calle de la Libertad",
+    "Calle de las Hermanas Bronte"
+  ],
+  "Calle de Eslovaquia": [
+    "Calle de Bratislava",
+    "Calle de la Tejera"
+  ],
+  "Calle de Eulalio Ferrer": [
+    "Calle Alta",
+    "Calle Vargas"
+  ],
+  "Calle de Eusebio Santamaría": [
+    "Calle de Gertrudis Gómez de Avellaneda",
+    "Calle de Manuel Velez",
+    "Calle de Rosalía de Castro",
+    "Calle de Santiago García Cuadrado"
+  ],
+  "Calle de Faustino Cavadas": [
+    "Avenida Primero de Mayo",
+    "Calle de Carmen Bravo Villasante",
+    "Calle de Gertrudis Gómez de Avellaneda",
+    "Calle de Manuel Velez",
+    "Calle de María Guerrero",
+    "Calle de los Hermanos Calderón"
+  ],
+  "Calle de Federico García Lorca": [
+    "Calle de Alejandro Gago",
+    "Calle de Lavapiés",
+    "Calle de Roy García de Santander"
+  ],
+  "Calle de Federico Muñóz": [
+    "Calle La Pereda",
+    "Calle de Agapito García Rumayor",
+    "Calle de Arriba",
+    "Calle del Mansín",
+    "Calle del Marqués de Hazas"
+  ],
+  "Calle de Federico Vial": [
+    "Calle de Federico Vidal"
+  ],
+  "Calle de Federico Vidal": [
+    "Calle de Castilla",
+    "Calle de Federico Vial",
+    "Calle del Marqués de la Hermida"
+  ],
+  "Calle de Fernando Calderón Rueda": [
+    "Bajada de la Encina",
+    "Calle Junco"
+  ],
+  "Calle de Fernando VI": [
+    "Calle de Argentina",
+    "Calle de la Democracia",
+    "Calle de la Justicia"
+  ],
+  "Calle de Fernando de Montalvo": [
+    "Calle Miguel Bravo"
+  ],
+  "Calle de Fernando de los Ríos": [
+    "Bajada de La Teja",
+    "Bajada de Rumayor",
+    "Bajada de la Encina",
+    "Calle La Barraca",
+    "Calle de Augusto González de Linares",
+    "Calle de Benidorm",
+    "Calle de Guillermo Arce",
+    "Calle de José de Escandón",
+    "Calle de Pedro de Salinas",
+    "Calle de Ramón Menéndez Pidal",
+    "Calle de Trasmiera",
+    "Calle de la Virgen del Camino",
+    "Paseo de Altamira",
+    "Túnel de Puertochico"
+  ],
+  "Calle de Fernández de Isla": [
+    "Calle de Juan de Garay",
+    "Calle del Marqués del Arco",
+    "Calle del Monte Caloca",
+    "Calle del Obispo Sánchez de Castro",
+    "Cuesta de las Ánimas"
+  ],
+  "Calle de Floranes": [
+    "Avenida de José Hierro",
+    "Calle de Alonso",
+    "Calle de Narciso Cuevas",
+    "Calle de los Indianos",
+    "Calle del Beato de Liébana",
+    "Calle del Lábaro",
+    "Pasaje de Mies del Valle",
+    "Travesía de Valderrama"
+  ],
+  "Calle de Francisco Cáceres": [
+    "Avenida de Cantabria",
+    "Avenida de Concha Espina",
+    "Calle de Manuel Gonzalez Hoyos"
+  ],
+  "Calle de Francisco Palazuelos": [
+    "Calle de Lope de Vega",
+    "Calle de Santa Teresa de Jesús",
+    "Calle del Sol"
+  ],
+  "Calle de Francisco Rivas Moreno": [
+    "Calle de Francisco Rivero Gil",
+    "Calle de Manuel Ruiz Quevedo"
+  ],
+  "Calle de Francisco Rivero Gil": [
+    "Calle de Francisco Rivas Moreno",
+    "Calle de Manuel Ruiz Quevedo"
+  ],
+  "Calle de Francisco Salazar": [
+    "Calle de Avelino Gutiérrez",
+    "Paseo de Pérez Galdós"
+  ],
+  "Calle de Francisco Tomás y Valiente": [
+    "Avenida de Nueva Montaña",
+    "Barrio Santiago el Mayor",
+    "Calle de Luciano Malumbres"
+  ],
+  "Calle de Francisco de Iturrino": [
+    "Calle de José María de Cossío",
+    "Calle de Rafael Alsua",
+    "Calle del Pintor Gutiérrez Solana"
+  ],
+  "Calle de Francisco de Quevedo": [
+    "Calle La Paz",
+    "Calle de Guevara",
+    "Calle de Liébana",
+    "Calle de San Celedonio",
+    "Calle del Cubo",
+    "Plaza de los Remedios"
+  ],
+  "Calle de Fray Silvestre Vélez de Escalante": [
+    "Calle de los Alféreces Provisionales"
+  ],
+  "Calle de Fresnedo de la Calzada": [
+    "Calle Junco",
+    "Paseo de Altamira"
+  ],
+  "Calle de Félix Rodríguez": [
+    "Calle de Montevideo"
+  ],
+  "Calle de Galicia": [
+    "Calle de Logroño"
+  ],
+  "Calle de García de Morato": [
+    "Calle del Varadero",
+    "Paseo de Alberto Pico"
+  ],
+  "Calle de Gerardo Alvear": [
+    "Avenida de Candina",
+    "Calle de Peña Sagra",
+    "Calle del Real Consulado",
+    "Calle del Río Besaya"
+  ],
+  "Calle de Gerardo Diego": [
+    "Calle Cañas",
+    "Calle de Joaquín Bustamante",
+    "Plaza de Manuel Llano"
+  ],
+  "Calle de Gerona": [
+    "Barrio Camino",
+    "Calle Río Cubas",
+    "Calle de Tetuán",
+    "Paseo de Canalejas"
+  ],
+  "Calle de Gertrudis Gómez de Avellaneda": [
+    "Calle de Carmen Bravo Villasante",
+    "Calle de Eusebio Santamaría",
+    "Calle de Faustino Cavadas",
+    "Calle de María Zambrano",
+    "Calle de Rosario Iglesias"
+  ],
+  "Calle de Gonzalo Salazar": [
+    "Calle del Monte Caloca"
+  ],
+  "Calle de Gregorio Cuesta": [
+    "Calle de Perú",
+    "Calle del Obispo Menéndez de Luarca"
+  ],
+  "Calle de Gregorio Marañón": [],
+  "Calle de Guevara": [
+    "Calle de Alonso Ercilla",
+    "Calle de Francisco de Quevedo",
+    "Calle de Luis Hoyos Sainz",
+    "Calle de San José",
+    "Calle de Sevilla",
+    "Calle del Asilo",
+    "Calle del Río de la Pila",
+    "Cuesta de la Atalaya",
+    "Plaza de la Leña",
+    "Travesía de la Enseñanza"
+  ],
+  "Calle de Guillermo Arce": [
+    "Calle de Fernando de los Ríos",
+    "Calle de Ramón Menéndez Pidal",
+    "Paseo de Altamira"
+  ],
+  "Calle de Guillermo Dierssen": [
+    "Avenida de José Ortega y Gasset",
+    "Avenida del Voluntariado"
+  ],
+  "Calle de Gómez Oreña": [
+    "Calle de Daoíz y Velarde",
+    "Calle de Hernán Cortés",
+    "Calle de José Ramón López Dóriga",
+    "Calle de Moctezuma",
+    "Calle de Pancho Cossío",
+    "Calle de Pedrueca",
+    "Calle de Pizarro"
+  ],
+  "Calle de Hernán Cortés": [
+    "Calle Lepanto",
+    "Calle de Bailén",
+    "Calle de Casimiro Sainz",
+    "Calle de Daoíz y Velarde",
+    "Calle de Eduardo Benot",
+    "Calle de Gómez Oreña",
+    "Calle de La Gándara",
+    "Calle de Lope de Vega",
+    "Calle de Marcelino Sanz de Sautuola",
+    "Calle de Pancho Cossío",
+    "Calle de San José",
+    "Calle de Trafalgar",
+    "Calle de las Infantas"
+  ],
+  "Calle de Honduras": [
+    "Avenida de los Castros",
+    "Calle de Augusto González de Linares",
+    "Calle de José Simón Cabarga",
+    "Calle de los Estudiantes",
+    "Glorieta de la Universidad"
+  ],
+  "Calle de Ignacio Aguilera": [
+    "Calle La Abubilla",
+    "Calle de Alejandro Gago",
+    "Calle de Lavapiés",
+    "Calle de Roy García de Santander",
+    "Calle de la Gloria",
+    "Calle de los Portuarios",
+    "Túnel de La Albericia"
+  ],
+  "Calle de Inés Diego del Noval": [
+    "Avenida del Faro Pintor Eduardo Sanz",
+    "Calle Julio Blanco",
+    "Calle de Arriba",
+    "Calle de Bellavista",
+    "Calle de Camús",
+    "Calle de El Recial",
+    "Calle de José María González Trevilla",
+    "Calle de Pedro Rodríguez-Parets",
+    "Calle de Pedro de Abarca",
+    "Calle de los Hermanos Tonetti"
+  ],
+  "Calle de Isaac Albeniz": [
+    "Avenida de Vicente Trueba",
+    "Calle de Alfredo Kraus",
+    "Calle de Arturo Duo Vital",
+    "Calle de las Cagigas"
+  ],
+  "Calle de Isaac Peral": [
+    "Calle Alta",
+    "Calle Anjana",
+    "Calle de Alicante",
+    "Calle de Juan de Piasca",
+    "Calle del Ojáncano",
+    "Colonia Virgen del Milagro",
+    "Cuesta de las Ánimas"
+  ],
+  "Calle de Isabel II": [
+    "Calle La Paz",
+    "Calle de Antonio López",
+    "Calle de Calderón de la Barca",
+    "Calle de Calvo Sotelo",
+    "Calle de Castilla",
+    "Calle de Cádiz",
+    "Calle de Jesús de Monasterio",
+    "Calle de Méndez Núñez",
+    "Calle de Ruamayor",
+    "Calle del Cubo",
+    "Calle del Mercado",
+    "Plaza de la Esperanza"
+  ],
+  "Calle de Isabel Torres": [
+    "Barrio Rucandial"
+  ],
+  "Calle de Jean León": [
+    "Calle de Vista Alegre",
+    "Calle del Asilo",
+    "Travesía de la Enseñanza"
+  ],
+  "Calle de Jerónimo Sainz de la Maza": [
+    "Avenida de Candina",
+    "Avenida de Parayas",
+    "Calle Alta",
+    "Calle de Montevideo",
+    "Calle de la Isla de Cuba",
+    "Calle del Obispo Menéndez de Luarca",
+    "Calle del Padre Rábago",
+    "Enlace de La Marga",
+    "Glorieta de Candina",
+    "Glorieta de Cuatro Caminos",
+    "Plaza Rodríguez Guerra",
+    "Plaza del Alzamiento de 1808"
+  ],
+  "Calle de Jesús Otero": [
+    "Calle de Arriba"
+  ],
+  "Calle de Jesús Revaque Garea": [
+    "Calle de Santa Lucía"
+  ],
+  "Calle de Jesús de Monasterio": [
+    "Calle Cervantes",
+    "Calle Garmendia",
+    "Calle Isabel la Católica",
+    "Calle La Peña",
+    "Calle de Calvo Sotelo",
+    "Calle de Isabel II",
+    "Calle de Ruamayor",
+    "Calle del Marqués del Arco",
+    "Calle del Obispo Sánchez de Castro",
+    "Túnel de la Calle Burgos"
+  ],
+  "Calle de Joaquín Bustamante": [
+    "Calle de Gerardo Diego",
+    "Calle de Leonardo Torres Quevedo",
+    "Calle de Santa María Micaela"
+  ],
+  "Calle de Joaquín Cayón": [
+    "Avenida del Stadium",
+    "Calle de Palencia"
+  ],
+  "Calle de Joaquín Costa": [
+    "Bajada de la Cañía",
+    "Calle de Luis Martínez",
+    "Calle de Ramón y Cajal",
+    "Calleja Norte",
+    "Paseo de Pérez Galdós",
+    "Plaza del Alto de Miranda"
+  ],
+  "Calle de Joaquín Reguera Sevilla": [
+    "Calle de Juan XXIII",
+    "Vía Cornelia"
+  ],
+  "Calle de Joaquín Rodrigo": [
+    "Calle Clara Trueba y Cossio",
+    "Glorieta de Adarzo",
+    "Rotonda de Julio Jaurena"
+  ],
+  "Calle de Joaquín Salas": [
+    "Calle de Ricardo López Aranda",
+    "Polígono industrial de Elegarcu"
+  ],
+  "Calle de Jorge Sepúlveda": [
+    "Barrio La Torre",
+    "Calle de Modesto Martinez Pacheco",
+    "Calle de Sor Ramona Ormazábal"
+  ],
+  "Calle de Josefina de la Maza": [
+    "Calle La Sotavesilla",
+    "Calle de Resconorio"
+  ],
+  "Calle de José Antonio Maza": [
+    "Avenida de Camarreal",
+    "Avenida de José Ortega y Gasset",
+    "Calle de Santiago Ontañón",
+    "Calle del Doctor González Torre"
+  ],
+  "Calle de José Estrañi": [],
+  "Calle de José Llata Fernández": [
+    "Calle Cueto",
+    "Calle de Ricardo Lorenzo",
+    "Calle de los Hermanos Tonetti"
+  ],
+  "Calle de José Luis Casado Soto": [
+    "Calle de la Justicia"
+  ],
+  "Calle de José Luis Hidalgo": [
+    "Avenida de Camarreal",
+    "Calle de Dámaso Alonso",
+    "Calle de Luis Buñuel",
+    "Calle de Rafael Alberti",
+    "Calle de Santiago Ontañón"
+  ],
+  "Calle de José Martínez Mazas": [
+    "Calle de María Cristina",
+    "Calle de San Sebastián",
+    "Calle del Prado de San Roque",
+    "Paseo de Altamira"
+  ],
+  "Calle de José María González Trevilla": [
+    "Calle de Arsenio Odriozola",
+    "Calle de Bellavista",
+    "Calle de Inés Diego del Noval"
+  ],
+  "Calle de José María de Cossío": [
+    "Avenida del Cardenal Herrera Oria",
+    "Calle de Francisco de Iturrino",
+    "Grupo María Blanchard",
+    "Plaza de los Acebedos"
+  ],
+  "Calle de José Pueyo": [
+    "Calle de El Recial",
+    "Calle de Vallemier",
+    "Calle del Club Atlético España de Cueto"
+  ],
+  "Calle de José Ramón López Dóriga": [
+    "Calle de Emilia Pardo Bazán",
+    "Calle de Gómez Oreña",
+    "Calle de Pancho Cossío",
+    "Calle de Santa Lucía"
+  ],
+  "Calle de José Rioja": [
+    "Calle del Prado de San Roque",
+    "Paseo de Altamira"
+  ],
+  "Calle de José Simón Cabarga": [
+    "Bajada de la Encina",
+    "Calle de Honduras",
+    "Calle de María Ascensión Fresnedo",
+    "Túnel de Puertochico"
+  ],
+  "Calle de José de Bustamante y Guerra": [
+    "Calle de Castilla",
+    "Calle de Leonor Plantagenet",
+    "Calle del Marqués de la Hermida",
+    "Leonor de la Vega"
+  ],
+  "Calle de José de Escandón": [
+    "Bajada del Polio",
+    "Calle de Fernando de los Ríos",
+    "Calle de Ramón Sáez de Adana"
+  ],
+  "Calle de Juan Antonio García Carrasquedo": [
+    "Barrio Monte La Torre",
+    "Calle de Aurora Saez González",
+    "Calle de Aviche",
+    "Calle de Bolado",
+    "Calle de Lázaro Cárdenas",
+    "Calle de Ricardo Fernández de la Reguera"
+  ],
+  "Calle de Juan Antonio Gutiérrez de la Concha": [
+    "Calle de Anibal García Riancho",
+    "Calle de Castilla",
+    "Calle del Marqués de la Hermida"
+  ],
+  "Calle de Juan Guerrero Urreisti": [
+    "Avenida de José Ortega y Gasset",
+    "Calle de Agustín de Colosía",
+    "Calle de Alberico Pardo",
+    "Calle de Elena Soriano",
+    "Calle del Padre Carballo",
+    "Urbanización Los Llanos"
+  ],
+  "Calle de Juan José Mier": [
+    "Calle de Elena Quiroga",
+    "Calle de Miguel Ángel Samperio",
+    "Calle de Somonte",
+    "Calle de Victoriano Fernández"
+  ],
+  "Calle de Juan José Pérez del Molino": [
+    "Calle del Monte",
+    "Vía Cornelia"
+  ],
+  "Calle de Juan Pablo II": [
+    "Calle de Casimiro Pérez de la Riva",
+    "Calle de Lázaro Cárdenas",
+    "Calle de San Pedro del Mar"
+  ],
+  "Calle de Juan XXIII": [
+    "Calle de Joaquín Reguera Sevilla",
+    "Calle del Monte",
+    "Travesía Los Caños",
+    "Vía Cornelia"
+  ],
+  "Calle de Juan de Borbón": [
+    "Avenida de La Magdalena",
+    "Calle de la Familia Real"
+  ],
+  "Calle de Juan de Garay": [
+    "Calle de Fernández de Isla",
+    "Cuesta de las Ánimas"
+  ],
+  "Calle de Juan de Piasca": [
+    "Calle Alta",
+    "Calle Vargas",
+    "Calle de Isaac Peral",
+    "Calle del Tres de Noviembre"
+  ],
+  "Calle de Juan de Santander": [
+    "Calle de Anibal García Riancho",
+    "Calle de Castilla",
+    "Calle del Marqués de la Hermida"
+  ],
+  "Calle de Juan de la Cosa": [
+    "Avenida de la Reina Victoria",
+    "Calle de Casimiro Sainz",
+    "Calle de Peña Herbosa"
+  ],
+  "Calle de Juan del Castillo": [
+    "Bajada de Rumayor",
+    "Paseo de Altamira"
+  ],
+  "Calle de La Canal": [],
+  "Calle de La Folía": [
+    "Calle de Antonio de Mendoza",
+    "Calle de San Juan Bautista de la Salle",
+    "Calle de los Hidalgos",
+    "Calle del Beato de Liébana",
+    "Calle del Cardenal Cisneros"
+  ],
+  "Calle de La Gándara": [
+    "Calle La Pereda",
+    "Calle de Ataúlfo Argenta",
+    "Calle de Bonifaz",
+    "Calle de Hernán Cortés",
+    "Calle de Peña Herbosa",
+    "Calle de Santa Lucía"
+  ],
+  "Calle de La Habana": [
+    "Calle de Argentina",
+    "Calle de Colombia",
+    "Calle de Montevideo",
+    "Calle de la Democracia",
+    "Calle de la Justicia"
+  ],
+  "Calle de La Llanilla": [
+    "Avenida de Julio Jaurena",
+    "Calle El Campizo",
+    "Calle El Somo",
+    "Calle de Corceño",
+    "Calle de Las Portillas",
+    "Calle de Lauro Fernández González",
+    "Calle de Somonte",
+    "Calle de Tomás Soto Pidal"
+  ],
+  "Calle de La Marina": [
+    "Calle del Arrabal",
+    "Calle del Medio"
+  ],
+  "Calle de Laredo": [
+    "Calle de San Simón",
+    "Calle de Valliciergo"
+  ],
+  "Calle de Las Navas de Tolosa": [
+    "Calle de Calderón de la Barca",
+    "Calle de Cádiz",
+    "Calle de Méndez Núñez"
+  ],
+  "Calle de Las Portillas": [
+    "Calle El Campizo",
+    "Calle El Somo",
+    "Calle de Antonio Nebrija",
+    "Calle de La Llanilla",
+    "Calle de Lauro Fernández González"
+  ],
+  "Calle de Lauro Fernández González": [
+    "Calle El Somo",
+    "Calle de Corceño",
+    "Calle de La Llanilla",
+    "Calle de Las Portillas",
+    "Calle de Tomás Soto Pidal"
+  ],
+  "Calle de Lavapiés": [
+    "Avenida del Deporte",
+    "Calle de Bratislava",
+    "Calle de Federico García Lorca",
+    "Calle de Ignacio Aguilera",
+    "Calle de Miguel Hernández",
+    "Calle de Rafael Alsua",
+    "Calle de Vicente Aleixandre",
+    "Calle de la Gloria",
+    "Calle de los Portuarios",
+    "Cruce de la Albericia"
+  ],
+  "Calle de Leonardo Torres Quevedo": [
+    "Avenida del Cardenal Herrera Oria",
+    "Calle de Joaquín Bustamante",
+    "Glorieta de Eduardo García",
+    "Glorieta de Valdecilla",
+    "Plaza de Manuel Llano",
+    "Túnel de La Marga"
+  ],
+  "Calle de Leonor Plantagenet": [
+    "Calle de José de Bustamante y Guerra",
+    "Calle de la Armada Española"
+  ],
+  "Calle de Leopoldo Alas Clarín": [
+    "Calle de Alberico Pardo",
+    "Calle de Carmen Amaya",
+    "Calle del Bombero Mijares",
+    "Calle del Empalme"
+  ],
+  "Calle de Leopoldo Pardo": [
+    "Calle de Ruiz Zorrilla",
+    "Calle del Marqués de la Hermida"
+  ],
+  "Calle de León Felipe": [
+    "Calle de Menchubel",
+    "Calle del Marqués de Santillana",
+    "Paseo de Canalejas",
+    "Subida al Gurugú"
+  ],
+  "Calle de Liébana": [
+    "Calle de Francisco de Quevedo",
+    "Calle del Asilo"
+  ],
+  "Calle de Logroño": [
+    "Calle de Galicia",
+    "Calle de Segovia",
+    "Calle de Valladolid"
+  ],
+  "Calle de Lope de Vega": [
+    "Calle La Pereda",
+    "Calle de Ataúlfo Argenta",
+    "Calle de Bonifaz",
+    "Calle de Daoíz y Velarde",
+    "Calle de Francisco Palazuelos",
+    "Calle de Hernán Cortés",
+    "Calle de Peña Herbosa",
+    "Calle de Santa Lucía",
+    "Calle de Valliciergo",
+    "Calle del Sol"
+  ],
+  "Calle de Los Aguayos": [
+    "Calle de San Antón",
+    "Calle de San Celedonio",
+    "Calle de San Simón",
+    "Calle del Río de la Pila"
+  ],
+  "Calle de Luciano Malumbres": [
+    "Calle de Francisco Tomás y Valiente"
+  ],
+  "Calle de Luis Buñuel": [
+    "Calle de José Luis Hidalgo",
+    "Calle de Margarita Xirou"
+  ],
+  "Calle de Luis Hoyos Sainz": [
+    "Calle de Guevara",
+    "Calle del Cubo"
+  ],
+  "Calle de Luis Martínez": [
+    "Avenida de la Reina Victoria",
+    "Calle de Calatayud",
+    "Calle de Joaquín Costa",
+    "Calle del Duque de Santo Mauro",
+    "Calle del Rocío",
+    "Plaza de María Luisa Gómez y Pelayo"
+  ],
+  "Calle de Luis Quintanilla Isasi": [
+    "Calle de Alfredo Pérez Guillén",
+    "Calle de Ciriaco Párraga"
+  ],
+  "Calle de Luis Riera Vega": [],
+  "Calle de Luis Salgado Lodeiro": [
+    "Calle Los Barbajos",
+    "Calle Repuente",
+    "Calle de la Tesilla"
+  ],
+  "Calle de Luzmela": [
+    "Calle de San Andrés"
+  ],
+  "Calle de Lázaro Cárdenas": [
+    "Calle de Aviche",
+    "Calle de Bolado",
+    "Calle de Casimiro Pérez de la Riva",
+    "Calle de Juan Antonio García Carrasquedo",
+    "Calle de Juan Pablo II",
+    "Calle de San Pedro del Mar"
+  ],
+  "Calle de Macias Picavea": [
+    "Calle de Antonio de Cabezón",
+    "Calle de San Simón",
+    "Calle de Santa Teresa de Jesús",
+    "Calle del Prado de San Roque",
+    "Grupo Miralmar"
+  ],
+  "Calle de Madrid": [
+    "Calle de Atilano Rodríguez",
+    "Calle de Carlos III",
+    "Calle de Nicolás Salmerón",
+    "Plaza del Progreso"
+  ],
+  "Calle de Manuel Cacicedo": [
+    "Calle de Antonio Nebrija",
+    "Calle de Elena Quiroga",
+    "Calle de Miguel Ángel Samperio",
+    "Calle de Somonte"
+  ],
+  "Calle de Manuel García Lago": [],
+  "Calle de Manuel Gonzalez Hoyos": [
+    "Avenida de Concha Espina",
+    "Calle de Consuelo Berges",
+    "Calle de Francisco Cáceres",
+    "Calle de Valdenoja"
+  ],
+  "Calle de Manuel Pombo Angulo": [
+    "Avenida Primero de Mayo",
+    "Avenida de José Ortega y Gasset",
+    "Avenida del Voluntariado",
+    "Calle de Alberico Pardo",
+    "Calle de Ricardo López Aranda",
+    "Calle del Padre Carballo"
+  ],
+  "Calle de Manuel Prieto Lavín": [
+    "Avenida de Pontejos",
+    "Avenida de los Castros",
+    "Avenida de los Infantes",
+    "Avenida del Stadium"
+  ],
+  "Calle de Manuel Rioz Pedraja": [
+    "Avenida del Cardenal Herrera Oria"
+  ],
+  "Calle de Manuel Ruiz Quevedo": [
+    "Barrio de San Martín del Pino",
+    "Calle de Francisco Rivas Moreno",
+    "Calle de Francisco Rivero Gil"
+  ],
+  "Calle de Manuel Ruiz de Quevedo": [
+    "Calle del Alcalde Macario Rivero"
+  ],
+  "Calle de Manuel Velez": [
+    "Calle de Carmen Bravo Villasante",
+    "Calle de Eusebio Santamaría",
+    "Calle de Faustino Cavadas",
+    "Calle de María Guerrero",
+    "Calle de María Zambrano",
+    "Calle de Rosario Iglesias"
+  ],
+  "Calle de Marcelino Sanz de Sautuola": [
+    "Calle La Pereda",
+    "Calle de Ataúlfo Argenta",
+    "Calle de Daoíz y Velarde",
+    "Calle de Hernán Cortés",
+    "Calle de Pedrueca",
+    "Calle del Medio",
+    "Calle del Río de la Pila"
+  ],
+  "Calle de Marcos Ruiloba Palazuelos": [
+    "Calle Corbeta",
+    "Calle Naos"
+  ],
+  "Calle de Margarita Xirou": [
+    "Calle de Luis Buñuel",
+    "Calle de Rafael Alberti",
+    "Calle de Santiago Ontañón"
+  ],
+  "Calle de Marianela": [
+    "Paseo de Pérez Galdós"
+  ],
+  "Calle de Mariano Lastra": [
+    "Calle de Abilio García Barón",
+    "Calle de los Montes Cántabros"
+  ],
+  "Calle de Mariano Luis Vicente de Velasco": [
+    "Avenida del Cardenal Herrera Oria",
+    "Plaza de Manuel Llano"
+  ],
+  "Calle de Marino Fernández Fontecha": [
+    "Glorieta de Galicia"
+  ],
+  "Calle de María Ascensión Fresnedo": [
+    "Avenida de los Castros",
+    "Calle de José Simón Cabarga"
+  ],
+  "Calle de María Cristina": [
+    "Calle de José Martínez Mazas",
+    "Calle de Vista Alegre",
+    "Cuesta de la Atalaya"
+  ],
+  "Calle de María Curie": [
+    "Calle de Abilio García Barón",
+    "Calle de Río Saja"
+  ],
+  "Calle de María Guerrero": [
+    "Barrio de San Martín del Pino",
+    "Calle de Faustino Cavadas",
+    "Calle de Manuel Velez",
+    "Calle de Santiago García Cuadrado",
+    "Calle de los Hermanos Calderón"
+  ],
+  "Calle de María Sainz de Santuola": [],
+  "Calle de María Zambrano": [
+    "Calle de Gertrudis Gómez de Avellaneda",
+    "Calle de Manuel Velez",
+    "Calle de Rosalía de Castro"
+  ],
+  "Calle de Mateo Escagedo Salmón": [
+    "Calle La Abubilla",
+    "Calle de Resconorio",
+    "Calle de la Gloria",
+    "Calle de la Tesilla",
+    "Túnel de La Albericia"
+  ],
+  "Calle de Matilde Zapata": [
+    "Calle La Pereda",
+    "Calle de Consuelo Berges",
+    "Calle de El Recial"
+  ],
+  "Calle de Matilde de la Torre": [
+    "Avenida de Cantabria",
+    "Calle La Pereda",
+    "Calle Udial",
+    "Calle de Clara Campoamor",
+    "Calle de Pedro Rodríguez-Parets",
+    "Calle de Rodolfo Rodríguez Eguía",
+    "Calle de Veridiano Rojo Herrero",
+    "Calle del Marqués de Hazas"
+  ],
+  "Calle de Menchubel": [
+    "Avenida de la Reina Victoria",
+    "Calle de León Felipe",
+    "Calle del Marqués de Santillana"
+  ],
+  "Calle de Miguel Hernández": [
+    "Calle de Lavapiés",
+    "Calle de la Gloria"
+  ],
+  "Calle de Miguel Servet": [
+    "Avenida de Severo Ochoa",
+    "Calle del Doctor González Torre"
+  ],
+  "Calle de Miguel de Unamuno": [
+    "Avenida de los Castros",
+    "Bajada del Caleruco",
+    "Paseo de Altamira"
+  ],
+  "Calle de Miguel Ángel Samperio": [
+    "Calle El Somo",
+    "Calle de Juan José Mier",
+    "Calle de Manuel Cacicedo",
+    "Calle de Tomás Soto Pidal",
+    "Calle del Mazo de Abajo"
+  ],
+  "Calle de Mocejón": [
+    "Avenida de Sotileza",
+    "Calle del Marqués de La Ensenada"
+  ],
+  "Calle de Moctezuma": [
+    "Calle de Gómez Oreña",
+    "Calle de Santa Lucía"
+  ],
+  "Calle de Modesto Martinez": [
+    "Barrio La Torre",
+    "Calle de Modesto Martinez Pacheco"
+  ],
+  "Calle de Modesto Martinez Pacheco": [
+    "Barrio La Torre",
+    "Calle de Clara Campoamor",
+    "Calle de Ernest Lluch",
+    "Calle de Jorge Sepúlveda",
+    "Calle de Modesto Martinez",
+    "Calle de Sor Ramona Ormazábal"
+  ],
+  "Calle de Montevideo": [
+    "Calle de Colombia",
+    "Calle de Félix Rodríguez",
+    "Calle de Jerónimo Sainz de la Maza",
+    "Calle de La Habana",
+    "Calle de Perú"
+  ],
+  "Calle de Málaga": [
+    "Calle de Valencia"
+  ],
+  "Calle de Méndez Núñez": [
+    "Calle de Isabel II",
+    "Calle de Las Navas de Tolosa"
+  ],
+  "Calle de Narciso Cuevas": [
+    "Calle de Floranes",
+    "Calle de San Fernando"
+  ],
+  "Calle de Navarra": [
+    "Calle de Valencia",
+    "Calle del Archivo de Simancas"
+  ],
+  "Calle de Nicolás Salmerón": [
+    "Calle de Castilla",
+    "Calle de Madrid",
+    "Calle del Marqués de la Hermida",
+    "Glorieta de Emérito Velarde"
+  ],
+  "Calle de Nueve Valles": [
+    "Avenida de Candina"
+  ],
+  "Calle de Palencia": [
+    "Avenida de Pontejos",
+    "Calle de Joaquín Cayón",
+    "Calle de la Braña",
+    "Plaza de las Brisas"
+  ],
+  "Calle de Panamá": [
+    "Avenida de Fernández de Castañeda",
+    "Avenida de los Infantes"
+  ],
+  "Calle de Pancho Cossío": [
+    "Calle La Pereda",
+    "Calle de Ataúlfo Argenta",
+    "Calle de Daoíz y Velarde",
+    "Calle de Gómez Oreña",
+    "Calle de Hernán Cortés",
+    "Calle de José Ramón López Dóriga"
+  ],
+  "Calle de Pedro Rodríguez-Parets": [
+    "Avenida de Cantabria",
+    "Avenida de Pellegrino Zuyer",
+    "Calle La Pereda",
+    "Calle de Agapito García Rumayor",
+    "Calle de Domingo Camús",
+    "Calle de Inés Diego del Noval",
+    "Calle de Matilde de la Torre",
+    "Calle de Rodolfo Rodríguez Eguía",
+    "Calle de los Hermanos Tonetti",
+    "Calle del Mansín"
+  ],
+  "Calle de Pedro de Abarca": [
+    "Avenida de Pellegrino Zuyer",
+    "Calle La Pereda",
+    "Calle de Bellavista",
+    "Calle de Consuelo Berges",
+    "Calle de Domingo Camús",
+    "Calle de Inés Diego del Noval",
+    "Calle del Mansín"
+  ],
+  "Calle de Pedro de Salinas": [
+    "Calle de Augusto González de Linares",
+    "Calle de Fernando de los Ríos",
+    "Calle de la Virgen del Camino",
+    "Colonia de La Universidad",
+    "Paseo de Altamira"
+  ],
+  "Calle de Pedrueca": [
+    "Calle de Gómez Oreña",
+    "Calle de Marcelino Sanz de Sautuola",
+    "Calle de las Infantas"
+  ],
+  "Calle de Pelayo": [],
+  "Calle de Pepe Isbert": [
+    "Calle La Pereda",
+    "Calle de Consuelo Berges",
+    "Calle del Club Atlético España de Cueto"
+  ],
+  "Calle de Perú": [
+    "Calle de Gregorio Cuesta",
+    "Calle de Montevideo"
+  ],
+  "Calle de Peña Bejo": [
+    "Avenida de Parayas",
+    "Calle del Río Deva",
+    "Calle del Río Hijar",
+    "Calle del Río Miera"
+  ],
+  "Calle de Peña Herbosa": [
+    "Calle de Casimiro Sainz",
+    "Calle de Juan de la Cosa",
+    "Calle de La Gándara",
+    "Calle de Lope de Vega"
+  ],
+  "Calle de Peña Labra": [
+    "Calle del Concejo",
+    "Calle del Río Besaya",
+    "Calle del Río Pas",
+    "Calle del Río Pisueña"
+  ],
+  "Calle de Peña Prieta": [
+    "Avenida de Parayas",
+    "Calle de Río Saja",
+    "Calle del Río Asón",
+    "Calle del Río Deva",
+    "Calle del Río Miera",
+    "Calle del Río Nansa"
+  ],
+  "Calle de Peña Sagra": [
+    "Avenida de Candina",
+    "Calle de Gerardo Alvear",
+    "Calle del Río Besaya",
+    "Calle del Río Pas"
+  ],
+  "Calle de Peña Vieja": [
+    "Avenida de Parayas",
+    "Calle de Río Saja"
+  ],
+  "Calle de Peñas Redondas": [
+    "Calle Frontón",
+    "Calle Magallanes",
+    "Grupo San Luis"
+  ],
+  "Calle de Peñas Rocías": [
+    "Avenida de Parayas",
+    "Calle del Río Asón",
+    "Calle del Río Deva",
+    "Calle del Río Hijar",
+    "Calle del Río Miera"
+  ],
+  "Calle de Pizarro": [
+    "Calle de Gómez Oreña",
+    "Calle de Santa Lucía"
+  ],
+  "Calle de Portugal": [
+    "Calle de Vázquez de Mella"
+  ],
+  "Calle de Puente Viesgo": [
+    "Calle Vargas"
+  ],
+  "Calle de Rafael Alberti": [
+    "Calle de José Luis Hidalgo",
+    "Calle de Margarita Xirou"
+  ],
+  "Calle de Rafael Alsua": [
+    "Avenida del Deporte",
+    "Calle de Francisco de Iturrino",
+    "Calle de Lavapiés",
+    "Calle de los Portuarios",
+    "Grupo María Blanchard"
+  ],
+  "Calle de Rafael Elola Torcida": [
+    "Avenida de Severo Ochoa",
+    "Calle de Adarzo"
+  ],
+  "Calle de Rafael Gonzalez Echegaray": [
+    "Calle de la Horadada"
+  ],
+  "Calle de Ramón Menéndez Pidal": [
+    "Calle de Fernando de los Ríos",
+    "Calle de Guillermo Arce"
+  ],
+  "Calle de Ramón Sáez de Adana": [
+    "Bajada del Polio",
+    "Calle de José de Escandón"
+  ],
+  "Calle de Ramón y Cajal": [
+    "Avenida de la Reina Victoria",
+    "Calle de Calatayud",
+    "Calle de Joaquín Costa",
+    "Calle del Duque de Santo Mauro",
+    "Calle del Rocío",
+    "Paseo de Pérez Galdós"
+  ],
+  "Calle de Resconorio": [
+    "Calle La Huertona",
+    "Calle Tristana",
+    "Calle de Josefina de la Maza",
+    "Calle de Mateo Escagedo Salmón",
+    "Calle de San Miguel",
+    "Calle de San Pedro del Mar",
+    "Calle de los Foramontanos"
+  ],
+  "Calle de Ricardo Fernández de la Reguera": [
+    "Calle Eduardo Obregón Barreda",
+    "Calle Rafael Gutiérrez Colomer",
+    "Calle de Aviche",
+    "Calle de Bolado",
+    "Calle de Juan Antonio García Carrasquedo"
+  ],
+  "Calle de Ricardo León": [
+    "Avenida del Cardenal Herrera Oria",
+    "Calle Cañas",
+    "Calle El Castro",
+    "Grupo Ruiz García Este",
+    "Grupo Ruiz García Oeste"
+  ],
+  "Calle de Ricardo Lorenzo": [
+    "Calle Joyos",
+    "Calle Nesteo",
+    "Calle de Camús",
+    "Calle de José Llata Fernández",
+    "Carretera de la cantera"
+  ],
+  "Calle de Ricardo López Aranda": [
+    "Avenida del Voluntariado",
+    "Calle de Agustín de Colosía",
+    "Calle de Alberico Pardo",
+    "Calle de Carmen Amaya",
+    "Calle de Elena Soriano",
+    "Calle de Joaquín Salas",
+    "Calle de Manuel Pombo Angulo",
+    "Calle del Bombero Mijares",
+    "Calle del Padre Carballo"
+  ],
+  "Calle de Rodolfo Rodríguez Eguía": [
+    "Calle La Pereda",
+    "Calle de Matilde de la Torre",
+    "Calle de Pedro Rodríguez-Parets",
+    "Calle del Marqués de Hazas"
+  ],
+  "Calle de Rosalía de Castro": [
+    "Calle de Carmen Bravo Villasante",
+    "Calle de Eusebio Santamaría",
+    "Calle de María Zambrano",
+    "Calle de Rosario Iglesias"
+  ],
+  "Calle de Rosario Acuña": [
+    "Calle de la Justicia"
+  ],
+  "Calle de Rosario Iglesias": [
+    "Calle de Gertrudis Gómez de Avellaneda",
+    "Calle de Manuel Velez",
+    "Calle de Rosalía de Castro",
+    "Calle de Santiago García Cuadrado",
+    "Calle de los Hermanos Calderón"
+  ],
+  "Calle de Roy García de Santander": [
+    "Calle de Federico García Lorca",
+    "Calle de Ignacio Aguilera",
+    "Calle de Vicente Aleixandre",
+    "Calle de la Gloria"
+  ],
+  "Calle de Rualasal": [
+    "Calle de San José",
+    "Plaza de los Remedios"
+  ],
+  "Calle de Ruamayor": [
+    "Calle Alta",
+    "Calle de Calvo Sotelo",
+    "Calle de Isabel II",
+    "Calle de Jesús de Monasterio",
+    "Calle de Ruamenor",
+    "Cuesta del Hospital",
+    "Rampa de Sotileza"
+  ],
+  "Calle de Ruamenor": [
+    "Calle de Ruamayor",
+    "Cuesta del Hospital"
+  ],
+  "Calle de Ruiz Zorrilla": [
+    "Calle de Antonio López",
+    "Calle de Castilla",
+    "Calle de Leopoldo Pardo",
+    "Calle del Marqués de la Hermida"
+  ],
+  "Calle de Río Saja": [
+    "Avenida de Parayas",
+    "Calle de María Curie",
+    "Calle de Peña Prieta",
+    "Calle de Peña Vieja"
+  ],
+  "Calle de Salamanca": [
+    "Calle de Vázquez de Mella"
+  ],
+  "Calle de Salvador Hedilla": [
+    "Calle de San Celedonio",
+    "Calle de Tantín"
+  ],
+  "Calle de San Andrés": [
+    "Avenida de José Hierro",
+    "Calle de Luzmela"
+  ],
+  "Calle de San Antón": [
+    "Calle de Los Aguayos",
+    "Calle de Tantín"
+  ],
+  "Calle de San Celedonio": [
+    "Calle La Milagrosa",
+    "Calle de Alonso Ercilla",
+    "Calle de Francisco de Quevedo",
+    "Calle de Los Aguayos",
+    "Calle de Salvador Hedilla",
+    "Calle de Sevilla",
+    "Calle de Vista Alegre",
+    "Calle del Asilo",
+    "Calle del Río de la Pila",
+    "Cuesta de la Atalaya"
+  ],
+  "Calle de San Emeterio": [
+    "Calle de Casimiro Sainz",
+    "Calle de Santa Lucía",
+    "Rotonda de la Sardinera"
+  ],
+  "Calle de San Fernando": [
+    "Calle Vargas",
+    "Calle de Alonso",
+    "Calle de Narciso Cuevas",
+    "Calle de los Indianos",
+    "Glorieta de Cuatro Caminos",
+    "Travesía de Valderrama",
+    "Túnel de Cuatro Caminos",
+    "Túnel de la Calle Burgos"
+  ],
+  "Calle de San José": [
+    "Calle de Alonso Ercilla",
+    "Calle de Ataúlfo Argenta",
+    "Calle de Guevara",
+    "Calle de Hernán Cortés",
+    "Calle de Rualasal",
+    "Calle de Sevilla",
+    "Calle del Arrabal",
+    "Calle del Medio",
+    "Pasaje de Ana"
+  ],
+  "Calle de San José de Calasanz": [
+    "Grupo San Luis"
+  ],
+  "Calle de San Juan Bautista de la Salle": [
+    "Calle de La Folía"
+  ],
+  "Calle de San Miguel": [
+    "Calle de Resconorio",
+    "Calle de los Foramontanos"
+  ],
+  "Calle de San Pedro": [
+    "Calle La Peña",
+    "Calle de Santa María Egipciaca",
+    "Cuesta del Hospital"
+  ],
+  "Calle de San Pedro del Mar": [
+    "Barrio Corbanera",
+    "Calle Repuente",
+    "Calle Tristana",
+    "Calle de Bolado",
+    "Calle de Juan Pablo II",
+    "Calle de Lázaro Cárdenas",
+    "Calle de Resconorio",
+    "Calle de los Canteros de Trasmiera"
+  ],
+  "Calle de San Quitín": [
+    "Calle Río Cubas",
+    "Paseo de Canalejas"
+  ],
+  "Calle de San Rafael": [
+    "Calle Alta",
+    "Calle de Concepción Arenal"
+  ],
+  "Calle de San Sebastián": [
+    "Calle de José Martínez Mazas",
+    "Calle del Río de la Pila",
+    "Cuesta de la Atalaya"
+  ],
+  "Calle de San Simón": [
+    "Calle de Antonio de Cabezón",
+    "Calle de Laredo",
+    "Calle de Los Aguayos",
+    "Calle de Macias Picavea",
+    "Calle de Santa Lucía",
+    "Calle del Sol"
+  ],
+  "Calle de San Vicente de la Barquera": [
+    "Calle de Andrés del Río",
+    "Pasaje de San Martín",
+    "Paseo de Canalejas"
+  ],
+  "Calle de Santa Lucía": [
+    "Calle de Casimiro Sainz",
+    "Calle de Jesús Revaque Garea",
+    "Calle de José Ramón López Dóriga",
+    "Calle de La Gándara",
+    "Calle de Lope de Vega",
+    "Calle de Moctezuma",
+    "Calle de Pizarro",
+    "Calle de San Emeterio",
+    "Calle de San Simón",
+    "Calle de Valliciergo",
+    "Calle del Río de la Pila",
+    "Paseo de Menéndez Pelayo"
+  ],
+  "Calle de Santa María Egipciaca": [
+    "Calle Alta",
+    "Calle Garmendia",
+    "Calle La Peña",
+    "Calle de San Pedro"
+  ],
+  "Calle de Santa María Micaela": [
+    "Calle de Joaquín Bustamante"
+  ],
+  "Calle de Santa María de la Cabeza": [
+    "Calle de la Democracia"
+  ],
+  "Calle de Santa Teresa de Jesús": [
+    "Calle de Francisco Palazuelos",
+    "Calle de Macias Picavea"
+  ],
+  "Calle de Santiago García Cuadrado": [
+    "Calle de Carmen Bravo Villasante",
+    "Calle de Eduardo Torralda Beci",
+    "Calle de Eusebio Santamaría",
+    "Calle de María Guerrero",
+    "Calle de Rosario Iglesias"
+  ],
+  "Calle de Santiago Ontañón": [
+    "Avenida de Camarreal",
+    "Calle de José Antonio Maza",
+    "Calle de José Luis Hidalgo",
+    "Calle de Margarita Xirou",
+    "Calle del Doctor González Torre"
+  ],
+  "Calle de Santo Toribio": [
+    "Calle de Vista Alegre"
+  ],
+  "Calle de Segovia": [
+    "Calle de Logroño"
+  ],
+  "Calle de Sevilla": [
+    "Calle de Alsedo Bustamante",
+    "Calle de Guevara",
+    "Calle de San Celedonio",
+    "Calle de San José",
+    "Calle de Tantín"
+  ],
+  "Calle de Sixto Córdova": [
+    "Bajada del Caleruco",
+    "Calle Repuente",
+    "Calle Tristana",
+    "Grupo Fernando Ateca"
+  ],
+  "Calle de Sojo y Lomba": [
+    "Calle Junco",
+    "Paseo de Altamira"
+  ],
+  "Calle de Somonte": [
+    "Avenida de la Virgen del Mar",
+    "Calle El Somo",
+    "Calle de Juan José Mier",
+    "Calle de La Llanilla",
+    "Calle de Manuel Cacicedo",
+    "Calle de Victoriano Fernández",
+    "Calle del Mazo de Abajo",
+    "Calle del Mazo de Arriba",
+    "Urbanización La Castellana",
+    "Urbanización Piedras Blancas"
+  ],
+  "Calle de Somorrostro": [
+    "Calle de Alfonso VIII",
+    "Calle del Obispo Juan Plaza García",
+    "Plaza de Alfonso XIII"
+  ],
+  "Calle de Sor Ramona Ormazábal": [
+    "Calle de Ernest Lluch",
+    "Calle de Jorge Sepúlveda",
+    "Calle de Modesto Martinez Pacheco"
+  ],
+  "Calle de Stefan Banic": [
+    "Calle de la Tejera",
+    "Calle del Río Danubio"
+  ],
+  "Calle de Tantín": [
+    "Calle La Milagrosa",
+    "Calle de Alonso Ercilla",
+    "Calle de Salvador Hedilla",
+    "Calle de San Antón",
+    "Calle de Sevilla",
+    "Calle del Río de la Pila",
+    "Cuesta de la Atalaya"
+  ],
+  "Calle de Tetuán": [
+    "Barrio Camino",
+    "Calle Las Canteras",
+    "Calle Pedro Ceballos Guerra",
+    "Calle de Alejandro García",
+    "Calle de Bruno Alonso",
+    "Calle de Gerona",
+    "Rotonda de la Sardinera",
+    "Túnel de Puertochico"
+  ],
+  "Calle de Tomás Soto Pidal": [
+    "Calle El Somo",
+    "Calle de La Llanilla",
+    "Calle de Lauro Fernández González",
+    "Calle de Miguel Ángel Samperio"
+  ],
+  "Calle de Torremar": [],
+  "Calle de Trafalgar": [
+    "Calle de Hernán Cortés",
+    "Calle del Medio"
+  ],
+  "Calle de Trasmiera": [
+    "Bajada de la Encina",
+    "Calle de Benidorm",
+    "Calle de Fernando de los Ríos",
+    "Colonia Los Pinares"
+  ],
+  "Calle de Tío Michelín": [
+    "Avenida de Sotileza",
+    "Calle del Marqués de La Ensenada"
+  ],
+  "Calle de Valdenoja": [
+    "Avenida del Faro",
+    "Avenida del Faro Pintor Eduardo Sanz",
+    "Calle de Manuel Gonzalez Hoyos",
+    "Calle del Ingenio"
+  ],
+  "Calle de Valencia": [
+    "Calle de Málaga",
+    "Calle de Navarra",
+    "Calle de las Islas Canarias"
+  ],
+  "Calle de Valentín Lavín Casalís": [
+    "Avenida de José Hierro",
+    "Avenida de Pedro San Martín",
+    "Calle de las Islas Baleares",
+    "Plaza de la Vega"
+  ],
+  "Calle de Valladolid": [
+    "Calle de Logroño",
+    "Calle de Vázquez de Mella"
+  ],
+  "Calle de Vallemier": [
+    "Avenida de Pellegrino Zuyer",
+    "Calle La Pereda",
+    "Calle de Bellavista",
+    "Calle de José Pueyo"
+  ],
+  "Calle de Valliciergo": [
+    "Calle de Laredo",
+    "Calle de Lope de Vega",
+    "Calle de Santa Lucía",
+    "Paseo de Menéndez Pelayo"
+  ],
+  "Calle de Veridiano Rojo Herrero": [
+    "Avenida de Cantabria",
+    "Calle La Pereda",
+    "Calle Udial",
+    "Calle de Agapito García Rumayor",
+    "Calle de Arriba",
+    "Calle de Clara Campoamor",
+    "Calle de Matilde de la Torre",
+    "Calle del Mansín"
+  ],
+  "Calle de Vicente Aleixandre": [
+    "Calle de Lavapiés",
+    "Calle de Roy García de Santander"
+  ],
+  "Calle de Victoriano Fernández": [
+    "Avenida de Leonardo Rucabado",
+    "Calle El Somo",
+    "Calle de Antonio López Cortés",
+    "Calle de Juan José Mier",
+    "Calle de Somonte",
+    "Calle de Vitoriano Fernández",
+    "Calle de la Cooperativa del Campo"
+  ],
+  "Calle de Vista Alegre": [
+    "Calle de Jean León",
+    "Calle de María Cristina",
+    "Calle de San Celedonio",
+    "Calle de Santo Toribio",
+    "Cuesta de la Atalaya",
+    "Travesía de San Matías"
+  ],
+  "Calle de Vitoriano Fernández": [
+    "Calle de Victoriano Fernández"
+  ],
+  "Calle de Vázquez de Mella": [
+    "Avenida de José Hierro",
+    "Calle de Portugal",
+    "Calle de Salamanca",
+    "Calle de Valladolid",
+    "Calle de las Islas Canarias",
+    "Calle del Archivo de Simancas",
+    "Paseo de Altamira"
+  ],
+  "Calle de Vía Cornelia Interior": [
+    "Vía Cornelia"
+  ],
+  "Calle de Zaragoza": [
+    "Calle del Archivo de Simancas"
+  ],
+  "Calle de la Albericia": [
+    "Avenida de los Castros",
+    "Calle Repuente",
+    "Calle de Bratislava",
+    "Calle de la Tejera",
+    "Calle del Río Danubio",
+    "Cruce de la Albericia",
+    "Glorieta de Emilio Díaz Caneja"
+  ],
+  "Calle de la Armada Española": [
+    "Calle de Anibal García Riancho",
+    "Calle de Anibal García de Riancho",
+    "Calle de Castilla",
+    "Calle de Leonor Plantagenet",
+    "Calle de los Héroes de la Armada",
+    "Calle del Marqués de la Hermida",
+    "Calle del Varadero",
+    "Paseo de Alberto Pico"
+  ],
+  "Calle de la Autonomía": [
+    "Avenida del Faro Pintor Eduardo Sanz"
+  ],
+  "Calle de la Braña": [
+    "Avenida de Fernández de Castañeda",
+    "Calle de Palencia"
+  ],
+  "Calle de la Cooperativa del Campo": [
+    "Calle de Antonio López Cortés",
+    "Calle de Victoriano Fernández",
+    "Calle de la Gloria",
+    "Calle de los Foramontanos"
+  ],
+  "Calle de la Cuevona": [
+    "Avenida de la Virgen del Mar",
+    "Urbanización Nuevo Corbán"
+  ],
+  "Calle de la Democracia": [
+    "Calle Alta",
+    "Calle de Fernando VI",
+    "Calle de La Habana",
+    "Calle de Santa María de la Cabeza",
+    "Calle la Luz",
+    "Joaquín y Carmen Gonzalez Echegaray"
+  ],
+  "Calle de la Familia Real": [
+    "Avenida de La Magdalena",
+    "Calle de Juan de Borbón"
+  ],
+  "Calle de la Fuente de la Salud": [
+    "Avenida de Cajo"
+  ],
+  "Calle de la Fuente del Fresno": [
+    "Calle de Aurora Gutiérrez Galante",
+    "Calle de los Acebos",
+    "Calle del Tejo"
+  ],
+  "Calle de la Gloria": [
+    "Calle El Somo",
+    "Calle La Abubilla",
+    "Calle La Puebla",
+    "Calle de Corceño",
+    "Calle de Ignacio Aguilera",
+    "Calle de Lavapiés",
+    "Calle de Mateo Escagedo Salmón",
+    "Calle de Miguel Hernández",
+    "Calle de Roy García de Santander",
+    "Calle de la Cooperativa del Campo",
+    "Calle de la Mies de Millajo",
+    "Calle de la Tesilla",
+    "Calle de los Foramontanos",
+    "Cruce de la Albericia",
+    "Túnel de La Albericia",
+    "Urbanización Elíseo Gómez"
+  ],
+  "Calle de la Horadada": [
+    "Avenida de La Magdalena",
+    "Calle de Rafael Gonzalez Echegaray"
+  ],
+  "Calle de la Iglesia": [
+    "Avenida de Antonio Maura",
+    "Avenida de los Hoteles",
+    "Avenida de los Infantes"
+  ],
+  "Calle de la Isla de Cuba": [
+    "Avenida de Valdecilla",
+    "Calle de Jerónimo Sainz de la Maza",
+    "Calle de los Donantes de Sangre"
+  ],
+  "Calle de la Justicia": [
+    "Calle Alta",
+    "Calle de Argentina",
+    "Calle de Colombia",
+    "Calle de Fernando VI",
+    "Calle de José Luis Casado Soto",
+    "Calle de La Habana",
+    "Calle de Rosario Acuña",
+    "Calle de la Peña del Cuervo",
+    "Calle de los Viveros",
+    "Calle del Río Ebro"
+  ],
+  "Calle de la Libertad": [
+    "Calle de Ernest Lluch",
+    "Puente de Arenas"
+  ],
+  "Calle de la Madre Soledad": [
+    "Avenida de José Hierro",
+    "Avenida de los Castros",
+    "Bajada de San Juan",
+    "Grupo Miramar",
+    "Grupo San Luis",
+    "Grupo San Miramar",
+    "Paseo de Altamira"
+  ],
+  "Calle de la Margarita": [
+    "Avenida del Cardenal Herrera Oria",
+    "Calle del Alhelí"
+  ],
+  "Calle de la Mies de Millajo": [
+    "Calle de la Gloria"
+  ],
+  "Calle de la Mimosa": [],
+  "Calle de la Molina": [
+    "Bajada del Caleruco",
+    "Barrio Pronillo",
+    "Barrio Santiago el Mayor"
+  ],
+  "Calle de la Peseta": [
+    "Calle de los Montes Cántabros"
+  ],
+  "Calle de la Peña del Cuervo": [
+    "Calle de la Justicia"
+  ],
+  "Calle de la Prensa": [
+    "Calle de Bratislava",
+    "Calle de los Portuarios"
+  ],
+  "Calle de la Puchera": [
+    "Cuesta de la Atalaya"
+  ],
+  "Calle de la Regaña": [
+    "Calle La Llosa",
+    "Calle Repuente",
+    "Calle de la Tesilla"
+  ],
+  "Calle de la República Checa": [
+    "Calle de la Sierra",
+    "Calle del Aviador Ignacio Pombo",
+    "Calle del Refugio",
+    "Calle del Regatón",
+    "Calle los Labradores",
+    "Rotonda de Julio Jaurena"
+  ],
+  "Calle de la Roca": [
+    "Calle del Cardenal Cisneros",
+    "Calle del Monte"
+  ],
+  "Calle de la Rosa": [
+    "Calle del Girasol",
+    "Calle del Lirio",
+    "Calle del Pensamiento",
+    "Glorieta de Valdecilla",
+    "Plaza de Alberto Corral"
+  ],
+  "Calle de la Salud": [
+    "Calle de Camús"
+  ],
+  "Calle de la Secada": [
+    "Avenida de Pedro San Martín",
+    "Plaza de la Vega"
+  ],
+  "Calle de la Sierra": [
+    "Avenida de Vicente Trueba",
+    "Calle Aviadores Cántabros",
+    "Calle de la República Checa",
+    "Calle del Refugio",
+    "Calle los Labradores"
+  ],
+  "Calle de la Tejera": [
+    "Calle de Bratislava",
+    "Calle de Eslovaquia",
+    "Calle de Stefan Banic",
+    "Calle de la Albericia",
+    "Calle de los Montes Cárpatos",
+    "Calle del Pintor Gutiérrez Solana",
+    "Calle del Río Danubio"
+  ],
+  "Calle de la Tesilla": [
+    "Calle El Robejo",
+    "Calle La Abubilla",
+    "Calle Los Barbajos",
+    "Calle Repuente",
+    "Calle de Luis Salgado Lodeiro",
+    "Calle de Mateo Escagedo Salmón",
+    "Calle de la Gloria",
+    "Calle de la Regaña"
+  ],
+  "Calle de la Violeta": [
+    "Calle del Lirio"
+  ],
+  "Calle de la Virgen de la Paloma": [
+    "Calle Magallanes"
+  ],
+  "Calle de la Virgen del Camino": [
+    "Bajada de La Teja",
+    "Calle de Fernando de los Ríos",
+    "Calle de Pedro de Salinas",
+    "Paseo de Altamira"
+  ],
+  "Calle de las Arenas": [
+    "Calle Santa Catalina"
+  ],
+  "Calle de las Cagigas": [
+    "Avenida de Vicente Trueba",
+    "Calle de Isaac Albeniz",
+    "Glorieta del Liquidámbar"
+  ],
+  "Calle de las Cruces": [
+    "Avenida de los Castros",
+    "Avenida de los Infantes",
+    "Plaza de las Brisas"
+  ],
+  "Calle de las Hermanas Bronte": [
+    "Calle de Ernest Lluch"
+  ],
+  "Calle de las Infantas": [
+    "Calle de Ataúlfo Argenta",
+    "Calle de Daoíz y Velarde",
+    "Calle de Hernán Cortés",
+    "Calle de Pedrueca",
+    "Pasaje de Irene"
+  ],
+  "Calle de las Islas Baleares": [
+    "Avenida de Pedro San Martín",
+    "Calle de Valentín Lavín Casalís"
+  ],
+  "Calle de las Islas Canarias": [
+    "Calle de Valencia",
+    "Calle de Vázquez de Mella"
+  ],
+  "Calle de las Marzas": [
+    "Calle de Antonio Machado",
+    "Calle de Antonio de Mendoza",
+    "Calle de los Hidalgos",
+    "Calle del Beato de Liébana"
+  ],
+  "Calle de las Quebrantas": [
+    "Calle del Marqués de La Ensenada",
+    "Paseo de Alberto Pico"
+  ],
+  "Calle de las Rederas": [
+    "Calle de Castilla",
+    "Calle del Marqués de la Hermida"
+  ],
+  "Calle de los Abedules": [
+    "Calle de los Encinares",
+    "Glorieta del Liquidámbar"
+  ],
+  "Calle de los Acebos": [
+    "Avenida del Cardenal Herrera Oria",
+    "Avenida del Deporte",
+    "Barrio de Nuestra Señora de Belén",
+    "Calle de la Fuente del Fresno",
+    "Plaza de los Acebedos"
+  ],
+  "Calle de los Alcornoques": [
+    "Avenida del Cardenal Herrera Oria",
+    "Calle de los Ciruelos",
+    "Glorieta del Liquidámbar"
+  ],
+  "Calle de los Alféreces Provisionales": [
+    "Calle de Castilla",
+    "Calle de Fray Silvestre Vélez de Escalante",
+    "Calle del Marqués de la Hermida",
+    "Leonor de la Vega"
+  ],
+  "Calle de los Canteros de Trasmiera": [
+    "Calle Repuente",
+    "Calle de Aviche",
+    "Calle de Casimiro Pérez de la Riva",
+    "Calle de San Pedro del Mar"
+  ],
+  "Calle de los Ciruelos": [
+    "Calle de los Alcornoques",
+    "Calle de los Plátanos",
+    "Calle de los Álamos",
+    "Plaza de los Acebedos"
+  ],
+  "Calle de los Donantes de Sangre": [
+    "Calle de la Isla de Cuba",
+    "Calle del Padre Rábago"
+  ],
+  "Calle de los Encinares": [
+    "Avenida del Cardenal Herrera Oria",
+    "Avenida del Deporte",
+    "Calle de los Abedules",
+    "Glorieta de los Tilos"
+  ],
+  "Calle de los Estudiantes": [
+    "Calle de Augusto González de Linares",
+    "Calle de Honduras"
+  ],
+  "Calle de los Foramontanos": [
+    "Calle La Abubilla",
+    "Calle de Resconorio",
+    "Calle de San Miguel",
+    "Calle de la Cooperativa del Campo",
+    "Calle de la Gloria",
+    "Túnel de La Albericia"
+  ],
+  "Calle de los Hermanos Calderón": [
+    "Avenida Primero de Mayo",
+    "Barrio de San Martín del Pino",
+    "Calle de Carmen Bravo Villasante",
+    "Calle de Eduardo Torralda Beci",
+    "Calle de Faustino Cavadas",
+    "Calle de María Guerrero",
+    "Calle de Rosario Iglesias"
+  ],
+  "Calle de los Hermanos Tonetti": [
+    "Calle Cueto",
+    "Calle Fumoril",
+    "Calle de Corconeras",
+    "Calle de Inés Diego del Noval",
+    "Calle de José Llata Fernández",
+    "Calle de Pedro Rodríguez-Parets",
+    "Calle del Calvario",
+    "Calle del Proel",
+    "Poblado Serpemar"
+  ],
+  "Calle de los Hidalgos": [
+    "Calle de Antonio de Mendoza",
+    "Calle de La Folía",
+    "Calle de las Marzas"
+  ],
+  "Calle de los Héroes de la Armada": [
+    "Calle de la Armada Española",
+    "Calle del Marqués de La Ensenada",
+    "Paseo de Alberto Pico"
+  ],
+  "Calle de los Indianos": [
+    "Calle de Floranes",
+    "Calle de San Fernando"
+  ],
+  "Calle de los Montes Cántabros": [
+    "Calle de Mariano Lastra",
+    "Calle de la Peseta"
+  ],
+  "Calle de los Montes Cárpatos": [
+    "Calle de la Tejera",
+    "Calle del Río Danubio"
+  ],
+  "Calle de los Padres Escolapios": [
+    "Paseo de Canalejas"
+  ],
+  "Calle de los Plátanos": [
+    "Avenida del Cardenal Herrera Oria",
+    "Calle de los Ciruelos",
+    "Calle de los Serbales"
+  ],
+  "Calle de los Portuarios": [
+    "Calle de Ignacio Aguilera",
+    "Calle de Lavapiés",
+    "Calle de Rafael Alsua",
+    "Calle de la Prensa",
+    "Colonia Virgen del Mar"
+  ],
+  "Calle de los Santos Mártires": [
+    "Vía Cornelia"
+  ],
+  "Calle de los Serbales": [
+    "Calle de los Plátanos"
+  ],
+  "Calle de los Viveros": [
+    "Calle Calzadas Altas",
+    "Calle de la Justicia",
+    "Calle del Duque de Ahumada"
+  ],
+  "Calle de los Álamos": [
+    "Calle de los Ciruelos",
+    "Glorieta de los Tilos"
+  ],
+  "Calle de África": [],
+  "Calle de Ángel Medina": [
+    "Calle de Carmen Bravo Villasante",
+    "Calle de Eduardo Torralda Beci",
+    "Residencial Los Robles"
+  ],
+  "Calle del Alcalde Macario Rivero": [
+    "Barrio de San Martín del Pino",
+    "Calle de Manuel Ruiz de Quevedo"
+  ],
+  "Calle del Alcalde Vega Lamera": [
+    "Avenida del Stadium",
+    "Calle del Real Racing Club",
+    "Glorieta de Galicia",
+    "Glorieta de la Constitución",
+    "Plaza de José Francisco Alonso"
+  ],
+  "Calle del Alhelí": [
+    "Calle de la Margarita",
+    "Calle del Girasol"
+  ],
+  "Calle del Archivo de Simancas": [
+    "Avenida de José Hierro",
+    "Avenida de Pedro San Martín",
+    "Calle de Navarra",
+    "Calle de Vázquez de Mella",
+    "Calle de Zaragoza"
+  ],
+  "Calle del Arco Iris": [
+    "Calle Vargas",
+    "Calle del Tres de Noviembre"
+  ],
+  "Calle del Arquitecto González de Riancho": [
+    "Avenida de la Reina Victoria",
+    "Calle del Duque de Santo Mauro",
+    "Paseo de Pérez Galdós"
+  ],
+  "Calle del Arrabal": [
+    "Calle de La Marina",
+    "Calle de San José",
+    "Calle del Río de la Pila"
+  ],
+  "Calle del Asilo": [
+    "Calle de Guevara",
+    "Calle de Jean León",
+    "Calle de Liébana",
+    "Calle de San Celedonio"
+  ],
+  "Calle del Aviador Ignacio Pombo": [
+    "Avenida de Vicente Trueba",
+    "Calle de la República Checa"
+  ],
+  "Calle del Beato de Liébana": [
+    "Calle de Floranes",
+    "Calle de La Folía",
+    "Calle de las Marzas",
+    "Calle del Cardenal Cisneros"
+  ],
+  "Calle del Bombero Mijares": [
+    "Calle de Leopoldo Alas Clarín",
+    "Calle de Ricardo López Aranda"
+  ],
+  "Calle del Calvario": [
+    "Calle Nesteo",
+    "Calle de los Hermanos Tonetti"
+  ],
+  "Calle del Capitán Palacios": [
+    "Calle de Castilla",
+    "Calle del Marqués de la Hermida"
+  ],
+  "Calle del Cardenal Cisneros": [
+    "Calle Cervantes",
+    "Calle Florida",
+    "Calle Isabel la Católica",
+    "Calle de Antonio de Mendoza",
+    "Calle de La Folía",
+    "Calle de la Roca",
+    "Calle del Beato de Liébana",
+    "Calle del Monte",
+    "Calle del Profesor Jiménez Díaz",
+    "Plaza de la Esperanza",
+    "Travesía de la Enseñanza"
+  ],
+  "Calle del Clavel": [
+    "Calle del Lirio"
+  ],
+  "Calle del Club Atlético España de Cueto": [
+    "Avenida de Pellegrino Zuyer",
+    "Calle La Pereda",
+    "Calle de Bellavista",
+    "Calle de José Pueyo",
+    "Calle de Pepe Isbert"
+  ],
+  "Calle del Concejo": [
+    "Avenida de Parayas",
+    "Calle de Peña Labra",
+    "Calle del Real Consulado",
+    "Calle del Río Besaya",
+    "Calle del Río Pas",
+    "Calle del Río Pisueña"
+  ],
+  "Calle del Cubo": [
+    "Calle de Francisco de Quevedo",
+    "Calle de Isabel II",
+    "Calle de Luis Hoyos Sainz",
+    "Plaza de la Esperanza",
+    "Plaza de los Remedios"
+  ],
+  "Calle del Doctor González Torre": [
+    "Avenida del Voluntariado",
+    "Calle Jesús Cancio",
+    "Calle de José Antonio Maza",
+    "Calle de Miguel Servet",
+    "Calle de Santiago Ontañón",
+    "Calle del Empalme"
+  ],
+  "Calle del Duque Santo Mauro": [
+    "Calle del Duque de Santo Mauro"
+  ],
+  "Calle del Duque de Ahumada": [
+    "Calle Calzadas Altas",
+    "Calle Miguel Ángel García Guinea",
+    "Calle de Concepción Arenal",
+    "Calle de los Viveros"
+  ],
+  "Calle del Duque de Santo Mauro": [
+    "Calle de Luis Martínez",
+    "Calle de Ramón y Cajal",
+    "Calle del Arquitecto González de Riancho",
+    "Calle del Duque Santo Mauro",
+    "Calle del Teniente Fuentes Pila",
+    "Paseo de Pérez Galdós"
+  ],
+  "Calle del Empalme": [
+    "Avenida Primero de Mayo",
+    "Avenida de Eduardo García del Río",
+    "Calle La Peña",
+    "Calle de Leopoldo Alas Clarín",
+    "Calle del Doctor González Torre",
+    "Travesía de Peñacastillo"
+  ],
+  "Calle del Girasol": [
+    "Calle de la Rosa",
+    "Calle del Alhelí",
+    "Calle del Lirio",
+    "Glorieta de los Osos",
+    "Paseo de Altamira"
+  ],
+  "Calle del Hipódromo": [
+    "Avenida del Faro Pintor Eduardo Sanz",
+    "Calle Julio Blanco",
+    "Calle de Camús"
+  ],
+  "Calle del Ingenio": [
+    "Calle de Valdenoja"
+  ],
+  "Calle del Jazmín": [
+    "Calle del Lirio",
+    "Calle del Pensamiento"
+  ],
+  "Calle del Juego de los Bolos": [
+    "Avenida de José Ortega y Gasset",
+    "Avenida del Voluntariado",
+    "Calle de Alberico Pardo",
+    "Calle del Padre Carballo"
+  ],
+  "Calle del Limón": [
+    "Calle Garmendia",
+    "Cuesta del Hospital"
+  ],
+  "Calle del Lirio": [
+    "Avenida de Pedro San Martín",
+    "Calle de la Rosa",
+    "Calle de la Violeta",
+    "Calle del Clavel",
+    "Calle del Girasol",
+    "Calle del Jazmín",
+    "Calle del Pensamiento"
+  ],
+  "Calle del Lábaro": [
+    "Calle de Floranes"
+  ],
+  "Calle del Mansín": [
+    "Calle de Federico Muñóz",
+    "Calle de Pedro Rodríguez-Parets",
+    "Calle de Pedro de Abarca",
+    "Calle de Veridiano Rojo Herrero"
+  ],
+  "Calle del Marqués de Hazas": [
+    "Avenida de Cantabria",
+    "Calle La Pereda",
+    "Calle de Federico Muñóz",
+    "Calle de Matilde de la Torre",
+    "Calle de Rodolfo Rodríguez Eguía"
+  ],
+  "Calle del Marqués de La Ensenada": [
+    "Calle Miguel Bravo",
+    "Calle de Mocejón",
+    "Calle de Tío Michelín",
+    "Calle de las Quebrantas",
+    "Calle de los Héroes de la Armada",
+    "Calle del Tío Trementorio"
+  ],
+  "Calle del Marqués de Santillana": [
+    "Calle Nazarín",
+    "Calle de León Felipe",
+    "Calle de Menchubel",
+    "Subida al Gurugú"
+  ],
+  "Calle del Marqués de la Hermida": [
+    "Avenida de Parayas",
+    "Calle de Anibal García de Riancho",
+    "Calle de Antonio de Tova y Arredondo",
+    "Calle de Bernardo de Miera y Pacheco",
+    "Calle de Castilla",
+    "Calle de Federico Vidal",
+    "Calle de José de Bustamante y Guerra",
+    "Calle de Juan Antonio Gutiérrez de la Concha",
+    "Calle de Juan de Santander",
+    "Calle de Leopoldo Pardo",
+    "Calle de Nicolás Salmerón",
+    "Calle de Ruiz Zorrilla",
+    "Calle de la Armada Española",
+    "Calle de las Rederas",
+    "Calle de los Alféreces Provisionales",
+    "Calle del Capitán Palacios",
+    "Glorieta de Emérito Velarde"
+  ],
+  "Calle del Marqués del Arco": [
+    "Calle de Fernández de Isla",
+    "Calle de Jesús de Monasterio"
+  ],
+  "Calle del Mazo de Abajo": [
+    "Avenida de la Virgen del Mar",
+    "Calle de Antonio Nebrija",
+    "Calle de Miguel Ángel Samperio",
+    "Calle de Somonte",
+    "Calle del Mazo de Arriba",
+    "Urbanización La Castellana"
+  ],
+  "Calle del Mazo de Arriba": [
+    "Avenida de la Virgen del Mar",
+    "Calle de Somonte",
+    "Calle del Mazo de Abajo"
+  ],
+  "Calle del Medio": [
+    "Calle de Bailén",
+    "Calle de La Marina",
+    "Calle de Marcelino Sanz de Sautuola",
+    "Calle de San José",
+    "Calle de Trafalgar"
+  ],
+  "Calle del Mercado": [
+    "Calle de Isabel II"
+  ],
+  "Calle del Monte": [
+    "Calle de Juan José Pérez del Molino",
+    "Calle de Juan XXIII",
+    "Calle de la Roca",
+    "Calle del Cardenal Cisneros",
+    "Plaza de los Acebedos",
+    "Travesía de la Amistad"
+  ],
+  "Calle del Monte Caloca": [
+    "Calle Alta",
+    "Calle de Cobo de la Torre",
+    "Calle de Fernández de Isla",
+    "Calle de Gonzalo Salazar"
+  ],
+  "Calle del Obispo Juan Plaza García": [
+    "Calle de Cádiz",
+    "Calle de Somorrostro"
+  ],
+  "Calle del Obispo Menéndez de Luarca": [
+    "Calle de Gregorio Cuesta",
+    "Calle de Jerónimo Sainz de la Maza"
+  ],
+  "Calle del Obispo Sánchez de Castro": [
+    "Calle de Fernández de Isla",
+    "Calle de Jesús de Monasterio"
+  ],
+  "Calle del Ojáncano": [
+    "Calle Alta",
+    "Calle de Isaac Peral"
+  ],
+  "Calle del Padre Carballo": [
+    "Calle de Juan Guerrero Urreisti",
+    "Calle de Manuel Pombo Angulo",
+    "Calle de Ricardo López Aranda",
+    "Calle del Juego de los Bolos"
+  ],
+  "Calle del Padre Rábago": [
+    "Avenida de Valdecilla",
+    "Calle de Jerónimo Sainz de la Maza",
+    "Calle de los Donantes de Sangre"
+  ],
+  "Calle del Pensamiento": [
+    "Calle de la Rosa",
+    "Calle del Jazmín",
+    "Calle del Lirio",
+    "Plaza de Alberto Corral"
+  ],
+  "Calle del Pintor Gutiérrez Solana": [
+    "Avenida del Cardenal Herrera Oria",
+    "Calle de Francisco de Iturrino",
+    "Calle de la Tejera",
+    "Glorieta de Emilio Díaz Caneja"
+  ],
+  "Calle del Prado de San Roque": [
+    "Calle de Enrique Gran",
+    "Calle de José Martínez Mazas",
+    "Calle de José Rioja",
+    "Calle de Macias Picavea",
+    "Grupo Miralmar",
+    "Paseo de Altamira"
+  ],
+  "Calle del Proel": [
+    "Calle de los Hermanos Tonetti",
+    "Poblado Serpemar"
+  ],
+  "Calle del Profesor Jiménez Díaz": [
+    "Avenida de José Hierro",
+    "Calle de Alonso",
+    "Calle del Cardenal Cisneros"
+  ],
+  "Calle del Real Consulado": [
+    "Avenida de Candina",
+    "Calle de Gerardo Alvear",
+    "Calle del Concejo"
+  ],
+  "Calle del Real Racing Club": [
+    "Avenida de Pontejos",
+    "Avenida del Stadium",
+    "Calle de Brañaflor",
+    "Calle del Alcalde Vega Lamera",
+    "Glorieta de Galicia"
+  ],
+  "Calle del Refugio": [
+    "Avenida de Vicente Trueba",
+    "Calle de la República Checa",
+    "Calle de la Sierra"
+  ],
+  "Calle del Regatón": [
+    "Avenida de Vicente Trueba",
+    "Calle de la República Checa"
+  ],
+  "Calle del Rocío": [
+    "Calle de Luis Martínez",
+    "Calle de Ramón y Cajal",
+    "Calle del Teniente Fuentes Pila",
+    "Paseo de Pérez Galdós"
+  ],
+  "Calle del Rostrío": [
+    "Calle El Castro",
+    "Calle de Adarzo"
+  ],
+  "Calle del Río Asón": [
+    "Avenida de Parayas",
+    "Calle de Peña Prieta",
+    "Calle de Peñas Rocías"
+  ],
+  "Calle del Río Besaya": [
+    "Avenida de Candina",
+    "Calle de Gerardo Alvear",
+    "Calle de Peña Labra",
+    "Calle de Peña Sagra",
+    "Calle del Concejo"
+  ],
+  "Calle del Río Danubio": [
+    "Calle de Stefan Banic",
+    "Calle de la Albericia",
+    "Calle de la Tejera",
+    "Calle de los Montes Cárpatos"
+  ],
+  "Calle del Río Deva": [
+    "Avenida de Parayas",
+    "Calle de Peña Bejo",
+    "Calle de Peña Prieta",
+    "Calle de Peñas Rocías"
+  ],
+  "Calle del Río Ebro": [
+    "Calle de Argentina",
+    "Calle de la Justicia"
+  ],
+  "Calle del Río Hijar": [
+    "Calle de Peña Bejo",
+    "Calle de Peñas Rocías"
+  ],
+  "Calle del Río Miera": [
+    "Avenida de Parayas",
+    "Calle de Peña Bejo",
+    "Calle de Peña Prieta",
+    "Calle de Peñas Rocías"
+  ],
+  "Calle del Río Nansa": [
+    "Avenida de Parayas",
+    "Calle de Peña Prieta"
+  ],
+  "Calle del Río Pas": [
+    "Calle de Peña Labra",
+    "Calle de Peña Sagra",
+    "Calle del Concejo"
+  ],
+  "Calle del Río Pisueña": [
+    "Calle de Peña Labra",
+    "Calle del Concejo"
+  ],
+  "Calle del Río de la Pila": [
+    "Calle de Enrique Gran",
+    "Calle de Guevara",
+    "Calle de Los Aguayos",
+    "Calle de Marcelino Sanz de Sautuola",
+    "Calle de San Celedonio",
+    "Calle de San Sebastián",
+    "Calle de Santa Lucía",
+    "Calle de Tantín",
+    "Calle del Arrabal"
+  ],
+  "Calle del Santuco": [
+    "Barrio Rucandial"
+  ],
+  "Calle del Sol": [
+    "Calle de Carlos Salomón",
+    "Calle de Francisco Palazuelos",
+    "Calle de Lope de Vega",
+    "Calle de San Simón",
+    "Paseo de Menéndez Pelayo",
+    "Rotonda de la Sardinera"
+  ],
+  "Calle del Tejo": [
+    "Avenida del Deporte",
+    "Barrio de Nuestra Señora de Belén",
+    "Calle de la Fuente del Fresno"
+  ],
+  "Calle del Teniente Fuentes Pila": [
+    "Calle de Calatayud",
+    "Calle del Duque de Santo Mauro",
+    "Calle del Rocío",
+    "Paseo de Pérez Galdós"
+  ],
+  "Calle del Tres de Noviembre": [
+    "Calle de Juan de Piasca",
+    "Calle del Arco Iris",
+    "Cuesta de las Ánimas"
+  ],
+  "Calle del Tío Trementorio": [
+    "Avenida de Sotileza",
+    "Calle del Marqués de La Ensenada",
+    "Paseo de Alberto Pico"
+  ],
+  "Calle del Varadero": [
+    "Calle de Antonio de Tova y Arredondo",
+    "Calle de García de Morato",
+    "Calle de la Armada Española"
+  ],
+  "Calle la Luz": [
+    "Calle de la Democracia"
+  ],
+  "Calle la Montañesa": [
+    "Calle Pedro Ceballos Guerra",
+    "Calle Río Cubas",
+    "Calle de Alejandro García",
+    "Paseo de Canalejas"
+  ],
+  "Calle los Labradores": [
+    "Calle Aviadores Cántabros",
+    "Calle de la República Checa",
+    "Calle de la Sierra"
+  ],
+  "Calleja Norte": [
+    "Avenida de los Infantes",
+    "Calle de Joaquín Costa"
+  ],
+  "Calleja del Castro": [
+    "Calle El Castro",
+    "Calle La Peña",
+    "Calle de Campogiro"
+  ],
+  "Carretera de la cantera": [
+    "Calle de Ricardo Lorenzo"
+  ],
+  "Cementerio de Cueto": [
+    "Calle Cueto"
+  ],
+  "Centro Empresarial Zoco Gran Santander": [
+    "Acceso al Centro Empresarial Zoco Gran Santander"
+  ],
+  "Colonia Los Pinares": [
+    "Bajada de la Encina",
+    "Calle de Trasmiera"
+  ],
+  "Colonia Virgen del Mar": [
+    "Calle de los Portuarios"
+  ],
+  "Colonia Virgen del Milagro": [
+    "Calle de Isaac Peral"
+  ],
+  "Colonia de La Universidad": [
+    "Calle de Pedro de Salinas"
+  ],
+  "Colonia del Mar": [
+    "Avenida de Camilo Alonso Vega",
+    "Avenida de José Hierro",
+    "Paseo de Altamira"
+  ],
+  "Cruce de la Albericia": [
+    "Calle Repuente",
+    "Calle de Lavapiés",
+    "Calle de la Albericia",
+    "Calle de la Gloria"
+  ],
+  "Cuesta de la Atalaya": [
+    "Calle de Guevara",
+    "Calle de María Cristina",
+    "Calle de San Celedonio",
+    "Calle de San Sebastián",
+    "Calle de Tantín",
+    "Calle de Vista Alegre",
+    "Calle de la Puchera",
+    "Paseo de Altamira"
+  ],
+  "Cuesta de las Ánimas": [
+    "Calle Alta",
+    "Calle Vargas",
+    "Calle de Fernández de Isla",
+    "Calle de Isaac Peral",
+    "Calle de Juan de Garay",
+    "Calle del Tres de Noviembre"
+  ],
+  "Cuesta del Hospital": [
+    "Calle Alta",
+    "Calle Cuesta",
+    "Calle de Ruamayor",
+    "Calle de Ruamenor",
+    "Calle de San Pedro",
+    "Calle del Limón",
+    "Rampa de Sotileza"
+  ],
+  "Dársena de Maliaño": [
+    "Calle de Alfonso Pérez"
+  ],
+  "El Gurugú": [
+    "Paseo de Canalejas",
+    "Subida al Gurugú"
+  ],
+  "El Muro": [],
+  "Enlace de La Marga": [
+    "Avenida de Parayas",
+    "Calle de Jerónimo Sainz de la Maza"
+  ],
+  "Espigón Central de Raos": [
+    "Vial norte del Espigón Central de Raos",
+    "Vial sur del Espigón Central de Raos"
+  ],
+  "Espigón José del Río": [
+    "Calle La Pereda"
+  ],
+  "Espigón Norte de Raos": [],
+  "Galería comercial Burgos 11": [],
+  "Glorieta de Adarzo": [
+    "Avenida de Albert Einstein",
+    "Barrio Rucandial",
+    "Calle de Adarzo",
+    "Calle de Joaquín Rodrigo"
+  ],
+  "Glorieta de Candina": [
+    "Avenida de Candina",
+    "Avenida de Eduardo García del Río",
+    "Avenida de Segundo López Vélez",
+    "Calle de Jerónimo Sainz de la Maza"
+  ],
+  "Glorieta de Corbán": [
+    "Avenida de Julio Jaurena",
+    "Calle El Somo",
+    "Calle de Corbán"
+  ],
+  "Glorieta de Cuatro Caminos": [
+    "Avenida de José Hierro",
+    "Avenida de Valdecilla",
+    "Calle Alta",
+    "Calle Vargas",
+    "Calle de Jerónimo Sainz de la Maza",
+    "Calle de San Fernando",
+    "Túnel de Cuatro Caminos"
+  ],
+  "Glorieta de Eduardo García": [
+    "Avenida de Segundo López Vélez",
+    "Avenida de Valdecilla",
+    "Calle de Leonardo Torres Quevedo",
+    "Túnel de La Marga"
+  ],
+  "Glorieta de Emilio Díaz Caneja": [
+    "Avenida de Segundo López Vélez",
+    "Avenida de los Castros",
+    "Calle de Emilio Díaz Caneja",
+    "Calle de la Albericia",
+    "Calle del Pintor Gutiérrez Solana"
+  ],
+  "Glorieta de Emérito Velarde": [
+    "Calle de Antonio López",
+    "Calle de Nicolás Salmerón",
+    "Calle del Marqués de la Hermida"
+  ],
+  "Glorieta de Galicia": [
+    "Calle de Marino Fernández Fontecha",
+    "Calle del Alcalde Vega Lamera",
+    "Calle del Real Racing Club"
+  ],
+  "Glorieta de Rucandial": [
+    "Avenida de Albert Einstein",
+    "Avenida de Severo Ochoa"
+  ],
+  "Glorieta de Valdecilla": [
+    "Avenida de Valdecilla",
+    "Calle de Leonardo Torres Quevedo",
+    "Calle de la Rosa"
+  ],
+  "Glorieta de la Constitución": [
+    "Avenida de la Constitución",
+    "Calle del Alcalde Vega Lamera"
+  ],
+  "Glorieta de la Universidad": [
+    "Avenida de los Castros",
+    "Calle de Honduras"
+  ],
+  "Glorieta de los Osos": [
+    "Avenida de Pedro San Martín",
+    "Calle del Girasol",
+    "Paseo de Altamira"
+  ],
+  "Glorieta de los Tilos": [
+    "Calle de los Encinares",
+    "Calle de los Álamos"
+  ],
+  "Glorieta del Liquidámbar": [
+    "Calle de las Cagigas",
+    "Calle de los Abedules",
+    "Calle de los Alcornoques"
+  ],
+  "Grupo Fernando Ateca": [
+    "Calle Repuente",
+    "Calle de Aurelio Espinosa",
+    "Calle de Sixto Córdova"
+  ],
+  "Grupo María Blanchard": [
+    "Avenida del Cardenal Herrera Oria",
+    "Avenida del Deporte",
+    "Calle de José María de Cossío",
+    "Calle de Rafael Alsua"
+  ],
+  "Grupo Miralmar": [
+    "Calle de Enrique Gran",
+    "Calle de Macias Picavea",
+    "Calle del Prado de San Roque",
+    "Paseo de Altamira"
+  ],
+  "Grupo Miramar": [
+    "Calle de la Madre Soledad",
+    "Grupo San Miramar"
+  ],
+  "Grupo Ruiz García Este": [
+    "Calle de Ricardo León",
+    "Grupo Ruiz García Oeste"
+  ],
+  "Grupo Ruiz García Oeste": [
+    "Calle de Ricardo León",
+    "Grupo Ruiz García Este"
+  ],
+  "Grupo San Luis": [
+    "Bajada de San Juan",
+    "Calle Isabel la Católica",
+    "Calle de Amadeo I",
+    "Calle de Peñas Redondas",
+    "Calle de San José de Calasanz",
+    "Calle de la Madre Soledad",
+    "Grupo San Miramar",
+    "Pasaje Sarasola"
+  ],
+  "Grupo San Miramar": [
+    "Calle de la Madre Soledad",
+    "Grupo Miramar",
+    "Grupo San Luis"
+  ],
+  "Grupo San Roque": [],
+  "Joaquín y Carmen Gonzalez Echegaray": [
+    "Calle de la Democracia"
+  ],
+  "Leonor de la Vega": [
+    "Calle de José de Bustamante y Guerra",
+    "Calle de los Alféreces Provisionales"
+  ],
+  "Muelle de Maliaño": [
+    "Muelle del Almirante"
+  ],
+  "Muelle de Raos 1": [],
+  "Muelle de Raos 2": [],
+  "Muelle de Raos 3": [
+    "Muelle de Raos 4"
+  ],
+  "Muelle de Raos 4": [
+    "Muelle de Raos 3",
+    "Muelle de Raos 5"
+  ],
+  "Muelle de Raos 5": [
+    "Muelle de Raos 4"
+  ],
+  "Muelle de Raos 6": [],
+  "Muelle de Raos 7": [
+    "Vial norte del Espigón Central de Raos"
+  ],
+  "Muelle de Raos 8": [],
+  "Muelle del Almirante": [
+    "Muelle de Maliaño"
+  ],
+  "Parque Científico Tecnológico de Cantabria": [],
+  "Pasaje Sarasola": [
+    "Grupo San Luis"
+  ],
+  "Pasaje de Ana": [
+    "Calle de Ataúlfo Argenta",
+    "Calle de San José"
+  ],
+  "Pasaje de Arcillero": [],
+  "Pasaje de Clara": [
+    "Calle Lepanto",
+    "Calle de Ataúlfo Argenta"
+  ],
+  "Pasaje de Inés": [
+    "Calle de Ataúlfo Argenta"
+  ],
+  "Pasaje de Irene": [
+    "Calle de Ataúlfo Argenta",
+    "Calle de las Infantas"
+  ],
+  "Pasaje de Lituca": [
+    "Calle de Ataúlfo Argenta"
+  ],
+  "Pasaje de Mies del Valle": [
+    "Calle de Floranes"
+  ],
+  "Pasaje de Nieves": [
+    "Calle de Ataúlfo Argenta"
+  ],
+  "Pasaje de San Martín": [
+    "Avenida de la Reina Victoria",
+    "Calle de San Vicente de la Barquera",
+    "Paseo de Canalejas"
+  ],
+  "Pasaje de Silda": [
+    "Calle de Ataúlfo Argenta",
+    "Calle de Eduardo Benot"
+  ],
+  "Pasaje de Verónica": [
+    "Calle de Ataúlfo Argenta"
+  ],
+  "Pasaje de Zorrilla": [
+    "Calle de Bonifaz"
+  ],
+  "Pasaje de la Puntida": [],
+  "Pasaje de Águeda": [
+    "Calle de Ataúlfo Argenta"
+  ],
+  "Paseo de Alberto Pico": [
+    "Calle de García de Morato",
+    "Calle de la Armada Española",
+    "Calle de las Quebrantas",
+    "Calle de los Héroes de la Armada",
+    "Calle del Tío Trementorio"
+  ],
+  "Paseo de Altamira": [
+    "Avenida de José Hierro",
+    "Avenida del Cardenal Herrera Oria",
+    "Bajada Juan Blanco",
+    "Bajada de Juan Blanco",
+    "Bajada de La Teja",
+    "Bajada de Rumayor",
+    "Bajada de San Juan",
+    "Bajada de la Calzada",
+    "Bajada de la Encina",
+    "Bajada de la Media Luna",
+    "Bajada del Caleruco",
+    "Bajada del Polio",
+    "Barrio El Pilón",
+    "Barrio Obrero del Rey",
+    "Calle La Barraca",
+    "Calle de Antonio de Mendoza",
+    "Calle de Emilio Díaz Caneja",
+    "Calle de Fernando de los Ríos",
+    "Calle de Fresnedo de la Calzada",
+    "Calle de Guillermo Arce",
+    "Calle de José Martínez Mazas",
+    "Calle de José Rioja",
+    "Calle de Juan del Castillo",
+    "Calle de Miguel de Unamuno",
+    "Calle de Pedro de Salinas",
+    "Calle de Sojo y Lomba",
+    "Calle de Vázquez de Mella",
+    "Calle de la Madre Soledad",
+    "Calle de la Virgen del Camino",
+    "Calle del Girasol",
+    "Calle del Prado de San Roque",
+    "Colonia del Mar",
+    "Cuesta de la Atalaya",
+    "Glorieta de los Osos",
+    "Grupo Miralmar",
+    "Paseo de Menéndez Pelayo",
+    "Plaza del Alto de Miranda",
+    "Poeta Matilde Camus",
+    "Túnel de Puertochico",
+    "Vía Cornelia"
+  ],
+  "Paseo de Canalejas": [
+    "Barrio Camino",
+    "Calle Nazarín",
+    "Calle Río Cubas",
+    "Calle de Alejandro García",
+    "Calle de Andrés del Río",
+    "Calle de Avelino Gutiérrez",
+    "Calle de Barcelona",
+    "Calle de Casimiro Sainz",
+    "Calle de Gerona",
+    "Calle de León Felipe",
+    "Calle de San Quitín",
+    "Calle de San Vicente de la Barquera",
+    "Calle de los Padres Escolapios",
+    "Calle la Montañesa",
+    "El Gurugú",
+    "Pasaje de San Martín",
+    "Paseo de Pérez Galdós",
+    "Subida al Gurugú"
+  ],
+  "Paseo de Menéndez Pelayo": [
+    "Calle de Antonio Quirós",
+    "Calle de Santa Lucía",
+    "Calle de Valliciergo",
+    "Calle del Sol",
+    "Paseo de Altamira",
+    "Plaza del Alto de Miranda",
+    "Túnel de Puertochico"
+  ],
+  "Paseo de Pérez Galdós": [
+    "Avenida de la Reina Victoria",
+    "Calle de Calatayud",
+    "Calle de Francisco Salazar",
+    "Calle de Joaquín Costa",
+    "Calle de Marianela",
+    "Calle de Ramón y Cajal",
+    "Calle del Arquitecto González de Riancho",
+    "Calle del Duque de Santo Mauro",
+    "Calle del Rocío",
+    "Calle del Teniente Fuentes Pila",
+    "Paseo de Canalejas",
+    "Plaza del Alto de Miranda"
+  ],
+  "Plaza Cardenal de Cos": [
+    "Avenida del Cardenal Herrera Oria"
+  ],
+  "Plaza Cardenal de la Lastra": [
+    "Avenida del Cardenal Herrera Oria"
+  ],
+  "Plaza Rodríguez Guerra": [
+    "Calle de Jerónimo Sainz de la Maza"
+  ],
+  "Plaza de Alberto Corral": [
+    "Avenida de Pedro San Martín",
+    "Calle de la Rosa",
+    "Calle del Pensamiento"
+  ],
+  "Plaza de Alfonso XIII": [
+    "Calle de Cádiz",
+    "Calle de Somorrostro"
+  ],
+  "Plaza de Amador Toca": [
+    "Calle de Adarzo"
+  ],
+  "Plaza de José Francisco Alonso": [
+    "Avenida de los Castros",
+    "Calle del Alcalde Vega Lamera",
+    "Túnel de Puertochico"
+  ],
+  "Plaza de Manuel Llano": [
+    "Avenida del Cardenal Herrera Oria",
+    "Calle de Gerardo Diego",
+    "Calle de Leonardo Torres Quevedo",
+    "Calle de Mariano Luis Vicente de Velasco"
+  ],
+  "Plaza de María Luisa Gómez y Pelayo": [
+    "Calle de Luis Martínez"
+  ],
+  "Plaza de Matías Montero": [
+    "Calle de Casimiro Sainz",
+    "Calle de Castelar"
+  ],
+  "Plaza de Monteleón": [
+    "Calle Independencia"
+  ],
+  "Plaza de Rubén Darío": [],
+  "Plaza de San Martín del Mar": [
+    "Avenida de la Reina Victoria",
+    "Calle de Don Daniel"
+  ],
+  "Plaza de Velarde": [],
+  "Plaza de la Abogacía del Turno de Oficio": [],
+  "Plaza de la Esperanza": [
+    "Calle de Isabel II",
+    "Calle del Cardenal Cisneros",
+    "Calle del Cubo",
+    "Travesía de la Enseñanza"
+  ],
+  "Plaza de la Leña": [
+    "Calle Cervantes",
+    "Calle de Guevara",
+    "Plaza de los Acebedos",
+    "Travesía de la Enseñanza"
+  ],
+  "Plaza de la Vega": [
+    "Calle de Valentín Lavín Casalís",
+    "Calle de la Secada"
+  ],
+  "Plaza de las Brisas": [
+    "Avenida de Fernández de Castañeda",
+    "Avenida de los Castros",
+    "Calle de Palencia",
+    "Calle de las Cruces"
+  ],
+  "Plaza de las Cachavas": [
+    "Calle de Antonio López",
+    "Calle de Calderón de la Barca"
+  ],
+  "Plaza de los Acebedos": [
+    "Avenida del Faro Pintor Eduardo Sanz",
+    "Calle Cervantes",
+    "Calle de José María de Cossío",
+    "Calle de los Acebos",
+    "Calle de los Ciruelos",
+    "Calle del Monte",
+    "Plaza de la Leña"
+  ],
+  "Plaza de los Remedios": [
+    "Calle de Francisco de Quevedo",
+    "Calle de Rualasal",
+    "Calle del Cubo"
+  ],
+  "Plaza del Alto de Miranda": [
+    "Avenida de los Infantes",
+    "Calle de Joaquín Costa",
+    "Paseo de Altamira",
+    "Paseo de Menéndez Pelayo",
+    "Paseo de Pérez Galdós"
+  ],
+  "Plaza del Alzamiento de 1808": [
+    "Calle de Jerónimo Sainz de la Maza",
+    "Plaza del Teniente Seyus"
+  ],
+  "Plaza del Doctor Fleming": [
+    "Avenida de Fernández de Castañeda",
+    "Avenida del Stadium"
+  ],
+  "Plaza del Progreso": [
+    "Calle de Carlos III",
+    "Calle de Madrid"
+  ],
+  "Plaza del Teniente Seyus": [
+    "Plaza del Alzamiento de 1808"
+  ],
+  "Poblado Serpemar": [
+    "Calle de los Hermanos Tonetti",
+    "Calle del Proel"
+  ],
+  "Poeta Matilde Camus": [
+    "Avenida de los Castros",
+    "Bajada de Juan Blanco",
+    "Bajada de la Media Luna",
+    "Paseo de Altamira"
+  ],
+  "Polígono Industrial El Campón": [],
+  "Polígono Industrial Nueva Europa": [],
+  "Polígono Industrial de Otero": [
+    "Avenida de Camarreal"
+  ],
+  "Polígono industrial de Elegarcu": [
+    "Calle de Joaquín Salas"
+  ],
+  "Puente de Arenas": [
+    "Calle de la Libertad"
+  ],
+  "Puente de Raos": [],
+  "Rampa de Sotileza": [
+    "Calle Alta",
+    "Calle de Cádiz",
+    "Calle de Ruamayor",
+    "Cuesta del Hospital"
+  ],
+  "Residencial Las Acacias": [
+    "Barrio de San Martín del Pino"
+  ],
+  "Residencial Los Alcatraces": [],
+  "Residencial Los Molinucos": [],
+  "Residencial Los Robles": [
+    "Barrio de San Martín del Pino",
+    "Calle de Ángel Medina"
+  ],
+  "Residencial Villa Olímpica": [],
+  "Rotonda de Julio Jaurena": [
+    "Avenida de Julio Jaurena",
+    "Calle de Alfredo Kraus",
+    "Calle de Joaquín Rodrigo",
+    "Calle de la República Checa"
+  ],
+  "Rotonda de la Sardinera": [
+    "Calle de San Emeterio",
+    "Calle de Tetuán",
+    "Calle del Sol",
+    "Túnel de Puertochico"
+  ],
+  "Subida al Gurugú": [
+    "Calle de León Felipe",
+    "Calle del Marqués de Santillana",
+    "El Gurugú",
+    "Paseo de Canalejas"
+  ],
+  "Travesía Los Caños": [
+    "Calle de Juan XXIII"
+  ],
+  "Travesía de Peñacastillo": [
+    "Calle de Campogiro",
+    "Calle del Empalme"
+  ],
+  "Travesía de San Matías": [
+    "Calle de Vista Alegre"
+  ],
+  "Travesía de Valderrama": [
+    "Calle de Floranes",
+    "Calle de San Fernando"
+  ],
+  "Travesía de la Amistad": [
+    "Calle del Monte"
+  ],
+  "Travesía de la Enseñanza": [
+    "Calle Cervantes",
+    "Calle de Guevara",
+    "Calle de Jean León",
+    "Calle del Cardenal Cisneros",
+    "Plaza de la Esperanza",
+    "Plaza de la Leña",
+    "Vía Cornelia"
+  ],
+  "Túnel de Cuatro Caminos": [
+    "Avenida de Valdecilla",
+    "Calle de San Fernando",
+    "Glorieta de Cuatro Caminos"
+  ],
+  "Túnel de La Albericia": [
+    "Autopista Santander-Torrelavega",
+    "Avenida de la Constitución",
+    "Calle de Ignacio Aguilera",
+    "Calle de Mateo Escagedo Salmón",
+    "Calle de la Gloria",
+    "Calle de los Foramontanos"
+  ],
+  "Túnel de La Marga": [
+    "Avenida de Segundo López Vélez",
+    "Avenida del Cardenal Herrera Oria",
+    "Calle de Leonardo Torres Quevedo",
+    "Glorieta de Eduardo García"
+  ],
+  "Túnel de Puertochico": [
+    "Avenida de los Castros",
+    "Calle de Fernando de los Ríos",
+    "Calle de José Simón Cabarga",
+    "Calle de Tetuán",
+    "Paseo de Altamira",
+    "Paseo de Menéndez Pelayo",
+    "Plaza de José Francisco Alonso",
+    "Rotonda de la Sardinera"
+  ],
+  "Túnel de la Calle Burgos": [
+    "Calle de Jesús de Monasterio",
+    "Calle de San Fernando"
+  ],
+  "Túnel de los Jardines de Pereda": [
+    "Acceso al aparcamiento subterráneo",
+    "Calle de Antonio López"
+  ],
+  "Urbanización Elíseo Gómez": [
+    "Calle El Somo",
+    "Calle de la Gloria"
+  ],
+  "Urbanización La Castellana": [
+    "Calle de Somonte",
+    "Calle del Mazo de Abajo"
+  ],
+  "Urbanización Las Palmeras": [
+    "Avenida de Cajo"
+  ],
+  "Urbanización Los Llanos": [
+    "Calle de Juan Guerrero Urreisti"
+  ],
+  "Urbanización Nuevo Corbán": [
+    "Calle de la Cuevona"
+  ],
+  "Urbanización Peña Verde": [
+    "Calle de Alberico Pardo"
+  ],
+  "Urbanización Piedras Blancas": [
+    "Calle de Somonte"
+  ],
+  "Vial norte del Espigón Central de Raos": [
+    "Espigón Central de Raos",
+    "Muelle de Raos 7"
+  ],
+  "Vial sur del Espigón Central de Raos": [
+    "Espigón Central de Raos"
+  ],
+  "Vía Cornelia": [
+    "Calle Cervantes",
+    "Calle de Joaquín Reguera Sevilla",
+    "Calle de Juan José Pérez del Molino",
+    "Calle de Juan XXIII",
+    "Calle de Vía Cornelia Interior",
+    "Calle de los Santos Mártires",
+    "Paseo de Altamira",
+    "Travesía de la Enseñanza"
+  ]
+}
