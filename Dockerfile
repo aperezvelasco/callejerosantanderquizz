@@ -4,8 +4,9 @@ FROM ghcr.io/prefix-dev/pixi:latest
 # Set working directory
 WORKDIR /app
 
-# Copy project files
+# Copy project files and the app package directory (required for setuptools editable install)
 COPY pyproject.toml pixi.lock ./
+COPY app ./app
 
 # Install dependencies using Pixi (frozen mode)
 RUN pixi install --frozen
