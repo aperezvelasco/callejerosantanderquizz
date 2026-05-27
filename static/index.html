@@ -4,22 +4,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SantandercallejerIA | El Juego del Callejero</title>
-    
+
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-    
+
     <!-- Leaflet Map CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
-    
-    
+
+
     <!-- App CSS -->
     <link rel="stylesheet" href="/static/style.css">
 </head>
 <body class="dark-theme">
     <div class="glass-bg"></div>
-    
+
     <header class="app-header">
         <div class="header-container">
             <div class="app-logo">
@@ -29,7 +29,7 @@
                     <p>El juego del callejero de Santander</p>
                 </div>
             </div>
-            
+
             <nav class="app-nav">
                 <button class="nav-btn active" data-tab="welcome-tab">
                     <span class="btn-icon">🏠</span> Inicio
@@ -44,7 +44,7 @@
                     <span class="btn-icon">🏆</span> Clasificación
                 </button>
             </nav>
-            
+
             <div class="header-actions">
                 <div class="user-badge hidden" id="user-badge-container">
                     <span class="user-avatar">👤</span>
@@ -63,7 +63,7 @@
                 <div class="panel-card welcome-card">
                     <h2>SantandercallejerIA</h2>
                     <p class="welcome-subtitle">Descubre tu dominio del callejero de Santander. Pon a prueba tus habilidades de geolocalización y tu conocimiento de las vías urbanas.</p>
-                    
+
                     <div class="welcome-features">
                         <div class="feature-item">
                             <span class="feature-icon">🎯</span>
@@ -95,7 +95,7 @@
                         <button class="auth-tab-btn active" id="tab-login-btn">Iniciar Sesión</button>
                         <button class="auth-tab-btn" id="tab-register-btn">Registrarse</button>
                     </div>
-                    
+
                     <!-- Login form -->
                     <form id="login-form" class="auth-form">
                         <div class="form-group">
@@ -139,7 +139,7 @@
                         Haga clic en el mapa para ubicar la calle
                     </div>
                 </div>
-                
+
                 <!-- Info Panel -->
                 <div class="game-panel">
                     <div class="panel-card target-card">
@@ -179,7 +179,7 @@
                             <h3 id="result-title">¡Resultado!</h3>
                             <span class="result-indicator" id="result-status-badge">Correcto</span>
                         </div>
-                        
+
                         <div class="result-details">
                             <div class="detail-row">
                                 <span>Distancia a la calle:</span>
@@ -191,7 +191,7 @@
                             </div>
                             <p class="result-comment" id="result-commentary">¡Buen intento!</p>
                         </div>
-                        
+
                         <button class="btn btn-primary" id="btn-next-street">
                             Siguiente Calle ➔
                         </button>
@@ -255,15 +255,13 @@
                                 <tr>
                                     <th>Puesto</th>
                                     <th>Usuario</th>
-                                    <th>Preguntas Respondidas</th>
                                     <th>Puntos</th>
-                                    <th>Precisión</th>
                                 </tr>
                             </thead>
                             <tbody id="leaderboard-body">
                                 <!-- Leaderboard entries will be loaded here -->
                                 <tr>
-                                    <td colspan="5" class="text-center">Cargando clasificación...</td>
+                                    <td colspan="3" class="text-center">Cargando clasificación...</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -279,7 +277,7 @@
 
     <!-- Leaflet Map JS -->
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-    
+
     <!-- App JS -->
     <script src="/static/app.js"></script>
 </body>

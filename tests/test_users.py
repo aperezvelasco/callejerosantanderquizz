@@ -1,4 +1,5 @@
 """Tests for user registration and authentication."""
+
 from __future__ import annotations
 
 from typing import Generator
@@ -10,7 +11,6 @@ import pytest
 from app.main import app
 from app.database import Base
 from app.dependencies import get_session
-from app import models
 
 from sqlalchemy.pool import StaticPool
 
@@ -18,7 +18,7 @@ SQLALCHEMY_DATABASE_URL = "sqlite:///:memory:"
 engine = create_engine(
     SQLALCHEMY_DATABASE_URL,
     connect_args={"check_same_thread": False},
-    poolclass=StaticPool
+    poolclass=StaticPool,
 )
 TestingSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
@@ -55,6 +55,7 @@ def fixture_client(db_session: Session) -> Generator[TestClient, None, None]:
     TestClient
         FastAPI TestClient.
     """
+
     def override_get_session() -> Generator[Session, None, None]:
         """Override database dependency to use the test session.
 
@@ -87,8 +88,8 @@ def test_register_and_login(client: TestClient) -> None:
         json={
             "email": "test@example.com",
             "confirm_email": "test@example.com",
-            "password": "securepassword123"
-        }
+            "password": "securepassword123",
+        },
     )
     assert reg_response.status_code == 201
     reg_data = reg_response.json()
@@ -98,10 +99,7 @@ def test_register_and_login(client: TestClient) -> None:
     # 2. Login user
     login_response = client.post(
         "/users/login",
-        json={
-            "email": "test@example.com",
-            "password": "securepassword123"
-        }
+        json={"email": "test@example.com", "password": "securepassword123"},
     )
     assert login_response.status_code == 200
     login_data = login_response.json()
@@ -121,8 +119,8 @@ def test_register_mismatched_emails(client: TestClient) -> None:
         json={
             "email": "test@example.com",
             "confirm_email": "different@example.com",
-            "password": "securepassword123"
-        }
+            "password": "securepassword123",
+        },
     )
     assert reg_response.status_code == 422
     assert "Los correos electrónicos no coinciden" in reg_response.text
@@ -142,17 +140,13 @@ def test_login_invalid_credentials(client: TestClient) -> None:
         json={
             "email": "test@example.com",
             "confirm_email": "test@example.com",
-            "password": "securepassword123"
-        }
+            "password": "securepassword123",
+        },
     )
 
     # Login with wrong password
     login_response = client.post(
-        "/users/login",
-        json={
-            "email": "test@example.com",
-            "password": "wrongpassword"
-        }
+        "/users/login", json={"email": "test@example.com", "password": "wrongpassword"}
     )
     assert login_response.status_code == 401
     assert "Credenciales inválidas" in login_response.json()["detail"]

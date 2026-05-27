@@ -4,7 +4,7 @@ const state = {
     isRegistered: localStorage.getItem('santander_quiz_registered') === 'true',
     guestId: localStorage.getItem('santander_quiz_guest_id') || null,
     theme: localStorage.getItem('santander_quiz_theme') || 'dark-theme',
-    
+
     // Map Game State
     map: null,
     boundaryLayer: null,
@@ -14,12 +14,12 @@ const state = {
     targetStreet: null,
     gameActive: false,
     guessesRemaining: 10,
-    
+
     // Map Stats
     points: parseInt(localStorage.getItem('map_game_points')) || 0,
     rounds: parseInt(localStorage.getItem('map_game_rounds')) || 0,
     hits: parseInt(localStorage.getItem('map_game_hits')) || 0,
-    
+
     // Quiz State
     questions: [],
     currentQuestionIdx: 0,
@@ -34,7 +34,7 @@ const els = {
     usernameDisplay: document.getElementById('display-username'),
     userBadgeContainer: document.getElementById('user-badge-container'),
     authPanel: document.getElementById('auth-panel'),
-    
+
     // Auth Forms and Tab Buttons
     tabLoginBtn: document.getElementById('tab-login-btn'),
     tabRegisterBtn: document.getElementById('tab-register-btn'),
@@ -46,7 +46,7 @@ const els = {
     registerConfirmEmail: document.getElementById('register-confirm-email'),
     registerPassword: document.getElementById('register-password'),
     btnLogout: document.getElementById('btn-logout'),
-    
+
     // Map Game Elements
     targetStreetDisplay: document.getElementById('target-street-display'),
     gamePoints: document.getElementById('game-points'),
@@ -61,7 +61,7 @@ const els = {
     btnNextStreet: document.getElementById('btn-next-street'),
     mapLimitStatusDisplay: document.getElementById('map-limit-status-display'),
     mapGuessesRemaining: document.getElementById('map-guesses-remaining'),
-    
+
     // Quiz Elements
     quizQuestionsContainer: document.getElementById('quiz-questions-container'),
     quizProgress: document.getElementById('quiz-progress'),
@@ -69,7 +69,7 @@ const els = {
     quizSummaryText: document.getElementById('quiz-summary-text'),
     quizScoreVal: document.getElementById('quiz-score-val'),
     btnGoToLeaderboard: document.getElementById('btn-go-to-leaderboard'),
-    
+
     // Leaderboard
     leaderboardLockedCard: document.getElementById('leaderboard-locked-card'),
     leaderboardCard: document.getElementById('leaderboard-card'),
@@ -93,7 +93,7 @@ document.addEventListener('DOMContentLoaded', () => {
     initUser();
     initMap();
     initAuthTabs();
-    
+
     // Setup event listeners
     els.themeToggle.addEventListener('click', toggleTheme);
     els.btnNextStreet.addEventListener('click', () => {
@@ -106,7 +106,7 @@ document.addEventListener('DOMContentLoaded', () => {
     els.loginForm.addEventListener('submit', handleLoginSubmit);
     els.registerForm.addEventListener('submit', handleRegisterSubmit);
     els.btnLogout.addEventListener('click', handleLogout);
-    
+
     if (els.btnGoToLeaderboard) {
         els.btnGoToLeaderboard.addEventListener('click', () => {
             syncDailyStats();
@@ -123,7 +123,7 @@ function toggleTheme() {
     state.theme = state.theme === 'dark-theme' ? 'light-theme' : 'dark-theme';
     document.body.className = state.theme;
     localStorage.setItem('santander_quiz_theme', state.theme);
-    
+
     // Update map tiles if map initialized
     if (state.map) {
         state.tileLayer.setUrl(TILE_URLS[state.theme]);
@@ -193,7 +193,7 @@ function initUser() {
             els.userBadgeContainer.classList.add('hidden');
         }
         els.btnLogout.classList.add('hidden');
-        
+
         // Show navigation bar, but disable all buttons except 'Inicio'
         const nav = document.querySelector('.app-nav');
         if (nav) {
@@ -212,7 +212,7 @@ function initUser() {
         switchTab('welcome-tab');
         return;
     }
-    
+
     // Load stats display
     els.gamePoints.textContent = state.points;
     els.gameRounds.textContent = state.rounds;
@@ -317,12 +317,12 @@ function handleLoginSubmit(e) {
         state.isRegistered = true;
         localStorage.setItem('santander_quiz_username', user.username);
         localStorage.setItem('santander_quiz_registered', 'true');
-        
+
         state.rounds = 0;
         state.hits = 0;
         localStorage.removeItem('map_game_rounds');
         localStorage.removeItem('map_game_hits');
-        
+
         initUser();
     })
     .catch(err => {
@@ -335,7 +335,7 @@ function handleRegisterSubmit(e) {
     const email = els.registerEmail.value.trim();
     const confirm_email = els.registerConfirmEmail.value.trim();
     const password = els.registerPassword.value;
-    
+
     if (!email || !confirm_email || !password) return;
 
     if (email !== confirm_email) {
@@ -372,12 +372,12 @@ function handleRegisterSubmit(e) {
         state.isRegistered = true;
         localStorage.setItem('santander_quiz_username', user.username);
         localStorage.setItem('santander_quiz_registered', 'true');
-        
+
         state.rounds = 0;
         state.hits = 0;
         localStorage.removeItem('map_game_rounds');
         localStorage.removeItem('map_game_hits');
-        
+
         initUser();
     })
     .catch(err => {
@@ -390,7 +390,7 @@ function handleLogout() {
     state.isRegistered = false;
     localStorage.removeItem('santander_quiz_username');
     localStorage.removeItem('santander_quiz_registered');
-    
+
     state.points = 0;
     state.rounds = 0;
     state.hits = 0;
@@ -408,11 +408,11 @@ function initMap() {
         maxZoom: 18,
         minZoom: 12
     }).setView(MAP_CENTER, ZOOM_LEVEL);
-    
+
     state.tileLayer = L.tileLayer(TILE_URLS[state.theme], {
         attribution: ATTRIBUTION
     }).addTo(state.map);
-    
+
     fetch('/quiz/boundary')
         .then(res => {
             if (!res.ok) throw new Error("Boundary endpoint not available");
@@ -426,7 +426,7 @@ function initMap() {
         .catch(err => {
             console.log("Boundary loading note: falls back to default layout", err);
         });
-        
+
     state.map.on('click', handleMapClick);
     loadNewTargetStreet();
 }
@@ -453,17 +453,17 @@ function loadNewTargetStreet() {
     if (state.guessMarker) state.map.removeLayer(state.guessMarker);
     if (state.streetLayer) state.map.removeLayer(state.streetLayer);
     if (state.projectionLine) state.map.removeLayer(state.projectionLine);
-    
+
     state.guessMarker = null;
     state.streetLayer = null;
     state.projectionLine = null;
-    
+
     els.resultPanel.classList.add('hidden');
     els.targetStreetDisplay.textContent = "Buscando calle...";
     state.gameActive = false;
-    
+
     state.map.setView(MAP_CENTER, ZOOM_LEVEL);
-    
+
     fetch('/quiz/random-street')
         .then(res => {
             if (!res.ok) throw new Error("Unable to fetch random street");
@@ -483,10 +483,10 @@ function loadNewTargetStreet() {
 function handleMapClick(e) {
     if (!state.gameActive) return;
     if (state.guessesRemaining <= 0) return;
-    
+
     state.gameActive = false;
     const clickLatLng = e.latlng;
-    
+
     state.guessMarker = L.marker(clickLatLng, {
         icon: L.divIcon({
             className: 'guess-pin-icon',
@@ -495,7 +495,7 @@ function handleMapClick(e) {
             iconAnchor: [15, 26]
         })
     }).addTo(state.map);
-    
+
     fetch('/quiz/guess-street', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -527,17 +527,17 @@ function displayGuessResult(clickLatLng, result) {
     const distance = result.distance_meters;
     const closestLatLng = L.latLng(result.closest_point.lat, result.closest_point.lng);
     const isCorrect = result.is_correct;
-    
+
     const roundScore = isCorrect ? 30 : 0;
-    
+
     state.rounds += 1;
     state.points += roundScore;
     if (isCorrect) state.hits += 1;
-    
+
     localStorage.setItem('map_game_rounds', state.rounds);
     localStorage.setItem('map_game_points', state.points);
     localStorage.setItem('map_game_hits', state.hits);
-    
+
     els.gamePoints.textContent = state.points;
     els.gameRounds.textContent = state.rounds;
     els.gameHits.textContent = state.hits;
@@ -546,7 +546,7 @@ function displayGuessResult(clickLatLng, result) {
         state.guessesRemaining = result.guesses_remaining;
         els.mapGuessesRemaining.textContent = `${state.guessesRemaining} / 10`;
     }
-    
+
     const streetStyle = {
         color: isCorrect ? '#00b894' : '#00cec9',
         weight: 6,
@@ -554,24 +554,24 @@ function displayGuessResult(clickLatLng, result) {
         lineJoin: 'round',
         lineCap: 'round'
     };
-    
+
     state.streetLayer = L.geoJSON(result.street_geometry, {
         style: streetStyle
     }).addTo(state.map);
-    
+
     state.projectionLine = L.polyline([clickLatLng, closestLatLng], {
         color: '#d63031',
         weight: 3,
         dashArray: '5, 8',
         opacity: 0.9
     }).addTo(state.map);
-    
+
     const bounds = L.latLngBounds([clickLatLng, closestLatLng]);
     state.map.fitBounds(bounds, { padding: [60, 60] });
-    
+
     els.resultPanel.classList.remove('hidden');
     els.resultCard = document.getElementById('result-panel');
-    
+
     if (isCorrect) {
         els.resultCard.className = "panel-card result-card success-result";
         els.resultTitle.textContent = "¡Acertaste! 🎉";
@@ -581,7 +581,7 @@ function displayGuessResult(clickLatLng, result) {
         els.resultCard.className = "panel-card result-card fail-result";
         els.resultTitle.textContent = "¡Casi! 🗺️";
         els.resultStatusBadge.textContent = "Fuera de rango";
-        
+
         if (distance < 100) {
             els.resultCommentary.textContent = "Muy cerca, te has desviado por pocos metros.";
         } else if (distance < 500) {
@@ -590,7 +590,7 @@ function displayGuessResult(clickLatLng, result) {
             els.resultCommentary.textContent = "Esa calle está ubicada en otra zona del municipio.";
         }
     }
-    
+
     els.resultDistance.textContent = `${distance.toLocaleString()} metros`;
     els.resultScore.textContent = `+${roundScore} pts`;
 
@@ -607,13 +607,13 @@ function displayGuessResult(clickLatLng, result) {
 function startDailyQuiz() {
     els.quizSummary.classList.add('hidden');
     els.quizQuestionsContainer.innerHTML = '<div class="loading-state"><p>Cargando preguntas de hoy...</p></div>';
-    
+
     state.questions = [];
     state.currentQuestionIdx = 0;
     state.quizCorrectAnswersCount = 0;
-    
+
     const userToQuery = (state.username && state.isRegistered) ? state.username : state.guestId;
-    
+
     fetch(`/quiz/daily?username=${encodeURIComponent(userToQuery)}`)
         .then(res => {
             if (!res.ok) throw new Error("Error loading daily questions");
@@ -642,7 +642,7 @@ function startDailyQuiz() {
                 } else {
                     state.currentQuestionIdx = unansweredIdx;
                 }
-                
+
                 renderQuizQuestion();
             }
         })
@@ -656,40 +656,40 @@ function renderQuizQuestion() {
     const qCount = state.questions.length;
     const progressPercent = (state.currentQuestionIdx / qCount) * 100;
     els.quizProgress.style.width = `${progressPercent}%`;
-    
+
     if (state.currentQuestionIdx >= qCount) {
         displayQuizSummary();
         return;
     }
-    
+
     const q = state.questions[state.currentQuestionIdx];
     els.quizQuestionsContainer.innerHTML = '';
-    
+
     const card = document.createElement('div');
     card.className = 'panel-card quiz-question-card';
-    
+
     const indexLabel = document.createElement('div');
     indexLabel.className = 'question-index';
     indexLabel.textContent = `Pregunta ${state.currentQuestionIdx + 1} de ${qCount}`;
     card.appendChild(indexLabel);
-    
+
     const promptText = document.createElement('h3');
     promptText.className = 'question-prompt';
     promptText.textContent = q.prompt;
     card.appendChild(promptText);
-    
+
     if (q.choices && q.choices.length > 0) {
         const choicesDiv = document.createElement('div');
         choicesDiv.className = 'choices-layout';
-        
+
         q.choices.forEach((choice, idx) => {
             const btn = document.createElement('button');
             btn.className = 'choice-btn';
             btn.dataset.choice = choice;
-            
+
             const letter = String.fromCharCode(65 + idx); // A, B, C, D
             btn.innerHTML = `<span class="choice-letter">${letter}</span> ${choice}`;
-            
+
             btn.addEventListener('click', () => submitChoiceAnswer(q.id, choice, btn, choicesDiv));
             choicesDiv.appendChild(btn);
         });
@@ -697,39 +697,39 @@ function renderQuizQuestion() {
     } else {
         const openDiv = document.createElement('div');
         openDiv.className = 'open-answer-layout';
-        
+
         const input = document.createElement('input');
         input.type = 'text';
         input.placeholder = 'Separa las calles con comas...';
         input.id = `input-open-q-${q.id}`;
         openDiv.appendChild(input);
-        
+
         const submitBtn = document.createElement('button');
         submitBtn.className = 'btn btn-primary';
         submitBtn.textContent = 'Enviar respuesta';
         submitBtn.addEventListener('click', () => submitOpenAnswer(q.id, input.value.trim(), openDiv));
         openDiv.appendChild(submitBtn);
-        
+
         card.appendChild(openDiv);
     }
-    
+
     els.quizQuestionsContainer.appendChild(card);
 }
 
 function submitChoiceAnswer(questionId, selectedChoice, clickedBtn, parentDiv) {
     const buttons = parentDiv.querySelectorAll('.choice-btn');
     buttons.forEach(b => b.disabled = true);
-    
+
     clickedBtn.classList.add('selected');
-    
+
     let answerArray = [selectedChoice];
     if (selectedChoice.includes(' -> ')) {
         answerArray = selectedChoice.split(' -> ');
     }
-    
+
     const userToQuery = (state.username && state.isRegistered) ? state.username : state.guestId;
     const url = `/quiz/${questionId}/answer?username=${encodeURIComponent(userToQuery)}`;
-    
+
     fetch(url, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -745,7 +745,7 @@ function submitChoiceAnswer(questionId, selectedChoice, clickedBtn, parentDiv) {
             state.quizCorrectAnswersCount += 1;
         } else {
             clickedBtn.className = "choice-btn incorrect-choice";
-            
+
             buttons.forEach(b => {
                 const bChoice = b.dataset.choice;
                 let matchesCorrect = false;
@@ -755,13 +755,13 @@ function submitChoiceAnswer(questionId, selectedChoice, clickedBtn, parentDiv) {
                 } else {
                     matchesCorrect = result.correct_answer.includes(bChoice);
                 }
-                
+
                 if (matchesCorrect) {
                     b.className = "choice-btn correct-choice";
                 }
             });
         }
-        
+
         setTimeout(() => {
             state.currentQuestionIdx += 1;
             renderQuizQuestion();
@@ -776,16 +776,16 @@ function submitChoiceAnswer(questionId, selectedChoice, clickedBtn, parentDiv) {
 
 function submitOpenAnswer(questionId, textVal, parentDiv) {
     if (!textVal) return;
-    
+
     const input = parentDiv.querySelector('input');
     const btn = parentDiv.querySelector('button');
     input.disabled = true;
     btn.disabled = true;
-    
+
     const answerArray = textVal.split(',').map(s => s.trim()).filter(s => s.length > 0);
     const userToQuery = (state.username && state.isRegistered) ? state.username : state.guestId;
     const url = `/quiz/${questionId}/answer?username=${encodeURIComponent(userToQuery)}`;
-    
+
     fetch(url, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -798,7 +798,7 @@ function submitOpenAnswer(questionId, textVal, parentDiv) {
     .then(result => {
         const feedback = document.createElement('div');
         feedback.className = `open-answer-feedback ${result.is_correct ? 'correct' : 'incorrect'}`;
-        
+
         const correctFormatted = result.correct_answer.join(', ');
         if (result.is_correct) {
             feedback.textContent = "¡Perfecto! Has identificado todas las calles conectadas correctamente.";
@@ -806,9 +806,9 @@ function submitOpenAnswer(questionId, textVal, parentDiv) {
         } else {
             feedback.innerHTML = `Incorrecto. Te faltaron calles o incluiste algunas erróneas.<br><strong>Respuesta correcta:</strong> ${correctFormatted}`;
         }
-        
+
         parentDiv.appendChild(feedback);
-        
+
         setTimeout(() => {
             state.currentQuestionIdx += 1;
             renderQuizQuestion();
@@ -827,15 +827,15 @@ function displayQuizSummary() {
     els.quizProgress.style.width = '100%';
     els.quizQuestionsContainer.innerHTML = '';
     els.quizSummary.classList.remove('hidden');
-    
+
     const correctCount = state.quizCorrectAnswersCount;
     const totalCount = state.questions.length;
-    
+
     els.quizSummaryText.textContent = `Has respondido correctamente a ${correctCount} de ${totalCount} preguntas diarias.`;
-    
+
     const quizAward = correctCount * 100;
     els.quizScoreVal.textContent = `+${quizAward} pts`;
-    
+
     if (state.username && state.isRegistered) {
         // Sync stats to lock tabs and reveal classification
         syncDailyStats();
@@ -857,11 +857,11 @@ function loadLeaderboard() {
         els.leaderboardCard.classList.add('hidden');
         return;
     }
-    
+
     els.leaderboardLockedCard.classList.add('hidden');
     els.leaderboardCard.classList.remove('hidden');
-    els.leaderboardBody.innerHTML = '<tr><td colspan="5" class="text-center">Cargando clasificación...</td></tr>';
-    
+    els.leaderboardBody.innerHTML = '<tr><td colspan="3" class="text-center">Cargando clasificación...</td></tr>';
+
     fetch(`/quiz/leaderboard?username=${encodeURIComponent(state.username)}`)
         .then(res => {
             if (!res.ok) throw new Error("Leaderboard loading error");
@@ -869,15 +869,15 @@ function loadLeaderboard() {
         })
         .then(data => {
             els.leaderboardBody.innerHTML = '';
-            
+
             if (data.length === 0) {
-                els.leaderboardBody.innerHTML = '<tr><td colspan="5" class="text-center">No hay registros todavía. ¡Sé el primero!</td></tr>';
+                els.leaderboardBody.innerHTML = '<tr><td colspan="3" class="text-center">No hay registros todavía. ¡Sé el primero!</td></tr>';
                 return;
             }
-            
+
             data.forEach((entry, idx) => {
                 const tr = document.createElement('tr');
-                
+
                 const tdRank = document.createElement('td');
                 const rankNum = idx + 1;
                 const rankSpan = document.createElement('span');
@@ -885,32 +885,23 @@ function loadLeaderboard() {
                 rankSpan.textContent = rankNum;
                 tdRank.appendChild(rankSpan);
                 tr.appendChild(tdRank);
-                
+
                 const tdUser = document.createElement('td');
                 tdUser.textContent = entry.username;
                 if (entry.username === state.username) {
                     tdUser.innerHTML = `<strong>${entry.username} (Tú)</strong>`;
                 }
                 tr.appendChild(tdUser);
-                
-                const tdAnswered = document.createElement('td');
-                tdAnswered.textContent = entry.answered_questions;
-                tr.appendChild(tdAnswered);
-                
+
                 const tdPoints = document.createElement('td');
                 tdPoints.textContent = entry.total_points;
                 tr.appendChild(tdPoints);
-                
-                const tdAccuracy = document.createElement('td');
-                const accuracyPct = Math.round(entry.accuracy * 100);
-                tdAccuracy.textContent = `${accuracyPct}%`;
-                tr.appendChild(tdAccuracy);
-                
+
                 els.leaderboardBody.appendChild(tr);
             });
         })
         .catch(err => {
             console.error("Error loading leaderboard:", err);
-            els.leaderboardBody.innerHTML = '<tr><td colspan="5" class="text-center text-danger">Error al cargar ranking de clasificación.</td></tr>';
+            els.leaderboardBody.innerHTML = '<tr><td colspan="3" class="text-center text-danger">Error al cargar ranking de clasificación.</td></tr>';
         });
 }

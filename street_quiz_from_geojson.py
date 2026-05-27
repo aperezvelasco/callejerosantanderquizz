@@ -8,7 +8,6 @@ import json
 import sys
 from datetime import date
 from pathlib import Path
-from typing import List, Optional
 
 from app.services.callejero import StreetGraph
 from app.services.question_generator import QuestionGenerator
@@ -36,8 +35,7 @@ def handle_build(streets_path: str, save_path: str) -> None:
     for node in graph.graph.nodes:
         canonical_name = graph.canonical_names[node]
         neighbors = [
-            graph.canonical_names[neighbor]
-            for neighbor in graph.graph.neighbors(node)
+            graph.canonical_names[neighbor] for neighbor in graph.graph.neighbors(node)
         ]
         adjacency[canonical_name] = sorted(neighbors)
 
@@ -46,7 +44,9 @@ def handle_build(streets_path: str, save_path: str) -> None:
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(adjacency, f, ensure_ascii=False, indent=2)
 
-    print(f"Successfully built graph with {graph.graph.number_of_nodes()} nodes and {graph.graph.number_of_edges()} edges.")
+    print(
+        f"Successfully built graph with {graph.graph.number_of_nodes()} nodes and {graph.graph.number_of_edges()} edges."
+    )
     print(f"Saved adjacency list to {out_path}")
 
 
@@ -128,7 +128,7 @@ def handle_quiz(streets_path: str, n: int, out_path: str, types_str: str) -> Non
 
     # Filter generated questions by type if needed
     allowed_types = [t.strip().upper() for t in types_str.split(",") if t.strip()]
-    
+
     payload = []
     for index, q in enumerate(questions, start=1):
         q_type_upper = q.question_type.upper()
@@ -141,28 +141,32 @@ def handle_quiz(streets_path: str, n: int, out_path: str, types_str: str) -> Non
 
         # Check if the type is requested
         if mapped_type in allowed_types or q.question_type in allowed_types:
-            payload.append({
-                "id": index,
-                "question_type": q.question_type,
-                "prompt": q.prompt,
-                "choices": q.choices,
-                "answer": q.answer,
-                "answer_guide": q.answer_guide,
-                "metadata": q.metadata
-            })
+            payload.append(
+                {
+                    "id": index,
+                    "question_type": q.question_type,
+                    "prompt": q.prompt,
+                    "choices": q.choices,
+                    "answer": q.answer,
+                    "answer_guide": q.answer_guide,
+                    "metadata": q.metadata,
+                }
+            )
 
     # If the list is empty, write all generated questions
     if not payload:
         for index, q in enumerate(questions, start=1):
-            payload.append({
-                "id": index,
-                "question_type": q.question_type,
-                "prompt": q.prompt,
-                "choices": q.choices,
-                "answer": q.answer,
-                "answer_guide": q.answer_guide,
-                "metadata": q.metadata
-            })
+            payload.append(
+                {
+                    "id": index,
+                    "question_type": q.question_type,
+                    "prompt": q.prompt,
+                    "choices": q.choices,
+                    "answer": q.answer,
+                    "answer_guide": q.answer_guide,
+                    "metadata": q.metadata,
+                }
+            )
 
     output_file = Path(out_path)
     output_file.parent.mkdir(parents=True, exist_ok=True)
@@ -177,34 +181,62 @@ def main() -> None:
     parser = argparse.ArgumentParser(
         description="CLI tool to build connectivity graphs and generate quizzes from streets GeoJSON."
     )
-    subparsers = parser.add_subparsers(dest="command", required=True, help="Subcommand to run.")
+    subparsers = parser.add_subparsers(
+        dest="command", required=True, help="Subcommand to run."
+    )
 
     # 1. build subcommand
-    parser_build = subparsers.add_parser("build", help="Build connectivity graph and save to JSON.")
-    parser_build.add_argument("--streets", type=str, required=True, help="Path to streets GeoJSON.")
-    parser_build.add_argument("--save", type=str, required=True, help="Path to save JSON adjacency.")
+    parser_build = subparsers.add_parser(
+        "build", help="Build connectivity graph and save to JSON."
+    )
+    parser_build.add_argument(
+        "--streets", type=str, required=True, help="Path to streets GeoJSON."
+    )
+    parser_build.add_argument(
+        "--save", type=str, required=True, help="Path to save JSON adjacency."
+    )
 
     # 2. path subcommand
-    parser_path = subparsers.add_parser("path", help="Find shortest path between two streets.")
-    parser_path.add_argument("--streets", type=str, required=True, help="Path to streets GeoJSON.")
-    parser_path.add_argument("--src", type=str, required=True, help="Source street name.")
-    parser_path.add_argument("--dst", type=str, required=True, help="Destination street name.")
+    parser_path = subparsers.add_parser(
+        "path", help="Find shortest path between two streets."
+    )
+    parser_path.add_argument(
+        "--streets", type=str, required=True, help="Path to streets GeoJSON."
+    )
+    parser_path.add_argument(
+        "--src", type=str, required=True, help="Source street name."
+    )
+    parser_path.add_argument(
+        "--dst", type=str, required=True, help="Destination street name."
+    )
 
     # 3. intersects subcommand
-    parser_intersects = subparsers.add_parser("intersects", help="List intersecting streets.")
-    parser_intersects.add_argument("--streets", type=str, required=True, help="Path to streets GeoJSON.")
-    parser_intersects.add_argument("--street", type=str, required=True, help="Target street name.")
+    parser_intersects = subparsers.add_parser(
+        "intersects", help="List intersecting streets."
+    )
+    parser_intersects.add_argument(
+        "--streets", type=str, required=True, help="Path to streets GeoJSON."
+    )
+    parser_intersects.add_argument(
+        "--street", type=str, required=True, help="Target street name."
+    )
 
     # 4. quiz subcommand
     parser_quiz = subparsers.add_parser("quiz", help="Generate random quiz questions.")
-    parser_quiz.add_argument("--streets", type=str, required=True, help="Path to streets GeoJSON.")
-    parser_quiz.add_argument("-n", type=int, default=10, help="Number of questions to generate.")
-    parser_quiz.add_argument("--out", type=str, required=True, help="Path to save JSON quiz.")
+    parser_quiz.add_argument(
+        "--streets", type=str, required=True, help="Path to streets GeoJSON."
+    )
+    parser_quiz.add_argument(
+        "-n", type=int, default=10, help="Number of questions to generate."
+    )
+    parser_quiz.add_argument(
+        "--out", type=str, required=True, help="Path to save JSON quiz."
+    )
     parser_quiz.add_argument(
         "--types",
         type=str,
         default="path,intersects,count,open_intersections",
-        help="Comma-separated question types (path, intersects, count, open_intersections)."
+        help="Comma-separated question types (path, intersects, count, open_intersections).",
     )
 
     args = parser.parse_args()
